@@ -20,7 +20,25 @@ function setSearchLabel(){let x=byId[selected];if(x)$("#personSearch").value=per
 function closeResults(){$("#personResults").hidden=true;$("#personResults").innerHTML=""}
 function showResults(query=""){
  let q=norm(query), rows=P;
- if(q){let terms=q.split(/\s+/).filter(Boolean);rows=P.filter(x=>{let hay=norm([x.name,gen(x.generation),x.parent_name,x.person_id].join(" "));return terms.every(t=>hay.includes(t))})}
+ if(q){
+   let terms=q.split(/\s+/).filter(Boolean);
+   rows=P.filter(x=>{
+     let hay=norm([x.name,gen(x.generation),x.parent_name,x.person_id].join(" "));
+     return terms.every(t=>hay.includes(t));
+   }).sort((a,b)=>{
+     let an=norm(a.name), bn=norm(b.name);
+     const rank=n=>{
+       if(n===q)return 0;          // tên trùng chính xác
+       if(n.startsWith(q))return 1; // tên bắt đầu bằng chuỗi tìm
+       if(n.includes(q))return 2;   // tên có chứa chuỗi tìm
+       return 3;                    // khớp qua đời/cha/mã
+     };
+     return rank(an)-rank(bn)
+       || Number(a.generation||999)-Number(b.generation||999)
+       || an.localeCompare(bn,"vi")
+       || String(a.person_id).localeCompare(String(b.person_id));
+   });
+ }
  rows=rows.slice(0,30);let box=$("#personResults");
  if(!rows.length){box.innerHTML='<div class="person-empty">Không tìm thấy người phù hợp</div>';box.hidden=false;return}
  box.innerHTML=rows.map(x=>`<button type="button" class="person-result" data-id="${x.person_id}"><span>${esc(x.name)}</span><small>${esc(gen(x.generation))}${val(x.parent_name)?` • con ${esc(x.parent_name)}`:""} • ${esc(x.person_id)}</small></button>`).join("");
