@@ -1,0 +1,987 @@
+name,generation,role,family_head,birth,death,burial,note,source_line
+Lê Bá Mộc,1,Ông,,,13.10,"Trà Trì, Hải Xuân",Con Ông Huỳnh.,343
+Tịnh Bà,1,Bà / phối ngẫu,Lê Bá Mộc,,,"Trà Trì, Hải Xuân",,345
+Lê Bá Tòng,2,Con,Lê Bá Mộc,,,"Trà Trì, Hải Xuân",,349
+Lê Bá Võ,2,Con,Lê Bá Mộc,,,"Trà Trì, Hải Xuân",,350
+Lê Bá Viên,2,Con,Lê Bá Mộc,,,"Trà Trì, Hải Xuân",Lưu về gia phả Phái Nhất,351
+Lê Thanh Tùng,1,Ông,,,9.10,"Lâm Lộc, Trà Trì, Hải",Con Ông Huỳnh.,373
+Tịnh Bà,1,Bà / phối ngẫu,Lê Thanh Tùng,,,"Trà Trì, Hải Xuân",,377
+Lê Thanh Phong,2,Con,Lê Thanh Tùng,,,"Trà Trì, Hải Xuân.",,381
+Lê Thanh Trăn,2,Con,Lê Thanh Tùng,,11.10,"Ông Vần, Trà Trì, Hải",,382
+Lê Thanh Trăn,2,Ông,,,11.10,"Ông Vần, Trà Trì, Hải",Con Ông Tùng.,415
+Tịnh Bà,2,Bà / phối ngẫu,Lê Thanh Trăn,,,"Trà Trì, Hải Xuân",,417
+Lê Tất Thắng,3,Con,Lê Thanh Trăn,,21.4,"Trà Trì, Hải Xuân",Xã Trưởng.,421
+Lê Tất Văn,3,Con,Lê Thanh Trăn,,,,Lưu về Gia phả Chi Nhì.,422
+Lê Tất Thắng,3,Ông,,,21.4,"Trà Trì, Hải Xuân.",Con Ông Trăn.,455
+Trị,3,Bà / phối ngẫu,Lê Tất Thắng,,26.10,"Trà Trì, Hải Xuân.",,457
+Lê Tất Dõng,4,Con,Lê Tất Thắng,,8.8,"Trà Trì, Hải Xuân.",Xã Trưởng.,461
+Lê Tất Dõng,4,Ông,,,8.8,"Trà Trì, Hải Xuân.",Con Ông Thắng.,496
+Lê Thị An,4,Bà / phối ngẫu,Lê Tất Dõng,,8.1,"Trà Trì, Hải Xuân.",,498
+Lê Đức Thông,5,Con,Lê Tất Dõng,Giáp Tý,28.5,"Trà Trì, Hải Xuân.",,502
+Lê Đức Thông,5,Ông,,Giáp Tý,28.5,"Trà Trì, Hải Xuân.",Con Ông Dõng.,537
+Nguyễn Thị Lợi,5,Bà / phối ngẫu,Lê Đức Thông,Tân Mùi,7.3,"Trà Trì, Hải Xuân.",,539
+Lê Đức Thính,6,Con,Lê Đức Thông,,27.3,"Trà Trì, Hải Xuân.",Vô tự.,544
+Lê Đức Duệ,6,Con,Lê Đức Thông,Canh Tý,22.7,"Trà Trì, Hải Xuân.",,545
+Lê Thị Lộ,6,Con,Lê Đức Thông,,21.4,"Trà Trì, Hải Xuân.",,547
+Lê Đức Duận,6,Con,Lê Đức Thông,,,"Trà Trì, Hải Xuân.",Lưu về Gia phả Đầu Nhì.,548
+Lê Đức Duệ,6,Ông,,Canh Tý,22.7,"Trà Trì, Hải Xuân.",Con Ông Thông.,580
+Lê Thị Lợi,6,Bà / phối ngẫu,Lê Đức Duệ,,8.10,"Trà Trì, Hải Xuân.",,582
+Lê Viết Trí,7,Con,Lê Đức Duệ,,8.11,"Cồn Chơi, Trà Trì, Hải",Lưu về Gia phả riêng (1).,586
+Lê Viết Kiên (Khiên),7,Con,Lê Đức Duệ,,5.4,"Trà Trì, Hải Xuân.",,588
+Lê Viết Kiên (Khiên),7,Ông,,,5.4,"Trà Trì, Hải Xuân.",Con Ông Duệ.,622
+Lê Thị Tỵ,7,Bà / phối ngẫu,Lê Viết Kiên (Khiên),,26.4,"Trà Trì, Hải Xuân.",,623
+Lê Viết Liên (Nghị),8,Con,Lê Viết Kiên (Khiên),,5.7,"Trà Trì, Hải Xuân.",,627
+Lê Viết Liên (Nghị),8,Ông,,,5.7,"Trà Trì, Hải Xuân.",Con Ông Kiên (Khiên).,662
+Bằng Thị An,8,Bà / phối ngẫu,Lê Viết Liên (Nghị),,12.5,"Trà Trì, Hải Xuân.",,663
+Nguyễn Thị Nhơn,8,Bà / phối ngẫu,Lê Viết Liên (Nghị),,,"Trà Trì, Hải Xuân.",,664
+Lê Viết Ánh,9,Con,Lê Viết Liên (Nghị),Ất Hợi,29.1,"Trà Trì, Hải Xuân.",Con Bà An.,667
+Lê Thị Trinh,9,Con,Lê Viết Liên (Nghị),,,"Trà Trì, Hải Xuân.",,668
+Lê Thị Bửu,9,Con,Lê Viết Liên (Nghị),,,"Trà Trì, Hải Xuân.",,669
+Lê Thị Xuyến,9,Con,Lê Viết Liên (Nghị),,,"Trà Trì, Hải Xuân.",,670
+Lê Thị Ngoãn,9,Con,Lê Viết Liên (Nghị),,,"Trà Trì, Hải Xuân.",,671
+Lê Thị Bướm,9,Con,Lê Viết Liên (Nghị),,,"Trà Trì, Hải Xuân.",,672
+Lê Thị Đĩ,9,Con,Lê Viết Liên (Nghị),,,"Trà Trì, Hải Xuân.",Con Bà Nhơn.,673
+Lê Thị Du,9,Con,Lê Viết Liên (Nghị),,,"Trà Trì, Hải Xuân.",,674
+Lê Thị Mễ,9,Con,Lê Viết Liên (Nghị),,,"Trà Trì, Hải Xuân.",,675
+Lê Thị Châu,9,Con,Lê Viết Liên (Nghị),,,"Trà Trì, Hải Xuân.",,676
+Lê Viết Ánh,9,Ông,,Ất Hợi,29.1,"Trà Trì, Hải Xuân.",Con Ông Liên (Nghị).,702
+Nguyễn Thị Hệ,9,Bà / phối ngẫu,Lê Viết Ánh,,23.2,"Trà Trì, Hải Xuân.",,703
+Lê Viết Thuỳ,10,Con,Lê Viết Ánh,29.1,30.10,"Trà Trì, Hải Xuân.",,707
+Lê Viết Luận (Hậu),10,Con,Lê Viết Ánh,12.4,15.2,"Trà Trì, Hải Xuân.",,709
+Lê Viết Trọng,10,Con,Lê Viết Ánh,20.11,,"Trà Trì, Hải Xuân.",,711
+Lê Viết Dụng,10,Con,Lê Viết Ánh,16.9,22.2,"Trà Trì, Hải Xuân.",,713
+Lê Viết Chóp,10,Con,Lê Viết Ánh,,20.3,"Trà Trì, Hải Xuân.",,715
+Lê Viết Luật,10,Con,Lê Viết Ánh,,15.3,"Trà Trì, Hải Xuân.",,716
+Lê Thị Bình,10,Con,Lê Viết Ánh,,,"Trà Trì, Hải Xuân.",,717
+Lê Viết Thuỳ,10,Ông,,29.1,30.10,"Trà Trì, Hải Xuân.",Con Ông Ánh.,744
+Lê Thị Bái (Phải),10,Bà / phối ngẫu,Lê Viết Thuỳ,,5.5,"Cồn Xanh, Trà Trì, Hải",,746
+Nguyễn Thị Thiệp,10,Bà / phối ngẫu,Lê Viết Thuỳ,,,"Trà Trì, Hải Xuân.",,748
+Lê Viết Chuyên,11,Con,Lê Viết Thuỳ,,15.11,"Trà Trì, Hải Xuân.",Con Bà Bái.,751
+Lê Viết Khoáng,11,Con,Lê Viết Thuỳ,,,"Trà Trì, Hải Xuân.",,752
+Lê Viết Thiện,11,Con,Lê Viết Thuỳ,,6.5,"Trà Trì, Hải Xuân.",,753
+Lê Viết Hãnh,11,Con,Lê Viết Thuỳ,,9.1,"Trà Trì, Hải Xuân.",Hội Chủ kiêm Thủ Bộ.,754
+Lê Thị Yên,11,Con,Lê Viết Thuỳ,,,"Trà Trì, Hải Xuân.",,755
+Lê Thị Đức,11,Con,Lê Viết Thuỳ,,20.3,"Trà Trì, Hải Xuân.",,756
+Lê Viết Năm,11,Con,Lê Viết Thuỳ,,26.5,"Trà Trì, Hải Xuân.",Con Bà Thiệp,757
+Lê Thị Diêm,11,Con,Lê Viết Thuỳ,,,"Trà Trì, Hải Xuân.",,758
+Lê Thị Diệm,11,Con,Lê Viết Thuỳ,,,"Trà Trì, Hải Xuân.",,759
+Lê Viết Luận (Hậu),10,Ông,,12.4,15.2,"Trà Trì, Hải Xuân.",Con Ông Ánh.,775
+Lê Thị Thể,10,Bà / phối ngẫu,Lê Viết Luận (Hậu),,12.3,"Trà Trì, Hải Xuân.",,777
+Lê Viết Phổ (Trứ),11,Con,Lê Viết Luận (Hậu),,4.12,"Trà Trì, Hải Xuân.",,781
+Lê Viết Trung,11,Con,Lê Viết Luận (Hậu),,,"Trà Trì, Hải Xuân.",,782
+Lê Viết Trực,11,Con,Lê Viết Luận (Hậu),,20.8,"Trà Trì, Hải Xuân.",,783
+Lê Thị Hán,11,Con,Lê Viết Luận (Hậu),,,"Trà Trì, Hải Xuân.",,784
+Lê Thị Hai,11,Con,Lê Viết Luận (Hậu),,,"Trà Trì, Hải Xuân.",,785
+Lê Thị Dặng,11,Con,Lê Viết Luận (Hậu),,,"Trà Trì, Hải Xuân.",,786
+Lê Viết Dụng,10,Ông,,16.9,22.2,"Trà Trì, Hải Xuân.",Con Ông Ánh.,806
+Nguyễn Thị Ninh,10,Bà / phối ngẫu,Lê Viết Dụng,Kỷ Hợi,6.2,"Trà Trì, Hải Xuân.",,808
+Lê Viết Đạt,11,Con,Lê Viết Dụng,Nhâm Tuất,29.12,"Trà Trì, Hải Xuân.",Lý Trưởng kiêm Hội Chủ.,813
+Lê Viết Chỉ,11,Con,Lê Viết Dụng,,28.12,"Trà Trì, Hải Xuân.",,814
+Lê Viết Tín,11,Con,Lê Viết Dụng,Canh Ngọ,6.1,"Trà Trì, Hải Xuân.",Thủ Bộ.,815
+Lê Thị Nguyên,11,Con,Lê Viết Dụng,,,"Trà Trì, Hải Xuân.",,816
+Lê Thị Lãnh,11,Con,Lê Viết Dụng,,,"Trà Trì, Hải Xuân.",,817
+Lê Thị Lâu,11,Con,Lê Viết Dụng,,,"Trà Trì, Hải Xuân.",,818
+Lê Thị Linh (Lanh),11,Con,Lê Viết Dụng,,,"Trà Trì, Hải Xuân.",,819
+Lê Thị Huy,11,Con,Lê Viết Dụng,,,"Trà Trì, Hải Xuân.",,820
+Lê Viết Khoáng,11,Ông,,,,"Trà Trì, Hải Xuân.",Con Ông Thuỳ.,848
+Lê Viết Bốn,12,Con,Lê Viết Khoáng,,7.11,"Trà Trì, Hải Xuân.",,853
+Lê Viết Thiện,11,Ông,,,6.5,"Trà Trì, Hải Xuân.",Con Ông Thuỳ.,878
+Nguyễn Thị Hoa,11,Bà / phối ngẫu,Lê Viết Thiện,,2.10,"Trà Trì, Hải Xuân.",,879
+Lê Viết Xuân,12,Con,Lê Viết Thiện,,9.7,"Cồn xa, Tứ Chánh, Phong",,883
+Lê Viết Thu,12,Con,Lê Viết Thiện,,,"Trà Trì, Hải Xuân.",,885
+Lê Viết Đông,12,Con,Lê Viết Thiện,,,"Trà Trì, Hải Xuân.",,886
+Lê Thị Tâm,12,Con,Lê Viết Thiện,,,"Trà Trì, Hải Xuân.",,887
+Lê Viết Hãnh,11,Ông,,,9.1,"Trà Trì, Hải Xuân.",Con Ông Thuỳ.,908
+Hoàng Thị Cởi (Cải),11,Bà / phối ngẫu,Lê Viết Hãnh,,20.3,"Trà Trì, Hải Xuân.",,910
+Lê Thị Tuyên,12,Con,Lê Viết Hãnh,,,"Trà Trì, Hải Xuân.",,914
+Lê Viết Dượng,12,Con,Lê Viết Hãnh,,5.4,"Trà Trì, Hải Xuân.",,915
+Lê Viết Huân,12,Con,Lê Viết Hãnh,,26.2,"Trà Trì, Hải Xuân.",,917
+Lê Viết Điện,12,Con,Lê Viết Hãnh,Đinh Dậu,5.2,"Trà Trì, Hải Xuân.",,918
+Lê Viết Lý,12,Con,Lê Viết Hãnh,,,"Trà Trì, Hải Xuân.",,920
+Lê Viết Sự,12,Con,Lê Viết Hãnh,Quý Mão,5.2,"Trà Trì, Hải Xuân.",,921
+Lê Thị Tuyên (Thuyên),12,Con,Lê Viết Hãnh,,,"Trà Trì, Hải Xuân.",,922
+Lê Thị Tình,12,Con,Lê Viết Hãnh,,,"Trà Trì, Hải Xuân.",,923
+Lê Viết Năm,11,Ông,,,26.5,"Trà Trì, Hải Xuân.",Con Ông Thuỳ.,940
+Nguyễn Thị Lê,11,Bà / phối ngẫu,Lê Viết Năm,,,"Trà Trì, Hải Xuân.",,941
+Lê Viết Đới,12,Con,Lê Viết Năm,,,"Trà Trì, Hải Xuân.",,945
+Lê Thị Biện (Bẹn),12,Con,Lê Viết Năm,,,"Trà Trì, Hải Xuân.",,946
+Lê Viết Phổ (Trứ),11,Ông,,,4.12,"Trà Trì, Hải Xuân.",Con Ông Luận.,970
+Lê Thị Thụ (Phụ),11,Bà / phối ngẫu,Lê Viết Phổ (Trứ),,,"Trà Trì, Hải Xuân.",,971
+Nguyễn Thị Để,11,Bà / phối ngẫu,Lê Viết Phổ (Trứ),,30.12,"Trà Trì, Hải Xuân.",,972
+…,11,Bà / phối ngẫu,Lê Viết Phổ (Trứ),,,,,973
+Lê Viết Cầu,12,Con,Lê Viết Phổ (Trứ),,,"Trà Trì, Hải Xuân.",Con Bà Thụ.,975
+Lê Viết Thạnh,12,Con,Lê Viết Phổ (Trứ),,,"Trà Trì, Hải Xuân.",Con Bà Để.,976
+Lê Viết Đức,12,Con,Lê Viết Phổ (Trứ),,,"Trà Trì, Hải Xuân.",Con Bà Để.,977
+Lê Viết Phước (Phúc),12,Con,Lê Viết Phổ (Trứ),,,"Trà Trì, Hải Xuân.",Con Bà 3.,978
+Lê Viết Trực,11,Ông,,,20.8,"Trà Trì, Hải Xuân.",Con Ông Luận.,999
+Lê Thị Kiểm,11,Bà / phối ngẫu,Lê Viết Trực,,11.7,"Trà Trì, Hải Xuân.",,1000
+Lê Thị Mót,11,Bà / phối ngẫu,Lê Viết Trực,,,"Trà Trì, Hải Xuân.",,1001
+Lê Viết Ứng,12,Con,Lê Viết Trực,,,"Trà Trì, Hải Xuân.",Con Bà Mót.,1005
+Lê Viết Nghĩa,12,Con,Lê Viết Trực,,,"Trà Trì, Hải Xuân.",Con Bà Kiểm.,1006
+Lê Viết Diệm (Dỏ),12,Con,Lê Viết Trực,,,"Trà Trì, Hải Xuân.",,1007
+Lê Viết Dặt,12,Con,Lê Viết Trực,,,"Trà Trì, Hải Xuân.",,1008
+Lê Thị Lương,12,Con,Lê Viết Trực,,,"Trà Trì, Hải Xuân.",,1009
+Lê Viết Đạt,11,Ông,,Nhâm Tuất,29.12,"Trà Trì, Hải Xuân.",Con Ông Dụng.,1029
+Nguyễn Thị Khiên (Thiêu),11,Bà / phối ngẫu,Lê Viết Đạt,Quý Hợi,23.11,"Trà Trì, Hải Xuân.",,1031
+Tịnh Bà,11,Bà / phối ngẫu,Lê Viết Đạt,,,"Trà Trì, Hải Xuân.",,1032
+Lê Thị Thuyên (Thoan),12,Con,Lê Viết Đạt,,,"Trà Trì, Hải Xuân.",Con Bà Khiên.,1035
+Lê Thị Hộ,12,Con,Lê Viết Đạt,,,"Trà Trì, Hải Xuân.",,1036
+Lê Viết Tạo,12,Con,Lê Viết Đạt,,,"Trà Trì, Hải Xuân.",,1037
+Lê Thị Lội (Lài),12,Con,Lê Viết Đạt,,,"Trà Trì, Hải Xuân.",,1038
+Lê Thị Huệ,12,Con,Lê Viết Đạt,,,"Trà Trì, Hải Xuân.",,1039
+Lê Viết Miên (Cẩm),12,Con,Lê Viết Đạt,,,"Trà Trì, Hải Xuân.",,1040
+Lê Viết Nghinh (Đệ),12,Con,Lê Viết Đạt,,,"Trà Trì, Hải Xuân.",Con Bà 2.,1041
+Lê Thị Kiên,12,Con,Lê Viết Đạt,,,"Trà Trì, Hải Xuân.",,1042
+Lê Viết Chỉ,11,Ông,,,28.12,"Trà Trì, Hải Xuân.",Con Ông Dụng.,1060
+Nguyễn Thị Đặc,11,Bà / phối ngẫu,Lê Viết Chỉ,,11.11,"Trà Trì, Hải Xuân.",,1061
+Lê Viết Lại (Lội),12,Con,Lê Viết Chỉ,,,"Trà Trì, Hải Xuân.",,1065
+Lê Viết Cóc (Lợn/Lạc),12,Con,Lê Viết Chỉ,,,"Trà Trì, Hải Xuân.",,1066
+Lê Thị Thảo,12,Con,Lê Viết Chỉ,,,"Trà Trì, Hải Xuân.",,1067
+Lê Thị Phái,12,Con,Lê Viết Chỉ,,,"Trà Trì, Hải Xuân.",,1068
+Lê Viết Tín,11,Ông,,Canh Ngọ,6.1,"Trà Trì, Hải Xuân.",Con Ông Dụng.,1090
+Nguyễn Thị Khiu (Kiểu),11,Bà / phối ngẫu,Lê Viết Tín,Kỷ Mẹo,,"Trà Trì, Hải Xuân.",,1092
+Lê Viết Nguyện,12,Con,Lê Viết Tín,,,"Trà Trì, Hải Xuân.",,1096
+Lê Viết Hạnh,12,Con,Lê Viết Tín,,28.9,"Trà Trì, Hải Xuân.",,1097
+Lê Thị Thân,12,Con,Lê Viết Tín,,,"Trà Trì, Hải Xuân.",,1098
+Lê Viết Chiêu,12,Con,Lê Viết Tín,,,"Trà Trì, Hải Xuân.",,1099
+Lê Viết Trứ,12,Con,Lê Viết Tín,,,"Trà Trì, Hải Xuân.",,1100
+Lê Viết Cừu (Cử),12,Con,Lê Viết Tín,,,"Trà Trì, Hải Xuân.",,1101
+Lê Thị Chiểu,12,Con,Lê Viết Tín,,,"Trà Trì, Hải Xuân.",,1102
+Lê Viết Xuân,12,Ông,,,9.7,"Cồn xa, Tứ Chánh, Phong",Con Ông Thiện.,1131
+Nguyễn Thị Huy,12,Bà / phối ngẫu,Lê Viết Xuân,,21.5,"Đồng Trường, Tứ Chánh,",,1133
+Lê Thị Núc,13,Con,Lê Viết Xuân,,29.4,"Cồn xa, Tứ Chánh.",,1138
+Lê Thị Niêu,13,Con,Lê Viết Xuân,,17.2,"Cồn dâu, Tứ Chánh.",,1139
+Lê Viết Hương,13,Con,Lê Viết Xuân,,16.7,"Đùng phe, Tứ Chánh",,1140
+Lê Viết Ba (Hoa),13,Con,Lê Viết Xuân,,16.7,"Đùng phe, Tứ Chánh",,1141
+Lê Viết Tường (Dương),13,Con,Lê Viết Xuân,,16.7,"Đùng phe, Tứ Chánh",,1142
+Lê Thị Chắt,13,Con,Lê Viết Xuân,,,"Cồn dâu, Tứ Chánh.",,1143
+Lê Viết Cảnh (Tịnh),13,Con,Lê Viết Xuân,,24.7,"Ngã Ba, Tứ Chánh.",,1144
+Lê Viết Hưu,13,Con,Lê Viết Xuân,,27.12,"Bàu Ốc, Sơn Quả.",,1145
+Lê Viết Thu,12,Ông,,,26.5,"Trà Trì, Hải Xuân.",Con Ông Thiện.,1159
+Lê Thị Thành,12,Bà / phối ngẫu,Lê Viết Thu,,,"Trà Trì, Hải Xuân.",,1160
+Lê Thị Tý,13,Con,Lê Viết Thu,,,"Trà Trì, Hải Xuân.",,1164
+Lê Thị Mẹo,13,Con,Lê Viết Thu,,,"Trà Trì, Hải Xuân.",,1165
+Lê Thị Còi (Thìn),13,Con,Lê Viết Thu,,,"Trà Trì, Hải Xuân.",,1167
+Lê Viết Tỵ,13,Con,Lê Viết Thu,,,"Trà Trì, Hải Xuân.",,1168
+Lê Viết Dượng,12,Ông,,,5.4,"Trà Trì, Hải Xuân.",Con Ông Hãnh.,1189
+Nguyễn Thị Tĩnh,12,Bà / phối ngẫu,Lê Viết Dượng,,,"Trà Trì, Hải Xuân.",,1190
+Lê Viết Chiêm,13,Con,Lê Viết Dượng,,,"Trà Trì, Hải Xuân.",,1194
+Lê Viết Ngưỡng,13,Con,Lê Viết Dượng,,,"Trà Trì, Hải Xuân.",,1195
+Lê Viết Huân,12,Ông,,,26.2,"Trà Trì, Hải Xuân.",Con Ông Hãnh.,1219
+Nguyễn Thị Hanh,12,Bà / phối ngẫu,Lê Viết Huân,,,"Trà Trì, Hải Xuân.",,1220
+Lê Thị Quế (Giai),13,Con,Lê Viết Huân,,,"Trà Trì, Hải Xuân.",,1224
+Lê Viết Tiến,13,Con,Lê Viết Huân,,,"Trà Trì, Hải Xuân.",,1225
+Lê Thị Lan,13,Con,Lê Viết Huân,,,"Trà Trì, Hải Xuân.",,1226
+Lê Thị Trí,12,Bà / phối ngẫu,Lê Viết Huân,,,"Trà Trì, Hải Xuân.",,1250
+Hoàng Thị Tích,12,Bà / phối ngẫu,Lê Viết Huân,,,"Trà Trì, Hải Xuân.",,1251
+Lê Viết Phúc,13,Con,Lê Viết Huân,,,"Trà Trì, Hải Xuân.",,1254
+Lê Viết Lộc,13,Con,Lê Viết Huân,,,"Trà Trì, Hải Xuân.",,1255
+Lê Thị Liễu,13,Con,Lê Viết Huân,,,"Trà Trì, Hải Xuân.",,1256
+Lê Viết Sự,12,Ông,,Quý Mão,5.2,"Trà Trì, Hải Xuân.",Con Ông Hãnh.,1278
+Hoàng Thị Ngữ,12,Bà / phối ngẫu,Lê Viết Sự,,25.5,"Trà Trì, Hải Xuân.",,1279
+Lê Thị Khôn,13,Con,Lê Viết Sự,,,"Trà Trì, Hải Xuân.",,1283
+Lê Viết Ngôn,13,Con,Lê Viết Sự,,,"Trà Trì, Hải Xuân.",,1284
+Lê Viết Dĩ,13,Con,Lê Viết Sự,,,"Trà Trì, Hải Xuân.",,1285
+Lê Viết Cầu,12,Ông,,,,"Trà Trì, Hải Xuân.",Con Ông Phổ.,1308
+Nguyễn Thị Thanh,12,Bà / phối ngẫu,Lê Viết Cầu,,,"Trà Trì, Hải Xuân.",,1309
+Lê Viết Báu,13,Con,Lê Viết Cầu,,,"Trà Trì, Hải Xuân.",,1313
+Lê Viết Đợi,13,Con,Lê Viết Cầu,,,"Trà Trì, Hải Xuân.",,1314
+Lê Viết Nghĩa,13,Con,Lê Viết Cầu,,,"Trà Trì, Hải Xuân.",,1315
+Lê Viết Đức,12,Ông,,,,"Trà Trì, Hải Xuân.",Con Ông Phổ.,1338
+Thị Nguyên,12,Bà / phối ngẫu,Lê Viết Đức,,,"Trà Trì, Hải Xuân.",,1339
+Lê Viết Sanh,13,Con,Lê Viết Đức,,,"Trà Trì, Hải Xuân.",,1343
+Lê Thị Hoá,13,Con,Lê Viết Đức,,,"Trà Trì, Hải Xuân.",,1344
+Lê Thị Thảnh,13,Con,Lê Viết Đức,,,"Trà Trì, Hải Xuân.",,1345
+Lê Viết Phúc,12,Ông,,,,"Trà Trì, Hải Xuân.",Con Ông Phổ.,1368
+Lê Thị Thuần,12,Bà / phối ngẫu,Lê Viết Phúc,,,"Trà Trì, Hải Xuân.",,1369
+Lê Viết Thanh,13,Con,Lê Viết Phúc,,,"Trà Trì, Hải Xuân.",,1373
+Lê Viết Cảnh,13,Con,Lê Viết Phúc,,,"Trà Trì, Hải Xuân.",,1374
+Lê Thị Tứ (Vũ),13,Con,Lê Viết Phúc,,,"Trà Trì, Hải Xuân.",,1375
+Lê Viết Hạc (Khét),13,Con,Lê Viết Phúc,,,"Trà Trì, Hải Xuân.",,1376
+Lê Viết Ứng,12,Ông,,,,"Trà Trì, Hải Xuân.",Con Ông Trực.,1398
+Nguyễn Thị Chi,12,Bà / phối ngẫu,Lê Viết Ứng,,,"Trà Trì, Hải Xuân.",,1399
+Lê Thị Thuận,13,Con,Lê Viết Ứng,,,"Trà Trì, Hải Xuân.",,1403
+Lê Viết Tạo,12,Ông,,,,"Trà Trì, Hải Xuân.",Con Ông Đạt.,1428
+Nguyễn Thị Ngoãn,12,Bà / phối ngẫu,Lê Viết Tạo,,,"Trà Trì, Hải Xuân.",,1429
+Lê Thị Ân,12,Bà / phối ngẫu,Lê Viết Tạo,,,"Trà Trì, Hải Xuân.",,1430
+Lê Viết Anh,13,Con,Lê Viết Tạo,,,"Trà Trì, Hải Xuân.",Con Bà Ngoãn.,1433
+Lê Viết Truy,13,Con,Lê Viết Tạo,,13.9,"Trà Trì, Hải Xuân.",,1434
+Lê Viết Tuyển,13,Con,Lê Viết Tạo,,14.3,"Trà Trì, Hải Xuân.",,1435
+Lê Thị Biện,13,Con,Lê Viết Tạo,,,"Trà Trì, Hải Xuân.",Con Bà Ân.,1436
+Lê Thị Thông (Thung),13,Con,Lê Viết Tạo,,,"Trà Trì, Hải Xuân.",,1437
+Lê Thị Bửu,13,Con,Lê Viết Tạo,,,"Trà Trì, Hải Xuân.",,1438
+Lê Viết Hạnh,12,Ông,,,28.9,"Trà Trì, Hải Xuân.",Con Ông Tín.,1458
+Lê Thị Linh,12,Bà / phối ngẫu,Lê Viết Hạnh,,19.5,"Trà Trì, Hải Xuân.",,1459
+Lê Viết Chước,13,Con,Lê Viết Hạnh,,19.5,"Trà Trì, Hải Xuân.",,1463
+Lê Viết Hào,13,Con,Lê Viết Hạnh,,,"Trà Trì, Hải Xuân.",,1464
+Lê Viết Vị,13,Con,Lê Viết Hạnh,,,"Trà Trì, Hải Xuân.",,1465
+Lê vô danh,13,Con,Lê Viết Hạnh,,,"Trà Trì, Hải Xuân.",,1466
+Lê Viết Kỷ (Dĩ),13,Con,Lê Viết Hạnh,,,"Trà Trì, Hải Xuân.",,1467
+Lê Thị Cặn (Lãng),13,Con,Lê Viết Hạnh,,,"Trà Trì, Hải Xuân.",,1468
+Lê Viết Cọt,13,Con,Lê Viết Hạnh,,,"Trà Trì, Hải Xuân.",,1469
+Lê Thị Mót (Chót),13,Con,Lê Viết Hạnh,,,"Trà Trì, Hải Xuân.",,1470
+Lê vô danh,13,Con,Lê Viết Hạnh,,,"Trà Trì, Hải Xuân.",,1471
+Lê vô danh,13,Con,Lê Viết Hạnh,,,"Trà Trì, Hải Xuân.",,1472
+Lê Viết Chiêu,12,Ông,,,,"Trà Trì, Hải Xuân.",Con Ông Tín.,1488
+Nguyễn Thị Tích,12,Bà / phối ngẫu,Lê Viết Chiêu,,,"Trà Trì, Hải Xuân.",,1489
+Lê Thị Cần,13,Con,Lê Viết Chiêu,,,"Trà Trì, Hải Xuân.",,1493
+Lê Thị Quyền,13,Con,Lê Viết Chiêu,,,"Trà Trì, Hải Xuân.",,1494
+Lê Thị Muội,13,Con,Lê Viết Chiêu,,,"Trà Trì, Hải Xuân.",,1495
+Lê Viết Văn,13,Con,Lê Viết Chiêu,,,"Trà Trì, Hải Xuân.",,1496
+Lê vô danh,13,Con,Lê Viết Chiêu,,,"Trà Trì, Hải Xuân.",,1497
+Lê Viết Trứ,12,Ông,,,27.9,"Trà Trì, Hải Xuân.",Con Ông Tín.,1518
+Nguyễn Thị Liệu (Khoa),12,Bà / phối ngẫu,Lê Viết Trứ,,26.6,"Trà Trì, Hải Xuân.",,1519
+Lê Thị Tý,13,Con,Lê Viết Trứ,,,"Trà Trì, Hải Xuân.",,1523
+Lê Viết Cẩn,13,Con,Lê Viết Trứ,,4.12,"Trà Trì, Hải Xuân.",,1524
+Lê Viết Thận,13,Con,Lê Viết Trứ,,,"Trà Trì, Hải Xuân.",,1525
+Lê Viết Huân,13,Con,Lê Viết Trứ,,,"Trà Trì, Hải Xuân.",,1526
+Lê Viết Thạnh,13,Con,Lê Viết Trứ,,,"Trà Trì, Hải Xuân.",,1527
+Lê Viết Huyết (Quán),13,Con,Lê Viết Trứ,,,"Trà Trì, Hải Xuân.",,1528
+Lê Thị Vũ,13,Con,Lê Viết Trứ,,,"Trà Trì, Hải Xuân.",,1529
+Lê Viết Cảnh (Tịnh),13,Ông,,,24.7,"Ngã Ba, Tứ Chánh, Phong",Con Ông Xuân.,1558
+Hoàng Thị Thảnh,13,Bà / phối ngẫu,Lê Viết Cảnh (Tịnh),,21.3,"Hiền An, năm 2007 cải",,1560
+Lê Thị Thạnh (Gạc),14,Con,Lê Viết Cảnh (Tịnh),,12.7,"Hiền An, Phong Sơn.",Lấy chồng họ Đặng.,1565
+Lê Viết Bá (Toản),14,Con,Lê Viết Cảnh (Tịnh),,29.8,"Cồn khám, Tứ Chánh.",,1566
+Lê Thị Nguyệt (Tùng),14,Con,Lê Viết Cảnh (Tịnh),,1.2,"Cồn xa, Tứ Chánh.",,1567
+Lê Viết Nẫm,14,Con,Lê Viết Cảnh (Tịnh),,24.2,"Trà Trì, Hải Xuân.",,1568
+Lê Viết Y (Oanh),14,Con,Lê Viết Cảnh (Tịnh),,12.9,"Cồn khám, Tứ Chánh.",,1569
+Lê Thị Niệm (Thỉu),14,Con,Lê Viết Cảnh (Tịnh),,24.4,"Cồn  bảng, Tứ Chánh.",,1570
+Lê Viết Hưu,13,Ông,,,24.12,"Bàu Ốc, Sơn Quả, Phong",Con Ông Xuân.,1587
+Thái Thị Phê,13,Bà / phối ngẫu,Lê Viết Hưu,,20.6,"Cồn xa, Tứ Chánh.",Bà có con riêng tên Lê Viết Cựu (Lê,1589
+Lê Viết Trí (Tới),14,Con,Lê Viết Hưu,1901,24.6,"Cồn xa, Tứ Chánh.",,1595
+Lê Thị Huệ,14,Con,Lê Viết Hưu,,26.12,"Đùng phe, Tứ Chánh",,1596
+Lê Viết vô danh,14,Con,Lê Viết Hưu,,,"Cồn Miếu, Tứ Chánh.",,1597
+Lê Viết Cừu,14,Con,Lê Viết Hưu,,7.6,"Trà Trì, Hải Xuân.",,1598
+Lê Thị Luật (Khét),14,Con,Lê Viết Hưu,1907,14.10,"Trà Trì, Hải Xuân.","Lấy chồng người họ Hoàng, Trà Trì.",1599
+Lê Viết Hoành,14,Con,Lê Viết Hưu,1912,18.4,"Cồn Miếu, Tứ Chánh.",,1600
+Lê Thị Cưởng,14,Con,Lê Viết Hưu,,,,"Lấy chồng người họ Thái, Tứ Chánh.",1601
+Lê Viết Xuyến,14,Con,Lê Viết Hưu,,5.12,"Xứ Lăng, Tứ Chánh.",,1602
+Lê Viết Chiêm,13,Ông,,,,"Trà Trì, Hải Xuân.",Con Ông Dượng.,1617
+(Tái giá),13,Bà / phối ngẫu,Lê Viết Chiêm,,,"Trà Trì, Hải Xuân.",,1618
+Lê Thị Mùi,14,Con,Lê Viết Chiêm,,,"Trà Trì, Hải Xuân.",,1622
+Lê Thị Dãnh,14,Con,Lê Viết Chiêm,,,"Trà Trì, Hải Xuân.",,1623
+Lê vô danh,14,Con,Lê Viết Chiêm,,,"Trà Trì, Hải Xuân.",,1624
+Lê Viết Ngưỡng,13,Ông,,,,"Trà Trì, Hải Xuân.",Con Ông Dượng.,1647
+Lê Thị Thể,13,Bà / phối ngẫu,Lê Viết Ngưỡng,,,"Trà Trì, Hải Xuân.",,1648
+Lê Thị Thiện,14,Con,Lê Viết Ngưỡng,,,"Trà Trì, Hải Xuân.",,1652
+Lê Thị Luyện,14,Con,Lê Viết Ngưỡng,,,"Trà Trì, Hải Xuân.",,1653
+Lê Viết Điện,14,Con,Lê Viết Ngưỡng,,,"Trà Trì, Hải Xuân.",,1654
+Lê Thị Chút,14,Con,Lê Viết Ngưỡng,,,"Trà Trì, Hải Xuân.",,1655
+Lê Viết Dĩ,13,Ông,,,29.3,"Trà Trì, Hải Xuân.",Con Ông Sự.,1677
+Lê Thị Thừa,13,Bà / phối ngẫu,Lê Viết Dĩ,,21.7,"Trà Trì, Hải Xuân.","Người Họ Lê 4, Trà Trì.",1678
+Lê vô danh,14,Con,Lê Viết Dĩ,,,"Trà Trì, Hải Xuân.",,1682
+Lê vô danh,14,Con,Lê Viết Dĩ,,,"Trà Trì, Hải Xuân.",,1683
+Lê vô danh,14,Con,Lê Viết Dĩ,,,"Trà Trì, Hải Xuân.",,1684
+Lê vô danh,14,Con,Lê Viết Dĩ,,,"Trà Trì, Hải Xuân.",,1685
+Lê vô danh,14,Con,Lê Viết Dĩ,,,"Trà Trì, Hải Xuân.",,1686
+Lê Viết Hoàn,14,Con,Lê Viết Dĩ,,1.4,"Trà Trì, Hải Xuân.",,1687
+Lê Viết Phụ,14,Con,Lê Viết Dĩ,10.5.1941,,,,1688
+Lê Thị Thụ,14,Con,Lê Viết Dĩ,,,"Trà Trì, Hải Xuân.",,1689
+Lê Viết Đợi,13,Ông,,,,"Trà Trì, Hải Xuân.",Con Ông Cầu.,1707
+Lê Thị Dãnh,14,Con,Lê Viết Đợi,,,"Trà Trì, Hải Xuân.",,1712
+Lê Viết Nghĩa,13,Ông,,,,"Trà Trì, Hải Xuân.",Con Ông Cầu.,1737
+Lê Thị Bồng,14,Con,Lê Viết Nghĩa,,,"Trà Trì, Hải Xuân.",,1742
+Lê Thị Truy,14,Con,Lê Viết Nghĩa,,,"Trà Trì, Hải Xuân.",,1743
+Lê Thị Doãn,14,Con,Lê Viết Nghĩa,,,"Trà Trì, Hải Xuân.",,1744
+Lê Viết Sanh,13,Ông,,,3.1,"Trà Trì, Hải Xuân.",Con Ông Đức.,1767
+Hoàng Thị Sâm,13,Bà / phối ngẫu,Lê Viết Sanh,,25.5,"Trà Trì, Hải Xuân.",,1768
+Lê vô danh,14,Con,Lê Viết Sanh,,,"Trà Trì, Hải Xuân.",,1772
+Lê Thị Dung,14,Con,Lê Viết Sanh,,,"Trà Trì, Hải Xuân.",,1773
+Lê Thị Quế,14,Con,Lê Viết Sanh,,,"Rú Phường, Hải Xuân.","Lấy chồng Họ Trương, Phú Xuân.",1774
+Lê Thị Kế,14,Con,Lê Viết Sanh,,,"Lộc Ninh, Bình Phước.","Lấy chồng Họ Hoàng, Trà Trì.",1775
+Lê Viết Truy,13,Ông,,,13.9,"Trà Trì, Hải Xuân.",Con Ông Tạo.,1796
+Lê Thị Thất,13,Bà / phối ngẫu,Lê Viết Truy,,,"Trà Trì, Hải Xuân.","Người Họ Lê 4, Trà Trì.",1797
+Nguyễn Thị Đặng,13,Bà / phối ngẫu,Lê Viết Truy,,,"Trà Trì, Hải Xuân.","Người Họ Nguyễn 5, Trà Trì.",1798
+Nguyễn Thị Sửu,13,Bà / phối ngẫu,Lê Viết Truy,,15.4,"Trà Trì, Hải Xuân.","Người Họ Nguyễn 2, Trà Trì.",1799
+Lê vô danh,14,Con,Lê Viết Truy,,,"Trà Trì, Hải Xuân.",Con Bà Thất.,1801
+Lê Thị Tô,14,Con,Lê Viết Truy,,,"Trà Trì, Hải Xuân.",Con Bà Đặng.,1802
+Lê Viết Thành,14,Con,Lê Viết Truy,,7.11,"Trà Trì, Hải Xuân.",,1803
+Lê Thị Ý,14,Con,Lê Viết Truy,,,"Trà Trì, Hải Xuân.",,1804
+Lê Viết Chính,14,Con,Lê Viết Truy,,,"Trà Trì, Hải Xuân.",Con Bà Sửu.,1805
+Lê Viết Tâm,14,Con,Lê Viết Truy,,7.3,"Trà Trì, Hải Xuân.",,1806
+Lê Viết Tu,14,Con,Lê Viết Truy,,27.1,"Trà Trì, Hải Xuân.",,1807
+Lê Viết Tuyển,13,Ông,,,14.3,"Trà Trì, Hải Xuân.",Con Ông Tạo.,1825
+Nguyễn Thị Kế,13,Bà / phối ngẫu,Lê Viết Tuyển,,10.5,"Trà Trì, Hải Xuân.","Người Họ Nguyễn 2, Trà Trì.",1826
+Lê vô danh,14,Con,Lê Viết Tuyển,,,"Trà Trì, Hải Xuân.",,1830
+Lê Thị Ý,14,Con,Lê Viết Tuyển,,,"Trà Trì, Hải Xuân.",,1831
+Lê Thị Tứ,14,Con,Lê Viết Tuyển,,,"Trà Trì, Hải Xuân.",,1832
+Lê Viết Luân,14,Con,Lê Viết Tuyển,,6.7,"Trà Trì, Hải Xuân.",,1833
+Lê Viết Hành,14,Con,Lê Viết Tuyển,,,"Trà Trì, Hải Xuân.",,1834
+Lê Viết Lại,14,Con,Lê Viết Tuyển,,,"Trà Trì, Hải Xuân.",,1835
+Lê Viết Long,14,Con,Lê Viết Tuyển,,,"Trà Trì, Hải Xuân.",,1836
+Lê Thị Hưng,14,Con,Lê Viết Tuyển,,,"Trà Trì, Hải Xuân.",,1837
+Lê Viết Chước,13,Ông,,,19.5,"Trà Trì, Hải Xuân.",Con Ông Hạnh.,1855
+Lê Thị Ân,13,Bà / phối ngẫu,Lê Viết Chước,,19.1,"Trà Trì, Hải Xuân.",,1856
+Lê Thị Bân,14,Con,Lê Viết Chước,,,"Trà Trì, Hải Xuân.",,1860
+Lê vô danh,14,Con,Lê Viết Chước,,,"Trà Trì, Hải Xuân.",,1861
+Lê Viết Chất,14,Con,Lê Viết Chước,,1.11,"Trà Trì, Hải Xuân.",,1862
+Lê Viết Ất,14,Con,Lê Viết Chước,,3.8,"Trà Trì, Hải Xuân.",,1864
+Lê Thị Cần,14,Con,Lê Viết Chước,,,"Trà Trì, Hải Xuân.",,1866
+Lê Viết Bút,14,Con,Lê Viết Chước,,,"Trà Trì, Hải Xuân.",,1867
+Lê Thị Mẫn,14,Con,Lê Viết Chước,,,"Trà Trì, Hải Xuân.",,1868
+Lê Thị Ngân,14,Con,Lê Viết Chước,,,"Trà Trì, Hải Xuân.",,1869
+Lê Viết Ngợi (Châm),14,Con,Lê Viết Chước,15.7.1915,,,,1870
+Lê Thị Hợi,14,Con,Lê Viết Chước,,,"Trà Trì, Hải Xuân.",,1871
+Lê Viết Cẩn,13,Ông,,,4.12,"Trà Trì, Hải Xuân.",Con Ông Trứ.,1886
+Nguyễn Thị Con,13,Bà / phối ngẫu,Lê Viết Cẩn,,23.11,"Trà Trì, Hải Xuân.",,1887
+Lê vô danh,14,Con,Lê Viết Cẩn,,,"Trà Trì, Hải Xuân.",,1891
+Lê Viết Dẫn,14,Con,Lê Viết Cẩn,,,,,1892
+Lê Viết Nhơn,14,Con,Lê Viết Cẩn,,2.4.1967,"Trà Trì, Hải Xuân.",,1893
+Lê Viết Thận,13,Ông,,,,"Trà Trì, Hải Xuân.",Con Ông Trứ.,1916
+Lê Thị Tang,13,Bà / phối ngẫu,Lê Viết Thận,,,"Trà Trì, Hải Xuân.",,1917
+Lê Viết Chinh (Trinh),14,Con,Lê Viết Thận,,,"Trà Trì, Hải Xuân.",,1921
+Lê Thị Đỏng,14,Con,Lê Viết Thận,,,"Trà Trì, Hải Xuân.",,1922
+Lê Viết Bá (Toản),14,Ông,,,29.8,"Cồn khám, Tứ Chánh, Phong",Con Ông Cảnh.,1956
+Nguyễn Thị Khanh,14,Bà / phối ngẫu,Lê Viết Bá (Toản),,21.10,"Cồn khám, Tứ Chánh, Phong",Bà có con riêng tên Lê Viết Vui,1958
+Lê vô danh,15,Con,Lê Viết Bá (Toản),,,"Xứ Lăng, Tứ Chánh",,1963
+Lê vô danh,15,Con,Lê Viết Bá (Toản),,,"Xứ Lăng, Tứ Chánh",,1964
+Lê vô danh,15,Con,Lê Viết Bá (Toản),,,"Xứ Lăng, Tứ Chánh",,1965
+Lê vô danh,15,Con,Lê Viết Bá (Toản),,,"Cồn Miếu, Tứ Chánh",,1966
+Lê vô danh,15,Con,Lê Viết Bá (Toản),,,"Cồn Miếu, Tứ Chánh",,1967
+Lê Viết Nẫm,14,Ông,,,24.2,"Trà Trì, Hải Xuân.",Con Ông Cảnh.,1986
+Nguyễn Thị Khánh,14,Bà / phối ngẫu,Lê Viết Nẫm,,20.7,"Trà Trì, Hải Xuân.","Người Họ Nguyễn 5, Trà Trì.",1987
+Lê Thị Thảnh,15,Con,Lê Viết Nẫm,1948,,"Trà Trì, Hải Xuân.","Chồng Họ Nguyễn 2, Trà Trì.",1991
+Lê Viết Na,15,Con,Lê Viết Nẫm,,16.1,"Trà Trì, Hải Xuân.",,1992
+Lê Thị Bảnh,15,Con,Lê Viết Nẫm,,,"Trà Trì, Hải Xuân.","Chồng Họ Lê 4, Trà Trì.",1993
+Lê Thị Lãnh,15,Con,Lê Viết Nẫm,,,"Trà Trì, Hải Xuân.","Chồng Họ Hoàng, Trà Trì.",1994
+Lê Viết Văn (Oanh/Y),14,Ông,,,13.9,"Cồn khám, Tứ Chánh, Phong",Con Ông Cảnh.,2015
+Nguyễn Thị Uy (Gà),14,Bà / phối ngẫu,Lê Viết Văn (Oanh/Y),,9.8,"Cồn xa, Tứ Chánh, Phong",,2017
+Lê Viết Lãng (Thuyên),15,Con,Lê Viết Văn (Oanh/Y),25.08.1940,,"Ngã ba, Tứ Chánh.",,2022
+Lê Thị Hôi (Lợn),15,Con,Lê Viết Văn (Oanh/Y),1942,6.5,"Xứ Lăng, Tứ Chánh.",,2023
+Lê Viết Linh (Lanh),15,Con,Lê Viết Văn (Oanh/Y),1943,,,"Đại uý QĐNDVN,",2024
+Lê Viết Lợi,15,Con,Lê Viết Văn (Oanh/Y),1947,20.8,"Cồn xa, Tứ Chánh.",Liệt sĩ QĐNDVN.,2026
+Lê vô danh,15,Con,Lê Viết Văn (Oanh/Y),,,"Đùng phe, Tứ Chánh.",,2027
+Lê Viết Bù (Hương),15,Con,Lê Viết Văn (Oanh/Y),1952,,,,2028
+Lê Thị Gái,15,Con,Lê Viết Văn (Oanh/Y),1955,,,"Chồng  Nguyễn Kiểm, Vinh Hiền, Phú",2029
+Lê Thị Lộc (Bòn),15,Con,Lê Viết Văn (Oanh/Y),1958,,,"Chồng Hồ Cho, Phò Ninh, Phong An.",2031
+Lê Viết Trí (Tới),14,Ông,,1901,24.6,"Cồn xa, Tứ Chánh, Phong",Con Ông Hưu.,2045
+Nguyễn Thị Don (Con),14,Bà / phối ngẫu,Lê Viết Trí (Tới),1906,16.9,"Tứ Hạ, Hương Trà.",,2047
+Lê Thị Thoại (Thuỵ),15,Con,Lê Viết Trí (Tới),,18.11,,"Liệt sỹ QĐNDVN. Chồng Lê Quang Vinh,",2051
+Lê Thị Vọng,15,Con,Lê Viết Trí (Tới),1930,,,"Chồng Hoàng Bé, Quê: Hiền Sỹ, Phong",2053
+Lê Thị Thí (Thức),15,Con,Lê Viết Trí (Tới),1933,,,"Chồng Trương Quả, Quê Tứ Chánh,",2055
+Lê Viết Uyên (Quảy),15,Con,Lê Viết Trí (Tới),1937,,,,2057
+Lê Thị Thỏn (Đới),15,Con,Lê Viết Trí (Tới),1940,,,"Chồng Thái Công Đẳng, Tứ Chánh,",2058
+Lê Viết Trong (Loát),15,Con,Lê Viết Trí (Tới),,5.7,"Cồn khám, Tứ Chánh.",Liệt sỹ QĐNDVN.,2060
+Lê Thị Nữ,15,Con,Lê Viết Trí (Tới),,,,"Chồng Đào Xuân Hội, Quê Yên Khánh,",2061
+Lê Viết Cừu,14,Ông,,,7.6,"Trà Trì, Hải Xuân.",Con Ông Hưu.,2077
+Hoàng Thị Thức,14,Bà / phối ngẫu,Lê Viết Cừu,,26.12,"Trà Trì, Hải Xuân.",Đã hồi tôn.,2078
+Lê Thị Phương,14,Bà / phối ngẫu,Lê Viết Cừu,10.10.1906,21.1 (24.1.1986),"Trà Trì, Hải Xuân.",,2079
+Lê Thị Giao,15,Con,Lê Viết Cừu,,,"Trà Trì, Hải Xuân.",Con bà Phương,2082
+Lê vô danh,15,Con,Lê Viết Cừu,,,"Trà Trì, Hải Xuân.",,2083
+Lê vô danh,15,Con,Lê Viết Cừu,,,"Trà Trì, Hải Xuân.",,2084
+Lê Viết Dược,15,Con,Lê Viết Cừu,1.11.1941,9.5.1966,"Trà Trì, Hải Xuân.",,2085
+Lê vô danh,15,Con,Lê Viết Cừu,,,"Trà Trì, Hải Xuân.",,2086
+Lê vô danh,15,Con,Lê Viết Cừu,,,"Trà Trì, Hải Xuân.",,2087
+Lê Viết Hàn,15,Con,Lê Viết Cừu,,5.4,"Trà Trì, Hải Xuân.",,2088
+Lê Thị Hữu,15,Con,Lê Viết Cừu,1951,,"Trà Trì, Hải Xuân.","Lấy chồng Họ Nguyễn 5, Trà Trì.",2089
+Lê Viết Hoành,14,Ông,,Nhâm Tý 1912,18.4,"Cồn Miếu, Tứ Chánh, Phong Sơn.",Con Ông Hưu.,2106
+Nguyễn Thị Con,14,Bà / phối ngẫu,Lê Viết Hoành,,6.8,"Xứ Lăng, Tứ Chánh.",,2107
+Dương Thị Dưa,14,Bà / phối ngẫu,Lê Viết Hoành,Quý Hợi,,,"Quê Hiền Sỹ, Phong Sơn, Phong Điền.",2108
+Lê Thị Lựu,15,Con,Lê Viết Hoành,,12.9,"Cồn Bảng, Tứ Chánh",,2111
+Lê Thị Thới (Thái),15,Con,Lê Viết Hoành,1937,,,"Chồng Hoàng Công Cuộc, Hiền Sỹ.",2112
+Lê Thị Đoái (Duyệt),15,Con,Lê Viết Hoành,1939,,,"Chồng Thái Công Bỉnh, Tứ Chánh.",2113
+Lê Viết Tuyến,15,Con,Lê Viết Hoành,1942,9.5,"Cồn khám, Tứ Chánh",Liệt sỹ QĐNDVN.,2114
+Lê Thị Tuy,15,Con,Lê Viết Hoành,1944,24.2,"Xứ Lăng, Tứ Chánh.",,2115
+Lê Viết Tuyển (Thiển),15,Con,Lê Viết Hoành,1946,11.6,"Cồn khám, Tứ Chánh",Liệt sỹ QĐNDVN.,2116
+Lê Viết Miễn,15,Con,Lê Viết Hoành,1948,29.3,"Cồn khám, Tứ Chánh",Liệt sỹ QĐNDVN.,2117
+Lê Viết Đức (Lời),15,Con,Lê Viết Hoành,1950,,,Con Bà Dưa.,2118
+Lê Viết Diễn,15,Con,Lê Viết Hoành,1952,29.7,"Cồn khám, Tứ Chánh",Liệt sỹ QĐNDVN.,2119
+Lê Viết Thành (Giản),15,Con,Lê Viết Hoành,1954,,,"Đại học Tài chính (1989), Cử nhân",2120
+Lê Viết vô danh,15,Con,Lê Viết Hoành,,,"Cồn Bảng, Tứ Chánh",,2122
+Lê Thị Ngại (Thanh),15,Con,Lê Viết Hoành,1959,,,"Chồng Nguyễn Đăng  Khánh, Tứ Chánh.",2123
+Lê vô danh,15,Con,Lê Viết Hoành,,,,,2124
+Lê Thị Tại (Nga),15,Con,Lê Viết Hoành,1965,,,Đại học Sư phạm (2005). Chồng Nguyễn,2125
+Lê Viết Điện,14,Ông,,,25.2,"Trà Trì, Hải Xuân.",Con Ông Ngưỡng.,2136
+Trần Thị Thung (Thông),14,Bà / phối ngẫu,Lê Viết Điện,,29.5,"Thôn 7, Tân Châu, Di",,2137
+Lê Viết Ký,15,Con,Lê Viết Điện,,,,,2142
+Lê Viết Phụ,14,Ông,,10.5.1941,,,Con Ông Dĩ.,2166
+Nguyễn Thị Ngại,14,Bà / phối ngẫu,Lê Viết Phụ,1943,,,"Người Họ Nguyễn 2, Trà Trì.",2167
+Lê Thị Thuỷ,15,Con,Lê Viết Phụ,,,,,2171
+Lê Thị Thủ,15,Con,Lê Viết Phụ,,,,,2172
+Lê Viết Đồ,15,Con,Lê Viết Phụ,,,,,2173
+Lê vô danh,15,Con,Lê Viết Phụ,,,,,2174
+Lê Thị An,15,Con,Lê Viết Phụ,1972,,,"Lấy chồng Họ Nguyễn 2, Trà Trì.",2175
+Lê vô danh,15,Con,Lê Viết Phụ,,,,,2176
+Lê Thị Lan,15,Con,Lê Viết Phụ,,,,"Lấy chồng Họ Trần, Trà Trì.",2177
+Lê Viết Hoà,15,Con,Lê Viết Phụ,,,,,2178
+Lê Thị Đào,15,Con,Lê Viết Phụ,,,,Thích nữ Huệ Ngân.,2179
+Lê Thị Lựu,15,Con,Lê Viết Phụ,,,,"Chồng quê ở Hải Thái, Gio Linh.",2180
+Lê Viết Thái (Được),15,Con,Lê Viết Phụ,25.11.1988,,,,2181
+Lê Viết Thành,14,Ông,,,7.11,"Trà Trì, Hải Xuân.",Con Ông Truy.,2195
+Lê Thị Thiện,14,Bà / phối ngẫu,Lê Viết Thành,,,"Trà Trì, Hải Xuân.",,2196
+Lê Viết Lập,15,Con,Lê Viết Thành,1915,19.12,"Trà Trì, Hải Xuân.",,2200
+Lê Thị Khanh,15,Con,Lê Viết Thành,1918,,,"Lấy chồng Họ Nguyễn 2, Trà Trì.",2201
+Lê Viết Danh,15,Con,Lê Viết Thành,,24.11,"Trà Trì, Hải Xuân.",,2202
+Lê Thị Hoanh (Đĩu),15,Con,Lê Viết Thành,,,"Trà Trì, Hải Xuân.","Lấy chồng Họ Nguyễn 5, Trà Trì.",2203
+Lê Viết Chính,14,Ông,,,,"Trà Trì, Hải Xuân.",Con Ông Truy.,2224
+Lê Thị Sảng,14,Bà / phối ngẫu,Lê Viết Chính,,,"Trà Trì, Hải Xuân.",,2225
+Nguyễn Thị Chánh,14,Bà / phối ngẫu,Lê Viết Chính,,,"Trà Trì, Hải Xuân.",,2226
+Lê vô danh,15,Con,Lê Viết Chính,,,"Trà Trì, Hải Xuân.",,2229
+Lê Thị Thanh,15,Con,Lê Viết Chính,,,,,2230
+Lê Thị Cảnh,15,Con,Lê Viết Chính,,,"Trà Trì, Hải Xuân.",,2231
+Lê Viết Hoanh,15,Con,Lê Viết Chính,1932,23.12.2003,"Lộc Thiện, Lộc Ninh, Bình",Lê Hoanh.,2232
+Lê Thị Dĩnh,15,Con,Lê Viết Chính,,,,,2234
+Lê Viết Tâm,14,Ông,,,7.3,"Trà Trì, Hải Xuân.",Con Ông Truy.,2254
+Lê Thị Lanh,14,Bà / phối ngẫu,Lê Viết Tâm,,5.6,"Trà Trì, Hải Xuân.","Người Họ Lê 4, Trà Trì.",2255
+Lê Thị Khánh,15,Con,Lê Viết Tâm,1932,.8 Kỷ Sửu,"Trà Trì, Hải Xuân.",,2259
+Lê Viết Hồ,15,Con,Lê Viết Tâm,,7.3,"Trà Trì, Hải Xuân.",,2261
+Lê Viết Đồ,15,Con,Lê Viết Tâm,,7.3,"Trà Trì, Hải Xuân.",,2262
+Lê Viết Giáp (Đỗ),15,Con,Lê Viết Tâm,,7.3,"Trà Trì, Hải Xuân.",,2263
+Lê Viết Tu,14,Ông,,,27.1,"Trà Trì, Hải Xuân.",Con Ông Truy.,2284
+Hoàng Thị Nguyên,14,Bà / phối ngẫu,Lê Viết Tu,,12.9,"Trà Trì, Hải Xuân.",,2285
+Lê Thị Thế,15,Con,Lê Viết Tu,,,"Trà Trì, Hải Xuân.","Lấy chồng Họ Hoàng, Phú Xuân B.",2289
+Lê Thị Thức,15,Con,Lê Viết Tu,,,"Trà Trì, Hải Xuân.","Lấy chồng Họ Nguyễn 6, Trà Trì.",2290
+Lê Viết Thu,15,Con,Lê Viết Tu,,26.10,"Trà Trì, Hải Xuân.",,2291
+Lê Viết Thảo,15,Con,Lê Viết Tu,,21.6,"Trà Trì, Hải Xuân.",,2292
+Lê Thị Thuận,15,Con,Lê Viết Tu,,,"Trà Trì, Hải Xuân.","Lấy chồng Họ Nguyễn 2, Trà Trì.",2293
+Lê Thị Huân,15,Con,Lê Viết Tu,,5.6,"Trà Trì, Hải Xuân.",,2294
+Lê Viết Dậu,15,Con,Lê Viết Tu,,28.3,"Trà Trì, Hải Xuân.",,2295
+Lê Viết Dũng,15,Con,Lê Viết Tu,,15.8,Không rõ,Đại Đức Thích Quảng Tánh.,2296
+Lê Viết Dần,15,Con,Lê Viết Tu,9.7.1950,,,,2298
+Lê Viết Luân,14,Ông,,,6.7,"Trà Trì, Hải Xuân.",Con Ông Tuyển.,2314
+Lê Thị Lụng,14,Bà / phối ngẫu,Lê Viết Luân,,7.3,"Trà Trì, Hải Xuân.","Người Họ Lê - Văn Vận, Hải Quy.",2316
+Lê vô danh,15,Con,Lê Viết Luân,,,"Trà Trì, Hải Xuân.",Con Bà 1.,2319
+Lê Viết Kinh,15,Con,Lê Viết Luân,,8.4,"Trà Trì, Hải Xuân.",,2320
+Lê Viết Tập,15,Con,Lê Viết Luân,,6.6,"Trà Trì, Hải Xuân.",Con Bà Lụng.,2321
+Lê Thị Lựu,15,Con,Lê Viết Luân,,,"Trà Trì, Hải Xuân.","Lấy chồng Họ Lê 4, Trà Trì.",2322
+Lê Thị Hường,15,Con,Lê Viết Luân,,,"Trà Trì, Hải Xuân.",Lấy chồng ở Hải Quy.,2323
+Lê Viết Tuân,15,Con,Lê Viết Luân,,2.1,"Trà Trì, Hải Xuân.",,2324
+Lê Thị Ba (Nuôi),15,Con,Lê Viết Luân,13.3.1944,,,,2325
+Lê Viết Hành,14,Ông,,,19.6,"Trà Trì, Hải Xuân.",Con Ông Tuyển.,2343
+Lê Thị Phụng,14,Bà / phối ngẫu,Lê Viết Hành,,4.9,"Trà Trì, Hải Xuân.",,2344
+Lê Viết Toan,15,Con,Lê Viết Hành,1924,1998,"Dục Mỹ, Khánh Hoà.",Lê Con.,2348
+Lê Viết Tảo,15,Con,Lê Viết Hành,,,Đà Nẵng.,,2349
+Lê Viết Lại,14,Ông,,,4.3,"Trà Trì, Hải Xuân.",Con Ông Tuyển.,2373
+Hoàng Thị Bá,14,Bà / phối ngẫu,Lê Viết Lại,,10.1,"Trà Trì, Hải Xuân.","Người Họ Hoàng, Trà Trì.",2374
+Lê Thị Tùng,15,Con,Lê Viết Lại,,,,"Lấy chồng Họ Lê 4, Trà Trì.",2378
+Lê Viết Tiệm,15,Con,Lê Viết Lại,,,,,2379
+Lê Thị Diệm,15,Con,Lê Viết Lại,,,,"Lấy chồng Họ Nguyễn 2, Trà Trì.",2380
+Lê Thị Niệm,15,Con,Lê Viết Lại,,,,,2381
+Lê Viết Tiềm,15,Con,Lê Viết Lại,,,,,2382
+Lê vô danh,15,Con,Lê Viết Lại,,,"Trà Trì, Hải Xuân.",,2383
+Lê Viết Long,14,Ông,,,25.5,"Trà Trì, Hải Xuân.",Con Ông Tuyển.,2402
+Nguyễn Thị Niên,14,Bà / phối ngẫu,Lê Viết Long,,3.10,"Trà Trì, Hải Xuân.","Người Họ Nguyễn 2, Trà Trì.",2403
+Lê Thị Lài,15,Con,Lê Viết Long,1943,,,"Lấy chồng Họ Hoàng, Trà Trì.",2407
+Lê Viết Trưng,15,Con,Lê Viết Long,1940,,,Lê Trưng.,2408
+Lê vô danh,15,Con,Lê Viết Long,,,"Trà Trì, Hải Xuân.",,2409
+Lê Viết Xưng,15,Con,Lê Viết Long,1951,,,,2410
+Lê vô danh,15,Con,Lê Viết Long,,,"Trà Trì, Hải Xuân.",,2411
+Lê Thị Thơ,15,Con,Lê Viết Long,1959,,,"Lấy chồng Họ Trần, Trà Trì.",2412
+Lê Viết Chất,14,Ông,,,1.11,"Trà Trì, Hải Xuân.",Con Ông Chước.,2432
+Võ Thị Mỳ,14,Bà / phối ngẫu,Lê Viết Chất,,27.1,"Trà Trì, Hải Xuân.","Quê ở Trâm Lý, Hải Quy.",2434
+Lê Thị Vượng,15,Con,Lê Viết Chất,,19.7,"Ngãi Giao, Châu Đức, Bà","Lấy chồng Họ Nguyễn 2, Trà Trì.",2439
+Lê vô danh,15,Con,Lê Viết Chất,,,"Trà Trì, Hải Xuân.",,2441
+Lê Viết Thường,15,Con,Lê Viết Chất,1.3.1932,,,Lê Thường.,2442
+Lê Thị Thương,15,Con,Lê Viết Chất,1.7.1935,24.5,"Trà Trì, Hải Xuân.","Lấy chồng Họ Nguyễn 5, Trà Trì.",2443
+Lê vô danh,15,Con,Lê Viết Chất,,,"Trà Trì, Hải Xuân.",,2445
+Lê Viết Thừa,15,Con,Lê Viết Chất,1.1.1937,,,Lê Thừa.,2446
+Lê Thị Hảo,15,Con,Lê Viết Chất,,,,"Lấy chồng Họ Lê 4, Trà Trì.",2447
+Lê Thị Kiểu,15,Con,Lê Viết Chất,,,,"Lấy chồng ở Triệu Hoà, Triệu Phong.",2448
+Lê Viết Ngọc,15,Con,Lê Viết Chất,,,"Trà Trì, Hải Xuân.",,2449
+Lê Thị Lành,15,Con,Lê Viết Chất,1946,,,"Lấy chồng Họ Hoàng, Trà Trì.",2450
+Lê Viết Ất,14,Ông,,,3.8,"Trà Trì, Hải Xuân.",Con Ông Chước.,2463
+Hoàng Thị Chiểu,14,Bà / phối ngẫu,Lê Viết Ất,,19.11,"Trà Trì, Hải Xuân.","Người Họ Hoàng, Trà Trì.",2465
+Nguyễn Thị Vầy,14,Bà / phối ngẫu,Lê Viết Ất,,9.2,"Trà Trì, Hải Xuân.","Người Họ Nguyễn 2, Trà Trì.",2466
+Lê Viết Giáp,15,Con,Lê Viết Ất,,3.8,"Trà Trì, Hải Xuân.",Con Bà Chiểu.,2470
+Lê Viết Dị,15,Con,Lê Viết Ất,,3.8,"Trà Trì, Hải Xuân.",Con Bà Vầy.,2472
+Lê Viết Trưởng,15,Con,Lê Viết Ất,,3.8,"Trà Trì, Hải Xuân.",,2473
+Lê Viết Đúc,15,Con,Lê Viết Ất,,25.6,"Trà Trì, Hải Xuân.",,2474
+Lê Thị Túc,15,Con,Lê Viết Ất,,,,"Lấy chồng Họ Nguyễn 5, Trà Trì.",2476
+Lê Viết Ngợi,14,Ông,,15.7.1915,,"Trà Trì, Hải Xuân.",Con Ông Chước.,2495
+Nguyễn Thị Phùng,14,Bà / phối ngẫu,Lê Viết Ngợi,30.1.1915,,"Trà Trì, Hải Xuân.","Người Họ Nguyễn 2, Trà Trì.",2497
+Lê Thị Thung,15,Con,Lê Viết Ngợi,,,"Trà Trì, Hải Xuân.",,2501
+Lê Thị Liễu,15,Con,Lê Viết Ngợi,,,"Trà Trì, Hải Xuân.",,2502
+Lê vô danh,15,Con,Lê Viết Ngợi,,,"Trà Trì, Hải Xuân.",,2503
+Lê Viết Đợi,15,Con,Lê Viết Ngợi,5.12.1942,,,Lê Đợi.,2504
+Lê Viết Học,15,Con,Lê Viết Ngợi,,,,Lê Học.,2505
+Lê Viết Châu,15,Con,Lê Viết Ngợi,,,"Trà Trì, Hải Xuân.",Lê Châu.,2506
+Lê vô danh,15,Con,Lê Viết Ngợi,,,,,2507
+Lê Thị Vân,15,Con,Lê Viết Ngợi,,,"Trà Trì, Hải Xuân.",,2508
+Lê Thị Hiền,15,Con,Lê Viết Ngợi,,,,"Lấy chồng Họ Hoàng, Trà Trì.",2509
+Lê Thị Hậu,15,Con,Lê Viết Ngợi,,,,"Lấy chồng Họ Hoàng, Trà Trì.",2510
+Lê Thị Lài,15,Con,Lê Viết Ngợi,,,,"Lấy chồng Họ Lê 4, Trà Trì.",2511
+Lê Viết Dẫn,14,Ông,,,,"Trà Trì, Hải Xuân.",Con Ông Cẩn.,2525
+Nguyễn Thị Thắm,14,Bà / phối ngẫu,Lê Viết Dẫn,,,,"Người Họ Nguyễn 5, Trà Trì.",2526
+Nguyễn Thị Đong,14,Bà / phối ngẫu,Lê Viết Dẫn,,,,"Người Họ Nguyễn 5, Trà Trì.",2527
+Lê Viết Lãnh,15,Con,Lê Viết Dẫn,,,"Trà Trì, Hải Xuân.",Con Bà Thắm.,2530
+Lê Thị Diễn,15,Con,Lê Viết Dẫn,,,"Trà Trì, Hải Xuân.",,2531
+Lê Thị Chung,15,Con,Lê Viết Dẫn,,,,Lấy chồng Họ Nguyễn   Trà Trì.,2532
+Lê Viết Thỉ,15,Con,Lê Viết Dẫn,,,"Trà Trì, Hải Xuân.",,2533
+Lê Thị Dung,15,Con,Lê Viết Dẫn,,,,Lấy chồng Cam Lộ.,2534
+Lê vô danh,15,Con,Lê Viết Dẫn,,,"Trà Trì, Hải Xuân.",,2535
+Lê Viết Mua,15,Con,Lê Viết Dẫn,1983,,,Con Bà Đong.,2536
+Lê Viết Nhơn,14,Ông,,,,"Trà Trì, Hải Xuân.",Con Ông Cẩn.,2554
+Nguyễn Thị Phùng,14,Bà / phối ngẫu,Lê Viết Nhơn,1931,,,"Người Họ Nguyễn 2, Trà Trì.",2556
+Lê Thị Bồng,15,Con,Lê Viết Nhơn,,,,"Lấy chồng Họ Trần, Trà Trì.",2560
+Lê Thị Dương,15,Con,Lê Viết Nhơn,,,,"Lấy chồng Họ Hoàng, Trà Trì.",2561
+Lê vô danh,15,Con,Lê Viết Nhơn,,,"Trà Trì, Hải Xuân.",,2562
+Lê Viết Phúc,15,Con,Lê Viết Nhơn,,25.3.1968,"Trà Trì, Hải Xuân.",,2563
+Lê Thị Minh,15,Con,Lê Viết Nhơn,1965,,,"Lấy chồng Họ Trần, Trà Trì.",2564
+Lê Thị Vinh,15,Con,Lê Viết Nhơn,1967,,,"Lấy chồng Họ Nguyễn 2, Trà Trì.",2565
+Lê Viết Lãng (Thuyên),15,Ông,,,19.8,"Ngã ba, Tứ Chánh,    Phong",Con Ông Văn (Y/Oanh).,2593
+Lê Thị Đẻo,15,Bà / phối ngẫu,Lê Viết Lãng (Thuyên),,,,"Người làng Tứ Chánh, Phong Sơn.",2595
+Lê Thị Lâu,16,Con,Lê Viết Lãng (Thuyên),17.12.1964,29.3,"Lăng mạ, Tứ Chánh.",,2599
+Lê Thị Dỏ (Xuân),16,Con,Lê Viết Lãng (Thuyên),17.2.1967,,,"Chồng  họ Phan, Quê: Cổ By, Phong",2600
+Lê Viết Dần,16,Con,Lê Viết Lãng (Thuyên),17.2.1974,,,,2602
+Lê Thị Thủy,16,Con,Lê Viết Lãng (Thuyên),10.6.1976,,,"Chồng  Phạm Bá Phong, Quê:  Phong",2603
+Lê Viết Tam,16,Con,Lê Viết Lãng (Thuyên),15.8.1978,21.8.1978,"Cồn khám, Tứ Chánh",,2605
+Lê Thị Kim,16,Con,Lê Viết Lãng (Thuyên),20.7.1979,,,"Chồng người họ Trương, Tứ Chánh",2606
+Lê Viết Linh (Lanh),15,Ông,,10.1943,,,Con Ông Văn (Y/Oanh). Năm 1975 do công,2625
+Trương Thị Vui,15,Bà / phối ngẫu,Lê Viết Linh (Lanh),10.1937,,,"Quê Sơn Quả, Phong Sơn, Phong Điền.",2629
+Lê Viết Phong,16,Con,Lê Viết Linh (Lanh),10.1976,,,,2632
+Lê Thị Loan,16,Con,Lê Viết Linh (Lanh),6.1978,,,Đại học Sư phạm (2007). Chồng  Ngô Xuân,2633
+Lê vô danh,16,Con,Lê Viết Linh (Lanh),,,"Cồn khám, Tứ Chánh.",,2635
+Lê Thị Sơn,16,Con,Lê Viết Linh (Lanh),9.1980,,,"Chồng Phan Văn Tiến, Quê: Vinh Hiền, Phú",2636
+Lê Viết Quảng,16,Con,Lê Viết Linh (Lanh),2.2.1983,,,"Đại học Khoa học, ngành Lịch sử (2006).",2638
+Lê vô danh,16,Con,Lê Viết Linh (Lanh),,,"Cồn xa, Tứ Chánh.",,2639
+Lê vô danh,16,Con,Lê Viết Linh (Lanh),,,"Cồn xa, Tứ Chánh.",,2640
+Lê Viết Bù (Hương),15,Ông,,1952,,,Con Ông Văn (Y/Oanh).,2655
+Lê Thị Hường,15,Bà / phối ngẫu,Lê Viết Bù (Hương),,,,"Quê Trà Trì, Hải Xuân.",2656
+Lê vô danh,16,Con,Lê Viết Bù (Hương),,,"Trà Trì, Hải Xuân",,2660
+Lê Viết Thắng,16,Con,Lê Viết Bù (Hương),5.3.1975,,,,2661
+Lê Viết Thăng,16,Con,Lê Viết Bù (Hương),15.9.1977,,,,2662
+Lê Viết Long,16,Con,Lê Viết Bù (Hương),30.11.1980,,,,2663
+Lê vô danh,16,Con,Lê Viết Bù (Hương),,,"Cồn khám,Tứ Chánh",,2664
+Lê Viết Được,16,Con,Lê Viết Bù (Hương),25.12.1984,,,Con Bà Mượn,2665
+Lê Viết Bốn,16,Con,Lê Viết Bù (Hương),30.5.1985,,,,2666
+Lê Thị Nhàn,16,Con,Lê Viết Bù (Hương),6.9.1992,,,,2667
+Lê Viết Uyên (Quảy),15,Ông,,1937,,,"Con Ông Trí. Năm 1985 do công tác,",2685
+Trương Thị Thẻo,15,Bà / phối ngẫu,Lê Viết Uyên (Quảy),1938,15.8,"Cồn khám,Tứ Chánh",Liệt sỹ QĐNDVN.,2689
+Văn Thị Thuý,15,Bà / phối ngẫu,Lê Viết Uyên (Quảy),1948,,,"Quê ở Phong Chương, Phong Điền.",2690
+Lê Thị Duyên,16,Con,Lê Viết Uyên (Quảy),1955,,,"Chồng Phạm Định, Hiền An, Phong Sơn",2692
+Lê Thị Hoa (Doãn),16,Con,Lê Viết Uyên (Quảy),1957,,,"Chồng Trương Thế Dũng, Quê: Tứ",2693
+Lê vô danh,16,Con,Lê Viết Uyên (Quảy),,,"Cồn Bảng, Tứ Chánh",,2695
+Lê Thị Nở,16,Con,Lê Viết Uyên (Quảy),1960,,"Cồn khám, Tứ Chánh",,2696
+Lê Viết Xảo,16,Con,Lê Viết Uyên (Quảy),1962,,,,2697
+Lê Viết Quyệt,16,Con,Lê Viết Uyên (Quảy),1966,,,,2698
+Lê vô danh,16,Con,Lê Viết Uyên (Quảy),,,"Cồn Bảng, Tứ Chánh",Con Bà Thuý.,2699
+Lê Viết Duyến,16,Con,Lê Viết Uyên (Quảy),1977,,,,2700
+Lê Viết Ngọc,16,Con,Lê Viết Uyên (Quảy),1979,,,Đại học Sư phạm (2001).,2701
+Lê Thị Hằng,16,Con,Lê Viết Uyên (Quảy),1981,,,,2702
+Lê Viết Ninh,16,Con,Lê Viết Uyên (Quảy),1983,,,,2703
+Lê vô danh,16,Con,Lê Viết Uyên (Quảy),,,"Cồn Bảng, Tứ Chánh",,2704
+Lê vô danh,16,Con,Lê Viết Uyên (Quảy),,,"Cồn Bảng, Tứ Chánh",,2705
+Lê vô danh,16,Con,Lê Viết Uyên (Quảy),,,"Cồn Bảng, Tứ Chánh",,2706
+Lê vô danh,16,Con,Lê Viết Uyên (Quảy),,,"Cồn Bảng, Tứ Chánh",,2707
+Lê Viết Trong (Loát),15,Ông,,1943,5.7,"Cồn khám, Tứ Chánh, Phong Sơn.",Con Ông Trí (Tới).,2717
+Nguyễn Thị Thiềm,15,Bà / phối ngẫu,Lê Viết Trong (Loát),,5.4,"Cồn khám,Tứ Chánh.",Liệt sỹ QĐNDVN.,2720
+Lê Viết Thanh,16,Con,Lê Viết Trong (Loát),1964,,,,2724
+Lê Thị Thiết,16,Con,Lê Viết Trong (Loát),1966,,,"Chồng người  họ Nguyễn - Ưu Điềm,",2725
+Lê Viết Dược,15,Ông,,1.11.1941,,"Trà Trì, Hải Xuân.",Con Ông Cừu.,2749
+Hoàng Thị Tài (Nương),15,Bà / phối ngẫu,Lê Viết Dược,11.12.1944,,,"Người họ Hoàng, Trà Trì.",2751
+Lê Viết Giáo,16,Con,Lê Viết Dược,28.10.1965,,,Lê Giáo.,2755
+Lê Viết Tuyến,15,Ông,,Nhâm Ngọ,9.5,"Cồn khám, Tứ Chánh, Phong",Con Ông Hoành. Liệt sỹ. Xã đội,2780
+Trần Thị Tám,15,Bà / phối ngẫu,Lê Viết Tuyến,,,,"Người làng Tứ Chánh, Phong Sơn",2782
+Lê Viết vô danh,16,Con,Lê Viết Tuyến,,,,,2786
+Lê Thị Tài (Ty),16,Con,Lê Viết Tuyến,1965,,,"Chồng người họ Võ – Dương Thủy, Lệ",2787
+Lê Viết Đức (Lời),15,Ông,,12.10.1950,,,Con Ông Hoành. Năm 1975 gia đình định cư,2811
+Thái Thị Hồng,15,Bà / phối ngẫu,Lê Viết Đức (Lời),3.3.1949,,,"Quê Phò Ninh, Phong An, Phong Điền.",2814
+Lê Viết Đạo,16,Con,Lê Viết Đức (Lời),2.9.1976,,,Cử nhân Kinh tế (2007).,2818
+Lê Thị Hà,16,Con,Lê Viết Đức (Lời),4.4.1980,,,"Chồng Hoàng Hải, Quê: Phò Ninh, Phong An,",2819
+Lê Viết Hải,16,Con,Lê Viết Đức (Lời),11.6.1982,3.11,"Cồn Miếu, Tứ Chánh",,2821
+Lê Viết Sơn,16,Con,Lê Viết Đức (Lời),14.10.1989,,,Đại học khoa học (2008).,2822
+Lê Viết Thành (Giản),15,Ông,,25.7.1954,,,"Con Ông Hoành. Năm 1993 do công tác, gia",2842
+Cao Thị Thu Sen,15,Bà / phối ngẫu,Lê Viết Thành (Giản),10.9.1955,,,"Quê ở Hiền Sỹ, Phong Sơn, Phong Điền.",2847
+Lê Viết Phúc,16,Con,Lê Viết Thành (Giản),6.10.1974,,,Cử nhân Công nghệ thông tin (1997).,2851
+Lê Thị Minh Giang,16,Con,Lê Viết Thành (Giản),7.9.1976,,,Cử nhân Tin học (1999).,2852
+Lê Thị Thủy Ngân,16,Con,Lê Viết Thành (Giản),`9.7.1980,,,Cử nhân Kinh tế (2007).,2855
+Lê Hải Yến,16,Con,Lê Viết Thành (Giản),6.8.1985,,,Cao đẳng Thư viện (2008).,2856
+Lê Viết vô danh,16,Con,Lê Viết Thành (Giản),14.8.1986,14.8.1986,"Cồn khám, Tứ Chánh",,2857
+Lê Viết Ký,15,Ông,,,,,Con Ông Điện. Năm 1985 gia đình đi Kinh tế,2874
+Trần Thị Xử,15,Bà / phối ngẫu,Lê Viết Ký,,,,"Người Họ Trần, Trà Trì.",2877
+Lê vô danh,16,Con,Lê Viết Ký,,,,,2881
+Lê Viết Lý,16,Con,Lê Viết Ký,1964,,,,2882
+Lê Viết Thiết,16,Con,Lê Viết Ký,1966,,,,2883
+Lê Thị Nga,16,Con,Lê Viết Ký,,,,,2884
+Lê Viết Phi,16,Con,Lê Viết Ký,1971,,,,2885
+Lê Viết Thi,16,Con,Lê Viết Ký,1974,,,,2886
+Lê Viết Thưng,16,Con,Lê Viết Ký,1977,,,Bản Gia phổ 1994 ghi tên Lê Viết Hoàng,2887
+Lê vô danh,16,Con,Lê Viết Ký,,,"Trà Trì, Hải Xuân.",,2888
+Lê Viết Hùng,16,Con,Lê Viết Ký,1982,25.3.1984,,Bản Gia phổ 1994 ghi tên Lê Viết  Trung,2889
+Lê Viết Thái (Được),15,Ông,,25.11.1988,,,Con Ông Phụ.,2904
+Lê Viết Lập,15,Ông,,1915,18.12,"Trà Trì, Hải Xuân.",Con Ông Thành.,2932
+Nguyễn Thị Khản,15,Bà / phối ngẫu,Lê Viết Lập,,24.9,"Trà Trì, Hải Xuân.","Người Họ Nguyễn 5, Trà Trì.",2933
+Nguyễn Thị Huệ,15,Bà / phối ngẫu,Lê Viết Lập,1925,,,"Người Họ Nguyễn 2, Trà Trì.",2934
+Lê Viết Lường,16,Con,Lê Viết Lập,,29.5,"Trà Trì, Hải Xuân.",Con Bà Khản.,2937
+Lê vô danh,16,Con,Lê Viết Lập,,,"Trà Trì, Hải Xuân.",,2938
+Lê Viết Dưỡng,16,Con,Lê Viết Lập,,,"Trà Trì, Hải Xuân.",,2939
+Lê Viết Hường,16,Con,Lê Viết Lập,,,"Trà Trì, Hải Xuân.",,2940
+Lê Thị Hiền,16,Con,Lê Viết Lập,,,"Trà Trì, Hải Xuân.",,2941
+Lê Viết Đính,16,Con,Lê Viết Lập,1954,,,Con Bà Huệ.,2942
+Lê vô danh,16,Con,Lê Viết Lập,,,"Trà Trì, Hải Xuân.",,2943
+Lê Thị Kính,16,Con,Lê Viết Lập,1957,,,"Lấy chồng Họ Lê 4, Trà Trì.",2944
+Lê Thị Kỷ,16,Con,Lê Viết Lập,,,"Trà Trì, Hải Xuân.",,2945
+Lê Viết Hợi,16,Con,Lê Viết Lập,16.5.1964,,,,2946
+Lê Thị Mẫu,16,Con,Lê Viết Lập,1967,,,"Lấy chồng Họ Nguyễn 2, Trà Trì.",2947
+Lê Thị Toàn,16,Con,Lê Viết Lập,1971,13.4,"Trà Trì, Hải Xuân.",,2948
+Lê Viết Hoanh,15,Ông,,1932,23.12.2003,"Lộc Thiện, Lộc Ninh, Bình",Con Ông Chính.,2960
+Lê Thị Khổn,15,Bà / phối ngẫu,Lê Viết Hoanh,1935,,,"Người quê Văn Vận, Hải Quy.",2962
+Lê Viết Hoan,16,Con,Lê Viết Hoanh,25.12.1966,,,Lê Hoan.,2966
+Lê Thị Hường,16,Con,Lê Viết Hoanh,1968,,,,2967
+Lê Viết Hùng,16,Con,Lê Viết Hoanh,20.5.1971,,,Cao đẳng,2968
+Lê Viết Dũng,16,Con,Lê Viết Hoanh,10.9.1973,,,Lê Dũng.,2969
+Lê Thị Lan,16,Con,Lê Viết Hoanh,1976,,,,2970
+Lê Viết Dần,15,Ông,,9.7.1950,,,Con Ông Tu.,2991
+Lê Thị Hường,15,Bà / phối ngẫu,Lê Viết Dần,21.10.1947,,,"Người Họ Lê 4, Trà Trì.",2992
+Lê Thị Dàn,15,Bà / phối ngẫu,Lê Viết Dần,,6.1,"Trà Trì, Hải Xuân.","Người Họ Lê 4, Trà Trì.",2993
+Lê Thị Hải,16,Con,Lê Viết Dần,1972,,,Con Bà Hường.,2996
+Lê Thị Hà,16,Con,Lê Viết Dần,,18.7,"Trà Trì, Hải Xuân.",,2997
+Lê Viết Sơn,16,Con,Lê Viết Dần,1977,,,Đại Đức Thích Tâm Lương.,2998
+Lê Viết Tùng,16,Con,Lê Viết Dần,6.3.1979,,,,2999
+Lê Thị Tiệm,16,Con,Lê Viết Dần,,,,"Lấy chồng Họ Nguyễn 2, Trà Trì.",3000
+Lê Thị Hiền,16,Con,Lê Viết Dần,,,,Con Bà Dàn. Lấy chồng quê ở Thừa,3001
+Lê Viết Quang,16,Con,Lê Viết Dần,,26.6,"Trà Trì, Hải Xuân.",,3003
+Lê Viết Toan (Thoan),15,Ông,,1924,1998,"Dục Mỹ, Khánh Hoà.",Con Ông Hành.,3020
+Trần Thị Phó,15,Bà / phối ngẫu,Lê Viết Toan (Thoan),1928,,,"Quê ở Thượng Lập, Vĩnh Linh, Quảng",3022
+Lê Viết Vĩnh,16,Con,Lê Viết Toan (Thoan),1953,,,Lê Vĩnh.,3027
+Lê Thị Tiếu,16,Con,Lê Viết Toan (Thoan),1955,,,"Lấy chồng Nguyễn Biểu, Bố Trạch,",3028
+Lê Viết Điệp,16,Con,Lê Viết Toan (Thoan),1959,2008,"Dục Mỹ, Khánh Hoà",Lê Điệp.,3030
+Lê Viết Diệp,16,Con,Lê Viết Toan (Thoan),1962,,,Lê Diệp.,3031
+Lê Viết Tuyến,16,Con,Lê Viết Toan (Thoan),1966,,,Lê Tuyến.,3032
+Lê Thị Hoa,16,Con,Lê Viết Toan (Thoan),1967,,,"Lấy chồng Phạm Ngọc Toán, Hưng",3033
+Lê Thị Lan,16,Con,Lê Viết Toan (Thoan),1970,,,"Lấy chồng Nguyễn Lai, Phú Lâm, Tuy",3035
+Lê Viết Tảo,15,Ông,,,,Đà Nẵng.,Con Ông Hành.,3052
+Lê Viết Vãn,16,Con,Lê Viết Tảo,,,"Trà Trì, Hải Xuân.",,3057
+Lê Viết Tiềm,15,Ông,,,,,Con Ông Lại.,3082
+Nguyễn Thị Hoa,15,Bà / phối ngẫu,Lê Viết Tiềm,,,,Họ Nguyễn 2 Trà Trì.,3083
+Lê Viết Tuấn,16,Con,Lê Viết Tiềm,,,,,3087
+Lê Viết Tài,16,Con,Lê Viết Tiềm,,,,,3088
+Lê Thị Liên,16,Con,Lê Viết Tiềm,,,,,3089
+Lê Viết Dõng (Dũng),16,Con,Lê Viết Tiềm,,,,,3090
+Lê Viết Trọng,16,Con,Lê Viết Tiềm,Tuất,Tuất,,,3091
+Lê Viết Trí,16,Con,Lê Viết Tiềm,,,,,3092
+Lê Viết Đức,16,Con,Lê Viết Tiềm,,,,,3093
+Lê Viết Hùng,16,Con,Lê Viết Tiềm,,,,,3094
+Lê Viết Long,16,Con,Lê Viết Tiềm,,,,,3095
+Lê Thị Thu Linh,16,Con,Lê Viết Tiềm,,,,,3096
+Lê Thị Thu Hà,16,Con,Lê Viết Tiềm,,,,,3097
+Lê Thị Thu Loan,16,Con,Lê Viết Tiềm,,,,,3098
+Lê Viết Trưng,15,Ông,,1940,,,Con Ông Long.,3112
+Lê Thị Thiện.,15,Bà / phối ngẫu,Lê Viết Trưng,1945,,,,3114
+Lê Thị Loan,16,Con,Lê Viết Trưng,1969,,,"Lấy chồng Trà Lộc, Hải Xuân.",3118
+Lê Viết Phức,16,Con,Lê Viết Trưng,1972,,,Lê Phức.,3119
+Lê Thị Thu,16,Con,Lê Viết Trưng,1974,,,"Lấy chồng Họ Hoàng, Trà Trì.",3120
+Lê Thị Thuỷ,16,Con,Lê Viết Trưng,1976,,,"Lấy chồng Họ Nguyễn   , Trà Trì.",3121
+Lê Thị Lợi,16,Con,Lê Viết Trưng,,,,Lấy chồng Trà Lộc.,3122
+Lê Thị Sáu,16,Con,Lê Viết Trưng,1983,,,Lấy chồng Thừa Thiên - Huế.,3123
+Lê Thị Bảy,16,Con,Lê Viết Trưng,1985,,,"Lấy chồng Mai Đàn, Hải Lâm.",3124
+Lê vô danh,16,Con,Lê Viết Trưng,,,,,3125
+Lê Viết Tám,16,Con,Lê Viết Trưng,1987,,,Lê Tám.,3126
+Lê Viết Việt,16,Con,Lê Viết Trưng,1989,,,Lê Việt.,3127
+Lê Viết Đức,16,Con,Lê Viết Trưng,1991,,,Lê Đức.,3128
+Lê vô danh,16,Con,Lê Viết Trưng,,,,,3129
+Lê Viết Xưng,15,Ông,,1951,,,Con Ông Long.,3141
+Nguyễn Thị Phụng,15,Bà / phối ngẫu,Lê Viết Xưng,1950,,,"Người Họ Nguyễn 2, Trà Trì.",3142
+Lê vô danh,16,Con,Lê Viết Xưng,,,,,3146
+Lê Viết Mỹ,16,Con,Lê Viết Xưng,1971,,,,3147
+Lê Viết Anh,16,Con,Lê Viết Xưng,1974,,,,3148
+Lê Thị Nga,16,Con,Lê Viết Xưng,1977,,,"Lấy chồng Họ Nguyễn 2, Trà Trì.",3149
+Lê Viết Trung,16,Con,Lê Viết Xưng,1979,,,Đại Đức Thích Tâm Thiện.,3150
+Lê Viết Quang,16,Con,Lê Viết Xưng,1983,,,,3151
+Lê Thị Nguyệt,16,Con,Lê Viết Xưng,1986,,,"Lấy chồng Họ Lê 4, Trà Trì.",3152
+Lê Viết Thường,15,Ông,,1.3.1932,,,Con Ông Chất.,3170
+Thị Luyến,15,Bà / phối ngẫu,Lê Viết Thường,,,,Tái giá.,3172
+Nguyễn Thị Cháu,15,Bà / phối ngẫu,Lê Viết Thường,30.10.1931,28.1 Kỷ Mùi (1979),"Trà Trì, Hải Xuân.","Họ Nguyễn Chơn, Quê ở Ngô Xá Đông,",3173
+Lê vô danh,16,Con,Lê Viết Thường,,,Không rõ,Con Bà Luyến.,3177
+Lê Viết Liêm,16,Con,Lê Viết Thường,6.11.1957,,,Con Bà Cháu.,3178
+Lê Viết Nam,16,Con,Lê Viết Thường,4.1.1960,,,Lê Thanh Nam – Kỹ sư Hoá (1985) Đại,3180
+Lê Viết Ngạn,16,Con,Lê Viết Thường,4.3.1962,,,Lê Thanh Ngạn – Thượng sĩ QĐNDVN.,3182
+Lê Thị Thanh Ngữ,16,Con,Lê Viết Thường,17.3.1964,,,"Chồng: Hoàng Minh Tường, quê Hoàn",3183
+Lê Viết Thừa,15,Ông,,1.1.1937,,,Con Ông Chất.,3201
+Hoàng Thị Ngân,15,Bà / phối ngẫu,Lê Viết Thừa,15.2.1940,,,"Người Họ Hoàng, Trà Trì.",3203
+Lê Viết Phước,16,Con,Lê Viết Thừa,27.2.1964,21.3.1977,"Trà Trì, Hải Xuân.",,3207
+Lê Thị Dung,16,Con,Lê Viết Thừa,15.10 (1966),,,"Lấy chồng họ Nguyễn 2, Trà Trì.",3208
+Lê vô danh,16,Con,Lê Viết Thừa,,,"Trà Trì, Hải Xuân.",,3209
+Lê vô danh,16,Con,Lê Viết Thừa,,,"Trà Trì, Hải Xuân.",,3210
+Lê Thị Phượng,16,Con,Lê Viết Thừa,6.4     (1970),,,"Lấy chồng họ Nguyễn 2,       Trà",3211
+Lê Thị Huệ,16,Con,Lê Viết Thừa,12.3.1972,,,"Lấy chồng Ái Tử, Triệu Ái, Triệu",3213
+Lê Viết An,16,Con,Lê Viết Thừa,22.7.1974,,,,3215
+Lê Viết Thịnh,16,Con,Lê Viết Thừa,20.5.1976,,,"Kỹ sư xây dựng (2000), Đại học Bách",3216
+Lê Thị Hằng,16,Con,Lê Viết Thừa,14.8.1979,,,"Cử nhân kinh tế (2001), Đại học Kinh",3218
+Lê Thị Hà,16,Con,Lê Viết Thừa,20.11 (1981),,,"Cử nhân kinh tế (2003), Đại học Kinh",3220
+Lê Viết Lâm,16,Con,Lê Viết Thừa,15.7.1986,,,"Cử nhân kinh tế (2008), Đại học Kinh",3223
+Lê Viết Đúc,15,Ông,,1940,25.6.1967,"Trà Trì, Hải Xuân.",Con Ông Ất.,3235
+Lê Thị Trì,15,Bà / phối ngẫu,Lê Viết Đúc,1939,20.9.1991,"Trà Trì, Hải Xuân.","Người Họ Lê 4, Trà Trì.",3236
+Lê vô danh,16,Con,Lê Viết Đúc,,,"Trà Trì, Hải Xuân.",,3240
+Lê Viết Cúc,16,Con,Lê Viết Đúc,10.8.1963,,,Lê Cúc.,3241
+Lê Viết Mai,16,Con,Lê Viết Đúc,24.4.1966,,,Lê Mai.,3242
+Lê Viết Đợi,15,Ông,,5.12.1942,,,Con Ông Ngợi.,3265
+Lê Thị Tùng,15,Bà / phối ngẫu,Lê Viết Đợi,1942,,"Trà Trì, Hải Xuân","Người Họ Lê 4, Trà Trì.",3267
+Lê Thị Lựu,15,Bà / phối ngẫu,Lê Viết Đợi,1953,,,"Người Họ Lê 4, Trà Trì.",3268
+Lê Thị Lan,16,Con,Lê Viết Đợi,3.9.1967,,,"Lấy chồng họ Nguyễn   , Trà Trì.",3271
+Lê Viết Hùng,16,Con,Lê Viết Đợi,20.8.1969,,,,3272
+Lê Viết Hương,16,Con,Lê Viết Đợi,19.1.1975,,,,3273
+Lê Viết Minh,16,Con,Lê Viết Đợi,7.2.1976,,,,3274
+Lê Thị Mỹ Lệ,16,Con,Lê Viết Đợi,19.4.1980,,,Lấy chồng Thừa Thiên – Huế.,3275
+Lê Viết Lễ,16,Con,Lê Viết Đợi,2.5.1983,,,,3276
+Lê Thị Tuyết,16,Con,Lê Viết Đợi,10.3.1985,,,,3277
+Lê vô danh,16,Con,Lê Viết Đợi,,,,,3278
+Lê Viết Học,15,Ông,,,,,Con Ông Ngợi.,3295
+Phan Thị Oanh,15,Bà / phối ngẫu,Lê Viết Học,,,,Quê ở Quảng Ngãi.,3297
+Lê Viết Đức,16,Con,Lê Viết Học,1970,,,Lê Phan Duy Đức.,3301
+Lê vô danh,16,Con,Lê Viết Học,1972,1972,Nghĩa  địa Quảng Ngãi.,,3302
+Lê Viết Vũ,16,Con,Lê Viết Học,1973,,,Lê Phan Duy Vũ.,3303
+Lê vô danh,16,Con,Lê Viết Học,1975,1975,Đảo Phú Quốc.,,3304
+Lê Viết Tuấn,16,Con,Lê Viết Học,1976,,,Lê Phan Duy Tuấn.,3305
+Lê Viết Ngọc,16,Con,Lê Viết Học,1976,,,Lê Phan Duy Ngọc.,3306
+Lê Viết Châu,15,Ông,,,,"Trà Trì, Hải Xuân.",Con Ông Ngợi.,3326
+Lê Thị Lưu,15,Bà / phối ngẫu,Lê Viết Châu,,,,"Người Họ Lê 4, Trà Trì.",3328
+Lê Viết Chi,16,Con,Lê Viết Châu,1.5.1972,,,,3332
+Lê Viết Sĩ,16,Con,Lê Viết Châu,,,,,3333
+Lê Thị Tựu,16,Con,Lê Viết Châu,,,,"Lấy chồng ở Quy Thiện, Hải Quy.",3334
+Lê Viết Mua,15,Ông,,1983,,,Con Ông Dẫn.,3357
+Trần Thị Lĩnh,15,Bà / phối ngẫu,Lê Viết Mua,1984,,,,3358
+Lê Trần Yến Nhi,16,Con,Lê Viết Mua,2007,,,,3362
+Lê Viết Dần,16,Ông,,17.2.1974,,,Con Ông Lãng (Thuyên).,3396
+Trương Thị Dấu,16,Bà / phối ngẫu,Lê Viết Dần,1972,,,"Quê Tứ Chánh, Phong Sơn.",3397
+Lê Viết Đạt,17,Con,Lê Viết Dần,14.7.1995,,,,3401
+Lê Thị Hiền,17,Con,Lê Viết Dần,19.2.1998,,,,3402
+Lê Viết Tỵ,17,Con,Lê Viết Dần,16.3.2001,,,,3403
+Lê Thị Mỹ Linh,17,Con,Lê Viết Dần,16.6.2003,,,,3404
+Lê Viết Phong,16,Ông,,10.1976,,,Con Ông Linh (Lanh).,3426
+Trần Thị Lệ Hằng,16,Bà / phối ngẫu,Lê Viết Phong,5.1.1975,,,"Quê Phước Vĩnh, Thành phố Huế.",3427
+Lê Thị Thảo,17,Con,Lê Viết Phong,31.10.2005,,,,3431
+Lê Viết Quảng,16,Ông,,2.1983,,,Con Ông Linh (Lanh).,3457
+Lê Viết Thắng,16,Ông,,5.3.1975,,,Con Ông Bù (Hương).,3488
+Đặng Thị Thuỳ,16,Bà / phối ngẫu,Lê Viết Thắng,8.10.1976,,,"Quê Hiền An, Phong Xuân.",3489
+Lê Viết Hoà,17,Con,Lê Viết Thắng,2.8.1998,,,,3493
+Lê Viết Thuận,17,Con,Lê Viết Thắng,23.4.2000,,,,3494
+Lê Thị Bình,17,Con,Lê Viết Thắng,12.3.2005,,,,3495
+Lê Viết Thăng,16,Ông,,15.9.1977,,,Con Ông Bù (Hương).,3518
+Nguyễn Thị Khuê,16,Bà / phối ngẫu,Lê Viết Thăng,30.12.1978,,,"Quê Tứ Chánh, Phong Sơn.",3519
+Lê Thị Ái Nhi,17,Con,Lê Viết Thăng,20.4.2000,,,,3523
+Lê Viết Hoàn,17,Con,Lê Viết Thăng,17.9.2004,,,,3524
+Lê Viết Long,16,Ông,,30.11.1980,,,Con Ông Bù (Hương).,3547
+Thân Thị Thuý Hiền,16,Bà / phối ngẫu,Lê Viết Long,1981,,,"Quê Cổ By, Phong Sơn.",3548
+Lê Thị Mỹ Linh,17,Con,Lê Viết Long,13.8.2007,,,,3552
+Lê Viết Được,16,Ông,,25.12.1984,,,Con Ông Bù (Hương).,3578
+Lê Viết Bốn,16,Ông,,30.5.1985,,,Con Ông Bù (Hương),3609
+Võ Thị Diễm,16,Bà / phối ngẫu,Lê Viết Bốn,1986,,,,3610
+Lê Viết Quân,17,Con,Lê Viết Bốn,2.2.2008,,,,3614
+Lê Viết Xảo,16,Ông,,15.9.1962,,,Con Ông Uyên.,3640
+Trương Thị Hạnh,16,Bà / phối ngẫu,Lê Viết Xảo,1966,,,"Quê Tứ Chánh, Phong Sơn.",3641
+Lê vô danh,17,Con,Lê Viết Xảo,,,"Cồn xa, Tứ Chánh",,3645
+Lê vô danh,17,Con,Lê Viết Xảo,,,"Cồn xa, Tứ Chánh",,3646
+Lê Thị Anh Đào,17,Con,Lê Viết Xảo,5.1.1986,,,,3647
+Lê Viết Chính,17,Con,Lê Viết Xảo,23.7.1987,,,,3648
+Lê Viết Đính,17,Con,Lê Viết Xảo,10.1.1994,,,,3649
+Lê Viết Quyệt,16,Ông,,1966,,,Con Ông Uyên.,3671
+Trương Thị Tài,16,Bà / phối ngẫu,Lê Viết Quyệt,1970,,,"Quê Sơn Quả, Phong Sơn.",3672
+Lê Thị Cẩm Vân,17,Con,Lê Viết Quyệt,28.10.1994,,,,3676
+Lê Viết Đạt,17,Con,Lê Viết Quyệt,17.5.1998,,,,3677
+Lê Viết Quân,17,Con,Lê Viết Quyệt,12.12.2003,,,,3678
+Lê Viết Duyến,16,Ông,,1977,,,Con Ông Uyên.,3702
+Nguyễn Thị Bích Na,16,Bà / phối ngẫu,Lê Viết Duyến,1981,,,"Quê Phong Hoà, Phong Sơn.",3703
+Lê Viết Duy,17,Con,Lê Viết Duyến,27.3.2006,,,,3707
+Lê Viết Ngọc,16,Ông,,1979,,,Con Ông Uyên. Đại học Sư phạm,3732
+Trần Thị Hoài Phương,16,Bà / phối ngẫu,Lê Viết Ngọc,,,,"Quê Phong Hải, Phong Điền.",3734
+Lê Viết Hùng,17,Con,Lê Viết Ngọc,20.11.2007,,,,3738
+Lê Viết Ninh,16,Ông,,1979,,,Con Ông Uyên.,3763
+Lê Viết Thanh,16,Ông,,1966,,,Con Ông Trong (Loát).,3793
+Hoàng Thị Yến,16,Bà / phối ngẫu,Lê Viết Thanh,1970,,,"Quê Thị trấn Tứ Hạ, Hương Trà.",3794
+Lê Thị Cẩm Nhung,17,Con,Lê Viết Thanh,25.7.1991,,,,3798
+Lê Thị Cẩm Nhi,17,Con,Lê Viết Thanh,10.11.1993,,,,3799
+Lê Hoàng Cẩm Chi,17,Con,Lê Viết Thanh,1998,,,,3800
+Lê vô danh,17,Con,Lê Viết Thanh,,,,,3801
+Lê Viết vô danh,17,Con,Lê Viết Thanh,,,,,3802
+Lê vô danh,17,Con,Lê Viết Thanh,,,,,3803
+Lê Viết Giáo,16,Ông,,28.10.1965,,,Con Ông Dược.,3823
+Lê Thị Bồng,16,Bà / phối ngẫu,Lê Viết Giáo,13.2.1967,,,"Người Họ Lê 4, Trà Trì.",3825
+Lê Thị Hoè,16,Bà / phối ngẫu,Lê Viết Giáo,,,,"Người Họ Lê 4, Trà Trì.",3826
+Lê vô danh,17,Con,Lê Viết Giáo,,,"Trà Trì, Hải Xuân.",,3829
+Lê vô danh,17,Con,Lê Viết Giáo,,,"Trà Trì, Hải Xuân.",,3830
+Lê Thị Thuý,17,Con,Lê Viết Giáo,22.3.1989,,,,3831
+Lê Thị Hiền,17,Con,Lê Viết Giáo,30.4.1992,,,,3832
+Lê Viết Dục,17,Con,Lê Viết Giáo,13.1.1998,,,Lê Tiến Dục.,3833
+Lê Viết Đức,17,Con,Lê Viết Giáo,5.2000,,,Con Bà Hoè. Lê Đức.,3834
+Lê Viết Đạo,16,Ông,,2.9.1976,,,Con Ông Đức (Lời).,3854
+Nguyễn Ái Quỳnh Tiên,16,Bà / phối ngẫu,Lê Viết Đạo,,,,"Quê ở Thượng An, Phong An. Cử nhân",3856
+Lê Thị Minh Phương,17,Con,Lê Viết Đạo,20.11.2007,,,,3861
+Lê Viết Sơn,16,Ông,,14.10.1989,,,Con Ông Đức (Lời). Đại học khoa học,3886
+Lê Viết Phúc,16,Ông,,6.10.1974,,,Con Ông Thành (Giản).,3916
+Nguyễn Thị Thuỳ Trang,16,Bà / phối ngẫu,Lê Viết Phúc,20.9.1983,,,"Quê ở Hạ 1, Thuỷ Xuân, TP Huế. Cử",3918
+Lê Viết Phú,17,Con,Lê Viết Phúc,15.2.2008,,,,3923
+Lê Viết Lý,16,Ông,,1964,,,Con Ông Ký.,3947
+Nguyễn Thị Thu,16,Bà / phối ngẫu,Lê Viết Lý,1965,,,"Người Họ Nguyễn 2, Trà Trì.",3948
+Lê Viết Chuý,17,Con,Lê Viết Lý,1992,,,,3952
+Lê Thị Hồng Ngọc,17,Con,Lê Viết Lý,1995,,,,3953
+Lê Thị Lệ Thuỷ,17,Con,Lê Viết Lý,1997,,,,3954
+Lê Viết Trung,17,Con,Lê Viết Lý,1999,,,,3955
+Lê Viết Thiết,16,Ông,,1966,,,Con Ông Ký.,3977
+Nguyễn Thị Lý,16,Bà / phối ngẫu,Lê Viết Thiết,1964,,,"Người Họ Nguyễn 5, Trà Trì.",3978
+Lê Viết Phiết,17,Con,Lê Viết Thiết,1990,,,,3982
+Lê Thị Trúc Liên,17,Con,Lê Viết Thiết,1993,,,,3983
+Lê Thị Ngọc Hiền,17,Con,Lê Viết Thiết,1995,,,,3984
+Lê Thị Huyền Trang,17,Con,Lê Viết Thiết,1998,,,,3985
+Lê vô danh,17,Con,Lê Viết Thiết,,,,,3986
+Lê Viết Phi,16,Ông,,1979,,,Con Ông Ký.,4007
+Trần Thị Hà,16,Bà / phối ngẫu,Lê Viết Phi,1975,,,"Quê ở Phú Dương, Phú Vang, TP Huế.",4008
+Lê vô danh,17,Con,Lê Viết Phi,,,,,4012
+Lê vô danh,17,Con,Lê Viết Phi,,,,,4013
+Lê Thị Thu Thủy,17,Con,Lê Viết Phi,1997,,,,4014
+Lê Thị Mỵ,17,Con,Lê Viết Phi,2001,,,,4015
+Lê vô danh,17,Con,Lê Viết Phi,,,,,4016
+Lê Thị Mỹ Châu,17,Con,Lê Viết Phi,2005,,,,4017
+Lê Viết Thi,16,Ông,,1974,,,Con Ông Ký.,4037
+Nguyễn Thị Cẩm Diệu,16,Bà / phối ngẫu,Lê Viết Thi,1981,,,"Quê ở Châu Thành, Hậu Giang.",4038
+Lê vô danh,17,Con,Lê Viết Thi,,,,,4042
+Lê Viết Thuận,17,Con,Lê Viết Thi,2001,,,,4043
+Lê Thị Phương Nhung,17,Con,Lê Viết Thi,2003,,,,4044
+Lê vô danh,17,Con,Lê Viết Thi,,,,,4045
+Lê Thị Mộng Tuyền,17,Con,Lê Viết Thi,2006,,,,4046
+Lê Viết Thưng,16,Ông,,1977,,,Con Ông Ký.,4067
+Sử Thị Hoa,16,Bà / phối ngẫu,Lê Viết Thưng,1978,,,"Quê ở Kỳ Văn, Kỳ Anh, Hà Tĩnh.",4069
+Lê Viết Hóa,17,Con,Lê Viết Thưng,2001,,,,4073
+Lê Thị Mỹ Oanh,17,Con,Lê Viết Thưng,2004,,,,4074
+Lê Viết Đính,16,Ông,,1954,,,Con Ông Lập.,4098
+Huỳnh Thị Chính,16,Bà / phối ngẫu,Lê Viết Đính,1953,,,"Quê ở Phú Lộc, TT Huế.",4099
+Lê Thị Chiến,17,Con,Lê Viết Đính,1974,,,"Lấy chồng Họ Lê 4, Trà Trì.",4103
+Lê Viết Phong,17,Con,Lê Viết Đính,1977,,,,4104
+Lê Viết Nhật,17,Con,Lê Viết Đính,1980,,,,4105
+Lê Viết Sinh,17,Con,Lê Viết Đính,1983,,,,4106
+Lê Thị Ly,17,Con,Lê Viết Đính,1986,,,,4107
+Lê Viết Lộc,17,Con,Lê Viết Đính,1989,,,,4108
+Lê Viết Hợi,16,Ông,,16.5,,,Con Ông Lập.,4127
+Hoàng Thị Hoa,16,Bà / phối ngẫu,Lê Viết Hợi,10.2,,,"Người Họ Hoàng, Trà Trì.",4129
+Lê Viết vô danh,17,Con,Lê Viết Hợi,1991,9.10,"Trà Trì, Hải Xuân.",,4134
+Lê Thị Hương,17,Con,Lê Viết Hợi,1.5.1993,,,,4136
+Lê Viết Tường,17,Con,Lê Viết Hợi,11.4.1995,,,,4137
+Lê Viết Khương,17,Con,Lê Viết Hợi,20.9.2004,,,,4138
+Lê Viết Hoan,16,Ông,,25.12.1966,,,Con Ông Hoanh.,4159
+Phạm Thị Son,16,Bà / phối ngẫu,Lê Viết Hoan,2.1968,,,"Quê ở Triệu Trung, Triệu Phong.",4161
+Lê Thị Thể Cúc,17,Con,Lê Viết Hoan,25.8.1993,,,,4165
+Lê Thị Kim Lựu,17,Con,Lê Viết Hoan,20.12.1995,,,,4166
+Lê Thị Huyền Trang,17,Con,Lê Viết Hoan,8.10.1999,,,,4167
+Lê Thị Tuyết Trinh,17,Con,Lê Viết Hoan,16.8.2001,,,,4168
+Lê Thị Phương Thanh,17,Con,Lê Viết Hoan,3.1.2007,,,,4169
+Lê Viết Hùng,16,Ông,,21.5.1971,,,Con Ông Hoanh.,4190
+Đoàn Thị Thu,16,Bà / phối ngẫu,Lê Viết Hùng,6.4.1974,,,,4191
+Lê Thị Minh Anh,17,Con,Lê Viết Hùng,13.3.1999,,,,4195
+Lê Thị Minh Hạnh,17,Con,Lê Viết Hùng,4.9.2007,,,,4196
+Lê Viết Dũng,16,Ông,,10.9.1973,,,Con Ông Hoanh.,4220
+Bùi Thị Bích Lệ,16,Bà / phối ngẫu,Lê Viết Dũng,30.4.1973,,,,4222
+Lê Thị Hương Giang,17,Con,Lê Viết Dũng,3.9.1999,,,,4226
+Lê Viết Sang,17,Con,Lê Viết Dũng,3.7.2007,,,Lê Ngọc Sang.,4227
+Lê Viết Tùng,16,Ông,,6.3.1979,,,Con Ông Dần.,4251
+Nguyễn Thị Thu,16,Bà / phối ngẫu,Lê Viết Tùng,10.8.1978,,,"Người Họ Nguyễn 5, Trà Trì.",4252
+Lê Nguyễn Anh Thư,17,Con,Lê Viết Tùng,13.2.2005,,,,4256
+Lê Thị Thuý,17,Con,Lê Viết Tùng,2009,,,,4257
+Lê Viết Vĩnh,16,Ông,,1953,,,Con Ông Toan.,4281
+Hoàng Thị Thạnh,16,Bà / phối ngẫu,Lê Viết Vĩnh,1956,,,"Quê ở Cao Xá, Gio Linh, Quảng Trị.",4283
+Lê Thị Hồng Vân,17,Con,Lê Viết Vĩnh,1978,,,"Lấy chồng Đặng Thế Huy - Ninh Phụng,",4287
+Lê Thị Hồng Thuỷ,17,Con,Lê Viết Vĩnh,1980,,,,4289
+Lê Viết Cường,17,Con,Lê Viết Vĩnh,1981,,,,4290
+Lê Thị Hồng Nhung,17,Con,Lê Viết Vĩnh,1984,,,Lấy chồng Nguyễn Duy Trinh - Ninh,4291
+Lê Thị Hồng Loan,17,Con,Lê Viết Vĩnh,1987,,,,4293
+Lê Thị Hồng Mai,17,Con,Lê Viết Vĩnh,1989,,,,4294
+Lê Viết Điệp,16,Ông,,1959,2008,"Dục Mỹ, Khánh Hoà.",Con Ông Toan.,4312
+Nguyễn Thị Như Phượng,16,Bà / phối ngẫu,Lê Viết Điệp,1966,,,"Quê ở Ninh Phụng, Ninh Hoà, Khánh",4314
+Lê Viết Trung,17,Con,Lê Viết Điệp,1987,,,,4319
+Lê Thị Hồng Phương,17,Con,Lê Viết Điệp,1988,,,,4320
+Lê Thị Hồng Hà,17,Con,Lê Viết Điệp,1993,,,,4321
+Lê Viết Diệp,16,Ông,,1962,,,Con Ông Toan.,4344
+Nguyễn Thị Như Phượng,16,Bà / phối ngẫu,Lê Viết Diệp,1966,,,"Quê ở Ninh Phụng, Ninh Hoà, Khánh",4346
+Lê Viết Hưng,17,Con,Lê Viết Diệp,1988,,,Lê Viết Thành Hưng.,4351
+Lê Thị Ngọc Bích,17,Con,Lê Viết Diệp,1991,,,,4352
+Lê Viết Tuyến,16,Ông,,1966,,,Con Ông Toan.,4376
+Huỳnh Tuyết Lan,16,Bà / phối ngẫu,Lê Viết Tuyến,1966,,,"Quê ở Bình Hoà, Bình Sơn, Quảng",4378
+Lê Viết Tâm,17,Con,Lê Viết Tuyến,1992,,,,4383
+Lê Thị Ngọc Thuý,17,Con,Lê Viết Tuyến,1993,,,,4384
+Lê Thị Ngọc Thảo,17,Con,Lê Viết Tuyến,1996,,,,4385
+Lê Viết Vãn,16,Ông,,,,"Trà Trì, Hải Xuân.",Con Ông Tảo.,4408
+Lê Viết Tuấn,16,Ông,,,,,Con Ông Tiềm.,4437
+Hoàng Thị Công Minh Hiếu,16,Bà / phối ngẫu,Lê Viết Tuấn,,,,,4438
+Lê Hoàng Uyên Thi,17,Con,Lê Viết Tuấn,,,,,4442
+Lê Viết Tài,16,Ông,,,,,Con Ông Tiềm.,4467
+Lê Thị Bích Hồng,16,Bà / phối ngẫu,Lê Viết Tài,,,,,4468
+Lê Viết Hưng,17,Con,Lê Viết Tài,,,,,4472
+Lê Viết Thịnh,17,Con,Lê Viết Tài,,,,,4473
+Lê Viết Dũng (Dõng),16,Ông,,,,,Con Ông Tiềm.,4498
+Lê Viết Trí,16,Ông,,,,,Con Ông Tiềm.,4528
+Nguyễn Thị Phượng,16,Bà / phối ngẫu,Lê Viết Trí,,,,,4529
+Lê Viết Minh,17,Con,Lê Viết Trí,,,,Lê Bảo Minh,4533
+Lê Viết Đức,16,Ông,,,,,Con Ông Tiềm.,4558
+Nguyễn Thị Kim Ngân,16,Bà / phối ngẫu,Lê Viết Đức,,,,,4559
+Lê Viết Hoà,17,Con,Lê Viết Đức,,,,Lê Thái Hoà,4563
+Lê Viết Hùng,16,Ông,,,,,Con Ông Tiềm.,4589
+Lê Viết Long,16,Ông,,,,,Con Ông Tiềm.,4620
+Lê Viết Phức,16,Ông,,1972,,,Con Ông Trưng.,4651
+Lê Thị Huyền,16,Bà / phối ngẫu,Lê Viết Phức,1973,,,,4652
+Lê Viết Hoà,17,Con,Lê Viết Phức,1997,,,,4656
+Lê Viết Bình,17,Con,Lê Viết Phức,2000,,,,4657
+Lê Viết Mỹ,16,Ông,,1971,,,Con Ông Xưng.,4682
+Lê Viết Anh,16,Ông,,1974,,,Con Ông Xưng.,4712
+Nguyễn Thị Liền,16,Bà / phối ngẫu,Lê Viết Anh,,,,"Người Họ Nguyễn 5, Trà Trì.",4713
+Lê Viết Quốc,17,Con,Lê Viết Anh,2000,,,,4717
+Lê Thị Yến,17,Con,Lê Viết Anh,2004,,,,4718
+Lê Viết Quang,16,Ông,,1983,,,Con Ông Xưng.,4741
+Lê Viết Liêm,16,Ông,,6.11.1957,,,Con Ông Thường.,4770
+Nguyễn Thị Kiên,16,Bà / phối ngẫu,Lê Viết Liêm,10.10.1957,,,"Quê ở Lệ Thuỷ, Quảng Bình.",4772
+Lê Thị Thuý Hiền,17,Con,Lê Viết Liêm,12.5.1985,,,Cao đẳng công nghiệp thực phẩm,4776
+Lê Viết Hoàng,17,Con,Lê Viết Liêm,22.3.1987,,,Lê Thanh Hoàng.,4778
+Lê Thị Thu Hà,17,Con,Lê Viết Liêm,15.8.1989,,,,4779
+Lê Thị Thanh Hằng,17,Con,Lê Viết Liêm,15.6.1994,,,,4780
+Lê Viết Nam,16,Ông,,4.1.1960,,,Con Ông Thường. Kỹ sư Hoá - Đại học,4801
+Đỗ Hoàng Oanh,16,Bà / phối ngẫu,Lê Viết Nam,8.1.1958,15.2,"Trà Trì, Hải Xuân.","Quê ở Bố Liêu, Triệu Hoà, Triệu",4803
+Nguyễn Thị Thanh,16,Bà / phối ngẫu,Lê Viết Nam,26.7.1976,,,"Quê ở Tích Tường, Hải Lệ, Hải Lăng.",4805
+Lê Viết Nguyên,17,Con,Lê Viết Nam,17.1.1992,,,Lê Hoàng Nguyên.,4809
+Lê Viết Khang,17,Con,Lê Viết Nam,28.11.2002,,,Lê Nguyên Khang.,4810
+Lê vô danh,17,Con,Lê Viết Nam,2004,2004,"Trà Trì, Hải Xuân.",,4811
+Lê Viết Minh,17,Con,Lê Viết Nam,7.12.2006,,,Lê Hoàng Minh.,4812
+Lê vô danh,17,Con,Lê Viết Nam,2007,2007,"Trà Trì, Hải Xuân.",,4813
+Lê Viết Ngạn,16,Ông,,4.3.1962,,,Con Ông Thường.,4832
+Võ Thị Phượng,16,Bà / phối ngẫu,Lê Viết Ngạn,1968,,,"Quê ở Trâm Lý, Hải Quy, Hải Lăng.",4834
+Lê Viết Sơn,17,Con,Lê Viết Ngạn,18.10.1993,,,Lê Tùng Sơn.,4838
+Lê Tùng Thanh Vân,17,Con,Lê Viết Ngạn,20.11.1997,,,,4839
+Lê Viết An,16,Ông,,22.7.1974,,,Con Ông Thừa.,4863
+Nguyễn Thị Thu Phượng,16,Bà / phối ngẫu,Lê Viết An,25.9.1973,,,,4864
+Lê Nguyễn Phượng Vy,17,Con,Lê Viết An,25.8.1995,,,,4868
+Lê Viết Thịnh,16,Ông,,9.4,,,Con Ông Thừa.,4893
+Vũ Minh Hiền,16,Bà / phối ngẫu,Lê Viết Thịnh,16.6.1975,,,,4896
+Lê Viết Khoa,17,Con,Lê Viết Thịnh,31.5.2008,,,,4900
+Lê Viết Lâm,16,Ông,,,,,Con Ông Thừa.,4925
+Lê Viết Cúc (Các),16,Ông,,10.8.1963,,,Con Ông Đúc.,4956
+Lê Thị Đàm,16,Bà / phối ngẫu,Lê Viết Cúc (Các),19.9.1965,,,"Người Họ Lê 4, Trà Trì.",4958
+Lê Viết vô danh,17,Con,Lê Viết Cúc (Các),,,"Trà Trì, Hải Xuân.",,4962
+Lê Viết Dục,17,Con,Lê Viết Cúc (Các),17.9.1995,,,,4963
+Lê Thị Như Quỳnh,17,Con,Lê Viết Cúc (Các),15.7.1999,,,,4964
+Lê Viết Dũng,17,Con,Lê Viết Cúc (Các),30.5.2002,,,,4965
+Lê Viết Mai,16,Ông,,24.4.1966,,,Con Ông Đúc.,4987
+Trần Thị Huê,16,Bà / phối ngẫu,Lê Viết Mai,10.9.1969,,,"Quê ở Triệu Đông, Triệu Phong.",4989
+Lê Viết Đạt,17,Con,Lê Viết Mai,4.8.2003,,,,4993
+Lê vô danh,17,Con,Lê Viết Mai,,,"Trà Trì, Hải Xuân.",,4994
+Lê Thị Thanh Thảo,17,Con,Lê Viết Mai,3.6.2006,,,,4995
+Lê Viết Hùng,16,Ông,,20.8.1969,,,Con Ông Đợi.,5018
+Nguyễn Thị Yến,16,Bà / phối ngẫu,Lê Viết Hùng,1975,,,,5019
+Lê Thị Thuỳ Trang,17,Con,Lê Viết Hùng,4.8.2003,,,,5023
+Lê Thị Thuỳ Dương,17,Con,Lê Viết Hùng,19.9.2004,,,,5024
+Lê vô danh,17,Con,Lê Viết Hùng,1995,,,,5025
+Lê Viết Hương,16,Ông,,19.1.1975,,,Con Ông Đợi.,5048
+Trần Thị Ngọc,16,Bà / phối ngẫu,Lê Viết Hương,20.2.1980,,,,5049
+Lê Viết Minh,16,Ông,,7.2.1976,,,Con Ông Đợi.,5078
+Phạm Thị Chinh,16,Bà / phối ngẫu,Lê Viết Minh,3.2.1979,,,"Quê ở Hoa Lư, Ninh Bình.",5079
+Lê Thị Bảo Ngọc,17,Con,Lê Viết Minh,17.11.2008,,,,5083
+Lê Viết Lễ,16,Ông,,2.5.1983,,,Con Ông Đợi.,5108
+Lê Viết Đức,16,Ông,,1970,,,Con Ông Học.,5138
+Lê Thị Cẩm Hằng,16,Bà / phối ngẫu,Lê Viết Đức,,,,"Quê ở Phong Điền, Thừa Thiên - Huế.",5140
+Lê Phan Ngọc Thảo,17,Con,Lê Viết Đức,2005,,,,5144
+Lê Viết Vũ,16,Ông,,1973,,,Con Ông Học.,5168
+Trần Thị Thanh Hiền,16,Bà / phối ngẫu,Lê Viết Vũ,1978,,,Quê ở Quảng Nam.,5170
+Nguyễn Thị Thanh Thuý,16,Bà / phối ngẫu,Lê Viết Vũ,1983,,,Quê ở Quảng Bình.,5171
+Lê Trần Tú Nguyệt,17,Con,Lê Viết Vũ,2000,,,Con Bà Hiền.,5174
+Lê Viết Tuấn,16,Ông,,1976,,,Con Ông Học.,5198
+Đoàn Thị Bích Thuý,16,Bà / phối ngẫu,Lê Viết Tuấn,01.01.1981,,,"Quê ở Mỹ Hiệp, Phù Mỹ, Bình Định.",5200
+Lê Viết Thịnh,17,Con,Lê Viết Tuấn,2005,,,Lê Đoàn Hiếu Thịnh.,5204
+Lê Viết Ngọc,16,Ông,,1976,,,Con Ông Học.,5229
+Nguyễn Thị Ngọc Thuỳ,16,Bà / phối ngẫu,Lê Viết Ngọc,1984,,,"Quê   ở Phong Thu, Phong  Điền, Thừa",5231
+Lê Viết Chi,16,Ông,,1.5.1972,,,Con Ông Châu.,5260
+Võ Thị Hiệt,16,Bà / phối ngẫu,Lê Viết Chi,28.11.1976,,,Quê ở Quảng Bình.,5261
+Lê Viết Ninh,17,Con,Lê Viết Chi,21.1.2004,,,,5265
+Lê Viết Sĩ,16,Ông,,,,,Con Ông Châu.,5291
+Lê Viết Phong,17,Ông,,1977,,,Con Ông Đính.,5330
+Huỳnh Thị Hạnh,17,Bà / phối ngẫu,Lê Viết Phong,1983,,,Quê ở Quảng Nam.,5331
+Lê Thị Vy,18,Con,Lê Viết Phong,2005,,,,5335
+Lê Viết Vũ,18,Con,Lê Viết Phong,2007,,,,5336
+Lê Viết Nhật,17,Ông,,1980,,,Con Ông Đính.,5359
+Cao Thị Thuý,17,Bà / phối ngẫu,Lê Viết Nhật,1982,,,Quê ở Thừa Thiên - Huế.,5360
+Lê Thị Yến Nhi,18,Con,Lê Viết Nhật,2007,,,,5364

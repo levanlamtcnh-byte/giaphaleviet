@@ -1,0 +1,167 @@
+id,name,generation,partner_id,partner_name,birth,death,burial,note,source_line
+S0000,Tịnh Bà,1,P0001,Lê Bá Mộc,,,"Trà Trì, Hải Xuân",,345
+S0001,Tịnh Bà,1,P0002,Lê Thanh Tùng,,,"Trà Trì, Hải Xuân",,377
+S0002,Tịnh Bà,2,P0007,Lê Thanh Trăn,,,"Trà Trì, Hải Xuân",,417
+S0003,Trị,3,P0008,Lê Tất Thắng,,26.10,"Trà Trì, Hải Xuân.",,457
+S0004,Lê Thị An,4,P0010,Lê Tất Dõng,,8.1,"Trà Trì, Hải Xuân.",,498
+S0005,Nguyễn Thị Lợi,5,P0011,Lê Đức Thông,Tân Mùi,7.3,"Trà Trì, Hải Xuân.",,539
+S0006,Lê Thị Lợi,6,P0013,Lê Đức Duệ,,8.10,"Trà Trì, Hải Xuân.",,582
+S0007,Lê Thị Tỵ,7,P0017,Lê Viết Kiên (Khiên),,26.4,"Trà Trì, Hải Xuân.",,623
+S0008,Bằng Thị An,8,P0018,Lê Viết Liên (Nghị),,12.5,"Trà Trì, Hải Xuân.",,663
+S0009,Nguyễn Thị Nhơn,8,P0018,Lê Viết Liên (Nghị),,,"Trà Trì, Hải Xuân.",,664
+S0010,Nguyễn Thị Hệ,9,P0019,Lê Viết Ánh,,23.2,"Trà Trì, Hải Xuân.",,703
+S0011,Lê Thị Bái (Phải),10,P0029,Lê Viết Thuỳ,,5.5,"Cồn Xanh, Trà Trì, Hải",,746
+S0012,Nguyễn Thị Thiệp,10,P0029,Lê Viết Thuỳ,,,"Trà Trì, Hải Xuân.",,748
+S0013,Lê Thị Thể,10,P0030,Lê Viết Luận (Hậu),,12.3,"Trà Trì, Hải Xuân.",,777
+S0014,Nguyễn Thị Ninh,10,P0032,Lê Viết Dụng,Kỷ Hợi,6.2,"Trà Trì, Hải Xuân.",,808
+S0015,Nguyễn Thị Hoa,11,P0038,Lê Viết Thiện,,2.10,"Trà Trì, Hải Xuân.",,879
+S0016,Hoàng Thị Cởi (Cải),11,P0039,Lê Viết Hãnh,,20.3,"Trà Trì, Hải Xuân.",,910
+S0017,Nguyễn Thị Lê,11,P0042,Lê Viết Năm,,,"Trà Trì, Hải Xuân.",,941
+S0018,Lê Thị Thụ (Phụ),11,P0045,Lê Viết Phổ (Trứ),,,"Trà Trì, Hải Xuân.",,971
+S0019,Nguyễn Thị Để,11,P0045,Lê Viết Phổ (Trứ),,30.12,"Trà Trì, Hải Xuân.",,972
+S0020,…,11,P0045,Lê Viết Phổ (Trứ),,,,,973
+S0021,Lê Thị Kiểm,11,P0047,Lê Viết Trực,,11.7,"Trà Trì, Hải Xuân.",,1000
+S0022,Lê Thị Mót,11,P0047,Lê Viết Trực,,,"Trà Trì, Hải Xuân.",,1001
+S0023,Nguyễn Thị Khiên (Thiêu),11,P0051,Lê Viết Đạt,Quý Hợi,23.11,"Trà Trì, Hải Xuân.",,1031
+S0024,Tịnh Bà,11,P0051,Lê Viết Đạt,,,"Trà Trì, Hải Xuân.",,1032
+S0025,Nguyễn Thị Đặc,11,P0052,Lê Viết Chỉ,,11.11,"Trà Trì, Hải Xuân.",,1061
+S0026,Nguyễn Thị Khiu (Kiểu),11,P0053,Lê Viết Tín,Kỷ Mẹo,,"Trà Trì, Hải Xuân.",,1092
+S0027,Nguyễn Thị Huy,12,P0060,Lê Viết Xuân,,21.5,"Đồng Trường, Tứ Chánh,",,1133
+S0028,Lê Thị Thành,12,P0061,Lê Viết Thu,,,"Trà Trì, Hải Xuân.",,1160
+S0029,Nguyễn Thị Tĩnh,12,P0065,Lê Viết Dượng,,,"Trà Trì, Hải Xuân.",,1190
+S0030,Nguyễn Thị Hanh,12,P0066,Lê Viết Huân,,,"Trà Trì, Hải Xuân.",,1220
+S0031,Lê Thị Trí,12,P0066,Lê Viết Huân,,,"Trà Trì, Hải Xuân.",,1250
+S0032,Hoàng Thị Tích,12,P0066,Lê Viết Huân,,,"Trà Trì, Hải Xuân.",,1251
+S0033,Hoàng Thị Ngữ,12,P0069,Lê Viết Sự,,25.5,"Trà Trì, Hải Xuân.",,1279
+S0034,Nguyễn Thị Thanh,12,P0074,Lê Viết Cầu,,,"Trà Trì, Hải Xuân.",,1309
+S0035,Thị Nguyên,12,P0076,Lê Viết Đức,,,"Trà Trì, Hải Xuân.",,1339
+S0036,Lê Thị Thuần,12,P0102,Lê Viết Phúc,,,"Trà Trì, Hải Xuân.",,1369
+S0037,Nguyễn Thị Chi,12,P0078,Lê Viết Ứng,,,"Trà Trì, Hải Xuân.",,1399
+S0038,Nguyễn Thị Ngoãn,12,P0085,Lê Viết Tạo,,,"Trà Trì, Hải Xuân.",,1429
+S0039,Lê Thị Ân,12,P0085,Lê Viết Tạo,,,"Trà Trì, Hải Xuân.",,1430
+S0040,Lê Thị Linh,12,P0096,Lê Viết Hạnh,,19.5,"Trà Trì, Hải Xuân.",,1459
+S0041,Nguyễn Thị Tích,12,P0098,Lê Viết Chiêu,,,"Trà Trì, Hải Xuân.",,1489
+S0042,Nguyễn Thị Liệu (Khoa),12,P0099,Lê Viết Trứ,,26.6,"Trà Trì, Hải Xuân.",,1519
+S0043,Hoàng Thị Thảnh,13,P0109,Lê Viết Cảnh (Tịnh),,21.3,"Hiền An, năm 2007 cải",,1560
+S0044,Thái Thị Phê,13,P0110,Lê Viết Hưu,,20.6,"Cồn xa, Tứ Chánh.",Bà có con riêng tên Lê Viết Cựu (Lê,1589
+S0045,(Tái giá),13,P0115,Lê Viết Chiêm,,,"Trà Trì, Hải Xuân.",,1618
+S0046,Lê Thị Thể,13,P0116,Lê Viết Ngưỡng,,,"Trà Trì, Hải Xuân.",,1648
+S0047,Lê Thị Thừa,13,P0125,Lê Viết Dĩ,,21.7,"Trà Trì, Hải Xuân.","Người Họ Lê 4, Trà Trì.",1678
+S0048,Hoàng Thị Sâm,13,P0129,Lê Viết Sanh,,25.5,"Trà Trì, Hải Xuân.",,1768
+S0049,Lê Thị Thất,13,P0138,Lê Viết Truy,,,"Trà Trì, Hải Xuân.","Người Họ Lê 4, Trà Trì.",1797
+S0050,Nguyễn Thị Đặng,13,P0138,Lê Viết Truy,,,"Trà Trì, Hải Xuân.","Người Họ Nguyễn 5, Trà Trì.",1798
+S0051,Nguyễn Thị Sửu,13,P0138,Lê Viết Truy,,15.4,"Trà Trì, Hải Xuân.","Người Họ Nguyễn 2, Trà Trì.",1799
+S0052,Nguyễn Thị Kế,13,P0139,Lê Viết Tuyển,,10.5,"Trà Trì, Hải Xuân.","Người Họ Nguyễn 2, Trà Trì.",1826
+S0053,Lê Thị Ân,13,P0143,Lê Viết Chước,,19.1,"Trà Trì, Hải Xuân.",,1856
+S0054,Nguyễn Thị Con,13,P0159,Lê Viết Cẩn,,23.11,"Trà Trì, Hải Xuân.",,1887
+S0055,Lê Thị Tang,13,P0160,Lê Viết Thận,,,"Trà Trì, Hải Xuân.",,1917
+S0056,Nguyễn Thị Khanh,14,P0166,Lê Viết Bá (Toản),,21.10,"Cồn khám, Tứ Chánh, Phong",Bà có con riêng tên Lê Viết Vui,1958
+S0057,Nguyễn Thị Khánh,14,P0168,Lê Viết Nẫm,,20.7,"Trà Trì, Hải Xuân.","Người Họ Nguyễn 5, Trà Trì.",1987
+S0058,Nguyễn Thị Uy (Gà),14,P0232,Lê Viết Văn (Oanh/Y),,9.8,"Cồn xa, Tứ Chánh, Phong",,2017
+S0059,Nguyễn Thị Don (Con),14,P0171,Lê Viết Trí (Tới),1906,16.9,"Tứ Hạ, Hương Trà.",,2047
+S0060,Hoàng Thị Thức,14,P0174,Lê Viết Cừu,,26.12,"Trà Trì, Hải Xuân.",Đã hồi tôn.,2078
+S0061,Lê Thị Phương,14,P0174,Lê Viết Cừu,10.10.1906,21.1 (24.1.1986),"Trà Trì, Hải Xuân.",,2079
+S0062,Nguyễn Thị Con,14,P0176,Lê Viết Hoành,,6.8,"Xứ Lăng, Tứ Chánh.",,2107
+S0063,Dương Thị Dưa,14,P0176,Lê Viết Hoành,Quý Hợi,,,"Quê Hiền Sỹ, Phong Sơn, Phong Điền.",2108
+S0064,Trần Thị Thung (Thông),14,P0184,Lê Viết Điện,,29.5,"Thôn 7, Tân Châu, Di",,2137
+S0065,Nguyễn Thị Ngại,14,P0192,Lê Viết Phụ,1943,,,"Người Họ Nguyễn 2, Trà Trì.",2167
+S0066,Lê Thị Thiện,14,P0204,Lê Viết Thành,,,"Trà Trì, Hải Xuân.",,2196
+S0067,Lê Thị Sảng,14,P0206,Lê Viết Chính,,,"Trà Trì, Hải Xuân.",,2225
+S0068,Nguyễn Thị Chánh,14,P0206,Lê Viết Chính,,,"Trà Trì, Hải Xuân.",,2226
+S0069,Lê Thị Lanh,14,P0207,Lê Viết Tâm,,5.6,"Trà Trì, Hải Xuân.","Người Họ Lê 4, Trà Trì.",2255
+S0070,Hoàng Thị Nguyên,14,P0208,Lê Viết Tu,,12.9,"Trà Trì, Hải Xuân.",,2285
+S0071,Lê Thị Lụng,14,P0212,Lê Viết Luân,,7.3,"Trà Trì, Hải Xuân.","Người Họ Lê - Văn Vận, Hải Quy.",2316
+S0072,Lê Thị Phụng,14,P0213,Lê Viết Hành,,4.9,"Trà Trì, Hải Xuân.",,2344
+S0073,Hoàng Thị Bá,14,P0214,Lê Viết Lại,,10.1,"Trà Trì, Hải Xuân.","Người Họ Hoàng, Trà Trì.",2374
+S0074,Nguyễn Thị Niên,14,P0215,Lê Viết Long,,3.10,"Trà Trì, Hải Xuân.","Người Họ Nguyễn 2, Trà Trì.",2403
+S0075,Võ Thị Mỳ,14,P0219,Lê Viết Chất,,27.1,"Trà Trì, Hải Xuân.","Quê ở Trâm Lý, Hải Quy.",2434
+S0076,Hoàng Thị Chiểu,14,P0220,Lê Viết Ất,,19.11,"Trà Trì, Hải Xuân.","Người Họ Hoàng, Trà Trì.",2465
+S0077,Nguyễn Thị Vầy,14,P0220,Lê Viết Ất,,9.2,"Trà Trì, Hải Xuân.","Người Họ Nguyễn 2, Trà Trì.",2466
+S0078,Nguyễn Thị Phùng,14,P0225,Lê Viết Ngợi,30.1.1915,,"Trà Trì, Hải Xuân.","Người Họ Nguyễn 2, Trà Trì.",2497
+S0079,Nguyễn Thị Thắm,14,P0228,Lê Viết Dẫn,,,,"Người Họ Nguyễn 5, Trà Trì.",2526
+S0080,Nguyễn Thị Đong,14,P0228,Lê Viết Dẫn,,,,"Người Họ Nguyễn 5, Trà Trì.",2527
+S0081,Nguyễn Thị Phùng,14,P0229,Lê Viết Nhơn,1931,,,"Người Họ Nguyễn 2, Trà Trì.",2556
+S0082,Lê Thị Đẻo,15,P0242,Lê Viết Lãng (Thuyên),,,,"Người làng Tứ Chánh, Phong Sơn.",2595
+S0083,Trương Thị Vui,15,P0244,Lê Viết Linh (Lanh),10.1937,,,"Quê Sơn Quả, Phong Sơn, Phong Điền.",2629
+S0084,Lê Thị Hường,15,P0247,Lê Viết Bù (Hương),,,,"Quê Trà Trì, Hải Xuân.",2656
+S0085,Trương Thị Thẻo,15,P0253,Lê Viết Uyên (Quảy),1938,15.8,"Cồn khám,Tứ Chánh",Liệt sỹ QĐNDVN.,2689
+S0086,Văn Thị Thuý,15,P0253,Lê Viết Uyên (Quảy),1948,,,"Quê ở Phong Chương, Phong Điền.",2690
+S0087,Nguyễn Thị Thiềm,15,P0255,Lê Viết Trong (Loát),,5.4,"Cồn khám,Tứ Chánh.",Liệt sỹ QĐNDVN.,2720
+S0088,Hoàng Thị Tài (Nương),15,P0260,Lê Viết Dược,11.12.1944,,,"Người họ Hoàng, Trà Trì.",2751
+S0089,Trần Thị Tám,15,P0373,Lê Viết Tuyến,,,,"Người làng Tứ Chánh, Phong Sơn",2782
+S0090,Thái Thị Hồng,15,P0272,Lê Viết Đức (Lời),3.3.1949,,,"Quê Phò Ninh, Phong An, Phong Điền.",2814
+S0091,Cao Thị Thu Sen,15,P0274,Lê Viết Thành (Giản),10.9.1955,,,"Quê ở Hiền Sỹ, Phong Sơn, Phong Điền.",2847
+S0092,Trần Thị Xử,15,P0279,Lê Viết Ký,,,,"Người Họ Trần, Trà Trì.",2877
+S0093,Nguyễn Thị Khản,15,P0291,Lê Viết Lập,,24.9,"Trà Trì, Hải Xuân.","Người Họ Nguyễn 5, Trà Trì.",2933
+S0094,Nguyễn Thị Huệ,15,P0291,Lê Viết Lập,1925,,,"Người Họ Nguyễn 2, Trà Trì.",2934
+S0095,Lê Thị Khổn,15,P0298,Lê Viết Hoanh,1935,,,"Người quê Văn Vận, Hải Quy.",2962
+S0096,Lê Thị Hường,15,P0312,Lê Viết Dần,21.10.1947,,,"Người Họ Lê 4, Trà Trì.",2992
+S0097,Lê Thị Dàn,15,P0312,Lê Viết Dần,,6.1,"Trà Trì, Hải Xuân.","Người Họ Lê 4, Trà Trì.",2993
+S0098,Trần Thị Phó,15,P0320,Lê Viết Toan (Thoan),1928,,,"Quê ở Thượng Lập, Vĩnh Linh, Quảng",3022
+S0099,Nguyễn Thị Hoa,15,P0326,Lê Viết Tiềm,,,,Họ Nguyễn 2 Trà Trì.,3083
+S0100,Lê Thị Thiện.,15,P0329,Lê Viết Trưng,1945,,,,3114
+S0101,Nguyễn Thị Phụng,15,P0331,Lê Viết Xưng,1950,,,"Người Họ Nguyễn 2, Trà Trì.",3142
+S0102,Thị Luyến,15,P0336,Lê Viết Thường,,,,Tái giá.,3172
+S0103,Nguyễn Thị Cháu,15,P0336,Lê Viết Thường,30.10.1931,28.1 Kỷ Mùi (1979),"Trà Trì, Hải Xuân.","Họ Nguyễn Chơn, Quê ở Ngô Xá Đông,",3173
+S0104,Hoàng Thị Ngân,15,P0339,Lê Viết Thừa,15.2.1940,,,"Người Họ Hoàng, Trà Trì.",3203
+S0105,Lê Thị Trì,15,P0347,Lê Viết Đúc,1939,20.9.1991,"Trà Trì, Hải Xuân.","Người Họ Lê 4, Trà Trì.",3236
+S0106,Lê Thị Tùng,15,P0352,Lê Viết Đợi,1942,,"Trà Trì, Hải Xuân","Người Họ Lê 4, Trà Trì.",3267
+S0107,Lê Thị Lựu,15,P0352,Lê Viết Đợi,1953,,,"Người Họ Lê 4, Trà Trì.",3268
+S0108,Phan Thị Oanh,15,P0353,Lê Viết Học,,,,Quê ở Quảng Ngãi.,3297
+S0109,Lê Thị Lưu,15,P0354,Lê Viết Châu,,,,"Người Họ Lê 4, Trà Trì.",3328
+S0110,Trần Thị Lĩnh,15,P0366,Lê Viết Mua,1984,,,,3358
+S0111,Trương Thị Dấu,16,P0376,Lê Viết Dần,1972,,,"Quê Tứ Chánh, Phong Sơn.",3397
+S0112,Trần Thị Lệ Hằng,16,P0380,Lê Viết Phong,5.1.1975,,,"Quê Phước Vĩnh, Thành phố Huế.",3427
+S0113,Đặng Thị Thuỳ,16,P0388,Lê Viết Thắng,8.10.1976,,,"Quê Hiền An, Phong Xuân.",3489
+S0114,Nguyễn Thị Khuê,16,P0389,Lê Viết Thăng,30.12.1978,,,"Quê Tứ Chánh, Phong Sơn.",3519
+S0115,Thân Thị Thuý Hiền,16,P0390,Lê Viết Long,1981,,,"Quê Cổ By, Phong Sơn.",3548
+S0116,Võ Thị Diễm,16,P0393,Lê Viết Bốn,1986,,,,3610
+S0117,Trương Thị Hạnh,16,P0399,Lê Viết Xảo,1966,,,"Quê Tứ Chánh, Phong Sơn.",3641
+S0118,Trương Thị Tài,16,P0400,Lê Viết Quyệt,1970,,,"Quê Sơn Quả, Phong Sơn.",3672
+S0119,Nguyễn Thị Bích Na,16,P0402,Lê Viết Duyến,1981,,,"Quê Phong Hoà, Phong Sơn.",3703
+S0120,Trần Thị Hoài Phương,16,P0403,Lê Viết Ngọc,,,,"Quê Phong Hải, Phong Điền.",3734
+S0121,Hoàng Thị Yến,16,P0534,Lê Viết Thanh,1970,,,"Quê Thị trấn Tứ Hạ, Hương Trà.",3794
+S0122,Lê Thị Bồng,16,P0412,Lê Viết Giáo,13.2.1967,,,"Người Họ Lê 4, Trà Trì.",3825
+S0123,Lê Thị Hoè,16,P0412,Lê Viết Giáo,,,,"Người Họ Lê 4, Trà Trì.",3826
+S0124,Nguyễn Ái Quỳnh Tiên,16,P0415,Lê Viết Đạo,,,,"Quê ở Thượng An, Phong An. Cử nhân",3856
+S0125,Nguyễn Thị Thuỳ Trang,16,P0419,Lê Viết Phúc,20.9.1983,,,"Quê ở Hạ 1, Thuỷ Xuân, TP Huế. Cử",3918
+S0126,Nguyễn Thị Thu,16,P0425,Lê Viết Lý,1965,,,"Người Họ Nguyễn 2, Trà Trì.",3948
+S0127,Nguyễn Thị Lý,16,P0426,Lê Viết Thiết,1964,,,"Người Họ Nguyễn 5, Trà Trì.",3978
+S0128,Trần Thị Hà,16,P0535,Lê Viết Phi,1975,,,"Quê ở Phú Dương, Phú Vang, TP Huế.",4008
+S0129,Nguyễn Thị Cẩm Diệu,16,P0429,Lê Viết Thi,1981,,,"Quê ở Châu Thành, Hậu Giang.",4038
+S0130,Sử Thị Hoa,16,P0430,Lê Viết Thưng,1978,,,"Quê ở Kỳ Văn, Kỳ Anh, Hà Tĩnh.",4069
+S0131,Huỳnh Thị Chính,16,P0438,Lê Viết Đính,1953,,,"Quê ở Phú Lộc, TT Huế.",4099
+S0132,Hoàng Thị Hoa,16,P0442,Lê Viết Hợi,10.2,,,"Người Họ Hoàng, Trà Trì.",4129
+S0133,Phạm Thị Son,16,P0445,Lê Viết Hoan,2.1968,,,"Quê ở Triệu Trung, Triệu Phong.",4161
+S0134,Đoàn Thị Thu,16,P0472,Lê Viết Hùng,6.4.1974,,,,4191
+S0135,Bùi Thị Bích Lệ,16,P0448,Lê Viết Dũng,30.4.1973,,,,4222
+S0136,Nguyễn Thị Thu,16,P0453,Lê Viết Tùng,10.8.1978,,,"Người Họ Nguyễn 5, Trà Trì.",4252
+S0137,Hoàng Thị Thạnh,16,P0457,Lê Viết Vĩnh,1956,,,"Quê ở Cao Xá, Gio Linh, Quảng Trị.",4283
+S0138,Nguyễn Thị Như Phượng,16,P0459,Lê Viết Điệp,1966,,,"Quê ở Ninh Phụng, Ninh Hoà, Khánh",4314
+S0139,Nguyễn Thị Như Phượng,16,P0460,Lê Viết Diệp,1966,,,"Quê ở Ninh Phụng, Ninh Hoà, Khánh",4346
+S0140,Huỳnh Tuyết Lan,16,P0461,Lê Viết Tuyến,1966,,,"Quê ở Bình Hoà, Bình Sơn, Quảng",4378
+S0141,Hoàng Thị Công Minh Hiếu,16,P0465,Lê Viết Tuấn,,,,,4438
+S0142,Lê Thị Bích Hồng,16,P0466,Lê Viết Tài,,,,,4468
+S0143,Nguyễn Thị Phượng,16,P0470,Lê Viết Trí,,,,,4529
+S0144,Nguyễn Thị Kim Ngân,16,P0471,Lê Viết Đức,,,,,4559
+S0145,Lê Thị Huyền,16,P0478,Lê Viết Phức,1973,,,,4652
+S0146,Nguyễn Thị Liền,16,P0491,Lê Viết Anh,,,,"Người Họ Nguyễn 5, Trà Trì.",4713
+S0147,Nguyễn Thị Kiên,16,P0497,Lê Viết Liêm,10.10.1957,,,"Quê ở Lệ Thuỷ, Quảng Bình.",4772
+S0148,Đỗ Hoàng Oanh,16,P0498,Lê Viết Nam,8.1.1958,15.2,"Trà Trì, Hải Xuân.","Quê ở Bố Liêu, Triệu Hoà, Triệu",4803
+S0149,Nguyễn Thị Thanh,16,P0498,Lê Viết Nam,26.7.1976,,,"Quê ở Tích Tường, Hải Lệ, Hải Lăng.",4805
+S0150,Võ Thị Phượng,16,P0499,Lê Viết Ngạn,1968,,,"Quê ở Trâm Lý, Hải Quy, Hải Lăng.",4834
+S0151,Nguyễn Thị Thu Phượng,16,P0507,Lê Viết An,25.9.1973,,,,4864
+S0152,Vũ Minh Hiền,16,P0537,Lê Viết Thịnh,16.6.1975,,,,4896
+S0153,Lê Thị Đàm,16,P0513,Lê Viết Cúc (Các),19.9.1965,,,"Người Họ Lê 4, Trà Trì.",4958
+S0154,Trần Thị Huê,16,P0514,Lê Viết Mai,10.9.1969,,,"Quê ở Triệu Đông, Triệu Phong.",4989
+S0155,Nguyễn Thị Yến,16,P0538,Lê Viết Hùng,1975,,,,5019
+S0156,Trần Thị Ngọc,16,P0517,Lê Viết Hương,20.2.1980,,,,5049
+S0157,Phạm Thị Chinh,16,P0518,Lê Viết Minh,3.2.1979,,,"Quê ở Hoa Lư, Ninh Bình.",5079
+S0158,Lê Thị Cẩm Hằng,16,P0523,Lê Viết Đức,,,,"Quê ở Phong Điền, Thừa Thiên - Huế.",5140
+S0159,Trần Thị Thanh Hiền,16,P0525,Lê Viết Vũ,1978,,,Quê ở Quảng Nam.,5170
+S0160,Nguyễn Thị Thanh Thuý,16,P0525,Lê Viết Vũ,1983,,,Quê ở Quảng Bình.,5171
+S0161,Đoàn Thị Bích Thuý,16,P0527,Lê Viết Tuấn,01.01.1981,,,"Quê ở Mỹ Hiệp, Phù Mỹ, Bình Định.",5200
+S0162,Nguyễn Thị Ngọc Thuỳ,16,P0528,Lê Viết Ngọc,1984,,,"Quê   ở Phong Thu, Phong  Điền, Thừa",5231
+S0163,Võ Thị Hiệt,16,P0529,Lê Viết Chi,28.11.1976,,,Quê ở Quảng Bình.,5261
+S0164,Huỳnh Thị Hạnh,17,P0598,Lê Viết Phong,1983,,,Quê ở Quảng Nam.,5331
+S0165,Cao Thị Thuý,17,P0599,Lê Viết Nhật,1982,,,Quê ở Thừa Thiên - Huế.,5360
