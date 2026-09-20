@@ -1,0 +1,630 @@
+﻿id,name,generation,parent_id,parent_name,birth,death,burial,note
+P0000,Lê Huỳnh,0,,,,,"Lam Sơn, Thanh Hóa",Tiền tổ trong phần lược sử.
+P0001,Lê Bá Mộc,1,P0000,,,13.10,"Trà Trì, Hải Xuân",Con Ông Huỳnh.
+P0002,Lê Bá Tòng,2,P0001,Lê Bá Mộc,,,"Trà Trì, Hải Xuân",
+P0003,Lê Bá Võ,2,P0001,Lê Bá Mộc,,,"Trà Trì, Hải Xuân",
+P0004,Lê Bá Viên,2,P0001,Lê Bá Mộc,,,"Trà Trì, Hải Xuân",Lưu về gia phả Phái Nhất
+P0005,Lê Thanh Tùng,1,P0000,,,9.10,"Lâm Lộc, Trà Trì, Hải",Con Ông Huỳnh.
+P0006,Lê Thanh Phong,2,P0005,Lê Thanh Tùng,,,"Trà Trì, Hải Xuân.",
+P0007,Lê Thanh Trăn,2,P0005,Lê Thanh Tùng,,11.10,"Ông Vần, Trà Trì, Hải",Con Ông Tùng.
+P0008,Lê Tất Thắng,3,P0007,Lê Thanh Trăn,,21.4,"Trà Trì, Hải Xuân.",Con Ông Trăn.
+P0009,Lê Tất Văn,3,P0007,Lê Thanh Trăn,,,,Lưu về Gia phả Chi Nhì.
+P0010,Lê Tất Dõng,4,P0008,Lê Tất Thắng,,8.8,"Trà Trì, Hải Xuân.",Con Ông Thắng.
+P0011,Lê Đức Thông,5,P0010,Lê Tất Dõng,Giáp Tý,28.5,"Trà Trì, Hải Xuân.",Con Ông Dõng.
+P0012,Lê Đức Thính,6,P0011,Lê Đức Thông,,27.3,"Trà Trì, Hải Xuân.",Vô tự.
+P0013,Lê Đức Duệ,6,P0011,Lê Đức Thông,Canh Tý,22.7,"Trà Trì, Hải Xuân.",Con Ông Thông.
+P0014,Lê Thị Lộ,6,P0011,Lê Đức Thông,,21.4,"Trà Trì, Hải Xuân.",
+P0015,Lê Đức Duận,6,P0011,Lê Đức Thông,,,"Trà Trì, Hải Xuân.",Lưu về Gia phả Đầu Nhì.
+P0016,Lê Viết Trí,7,P0013,Lê Đức Duệ,,8.11,"Cồn Chơi, Trà Trì, Hải",Lưu về Gia phả riêng (1).
+P0017,Lê Viết Kiên (Khiên),7,P0013,Lê Đức Duệ,,5.4,"Trà Trì, Hải Xuân.",Con Ông Duệ.
+P0018,Lê Viết Liên (Nghị),8,P0017,Lê Viết Kiên (Khiên),,5.7,"Trà Trì, Hải Xuân.",Con Ông Kiên (Khiên).
+P0019,Lê Viết Ánh,9,P0018,Lê Viết Liên (Nghị),Ất Hợi,29.1,"Trà Trì, Hải Xuân.",Con Ông Liên (Nghị).
+P0020,Lê Thị Trinh,9,P0018,Lê Viết Liên (Nghị),,,"Trà Trì, Hải Xuân.",
+P0021,Lê Thị Bửu,9,P0018,Lê Viết Liên (Nghị),,,"Trà Trì, Hải Xuân.",
+P0022,Lê Thị Xuyến,9,P0018,Lê Viết Liên (Nghị),,,"Trà Trì, Hải Xuân.",
+P0023,Lê Thị Ngoãn,9,P0018,Lê Viết Liên (Nghị),,,"Trà Trì, Hải Xuân.",
+P0024,Lê Thị Bướm,9,P0018,Lê Viết Liên (Nghị),,,"Trà Trì, Hải Xuân.",
+P0025,Lê Thị Đĩ,9,P0018,Lê Viết Liên (Nghị),,,"Trà Trì, Hải Xuân.",Con Bà Nhơn.
+P0026,Lê Thị Du,9,P0018,Lê Viết Liên (Nghị),,,"Trà Trì, Hải Xuân.",
+P0027,Lê Thị Mễ,9,P0018,Lê Viết Liên (Nghị),,,"Trà Trì, Hải Xuân.",
+P0028,Lê Thị Châu,9,P0018,Lê Viết Liên (Nghị),,,"Trà Trì, Hải Xuân.",
+P0029,Lê Viết Thuỳ,10,P0019,Lê Viết Ánh,29.1,30.10,"Trà Trì, Hải Xuân.",Con Ông Ánh.
+P0030,Lê Viết Luận (Hậu),10,P0019,Lê Viết Ánh,12.4,15.2,"Trà Trì, Hải Xuân.",Con Ông Ánh.
+P0031,Lê Viết Trọng,10,P0019,Lê Viết Ánh,20.11,,"Trà Trì, Hải Xuân.",
+P0032,Lê Viết Dụng,10,P0019,Lê Viết Ánh,16.9,22.2,"Trà Trì, Hải Xuân.",Con Ông Ánh.
+P0033,Lê Viết Chóp,10,P0019,Lê Viết Ánh,,20.3,"Trà Trì, Hải Xuân.",
+P0034,Lê Viết Luật,10,P0019,Lê Viết Ánh,,15.3,"Trà Trì, Hải Xuân.",
+P0035,Lê Thị Bình,10,P0019,Lê Viết Ánh,,,"Trà Trì, Hải Xuân.",
+P0036,Lê Viết Chuyên,11,P0029,Lê Viết Thuỳ,,15.11,"Trà Trì, Hải Xuân.",Con Bà Bái.
+P0037,Lê Viết Khoáng,11,P0029,Lê Viết Thuỳ,,,"Trà Trì, Hải Xuân.",Con Ông Thuỳ.
+P0038,Lê Viết Thiện,11,P0029,Lê Viết Thuỳ,,6.5,"Trà Trì, Hải Xuân.",Con Ông Thuỳ.
+P0039,Lê Viết Hãnh,11,P0029,Lê Viết Thuỳ,,9.1,"Trà Trì, Hải Xuân.",Con Ông Thuỳ.
+P0040,Lê Thị Yên,11,P0029,Lê Viết Thuỳ,,,"Trà Trì, Hải Xuân.",
+P0041,Lê Thị Đức,11,P0029,Lê Viết Thuỳ,,20.3,"Trà Trì, Hải Xuân.",
+P0042,Lê Viết Năm,11,P0029,Lê Viết Thuỳ,,26.5,"Trà Trì, Hải Xuân.",Con Ông Thuỳ.
+P0043,Lê Thị Diêm,11,P0029,Lê Viết Thuỳ,,,"Trà Trì, Hải Xuân.",
+P0044,Lê Thị Diệm,11,P0029,Lê Viết Thuỳ,,,"Trà Trì, Hải Xuân.",
+P0045,Lê Viết Phổ (Trứ),11,P0030,Lê Viết Luận (Hậu),,4.12,"Trà Trì, Hải Xuân.",Con Ông Luận.
+P0046,Lê Viết Trung,11,P0030,Lê Viết Luận (Hậu),,,"Trà Trì, Hải Xuân.",
+P0047,Lê Viết Trực,11,P0030,Lê Viết Luận (Hậu),,20.8,"Trà Trì, Hải Xuân.",Con Ông Luận.
+P0048,Lê Thị Hán,11,P0030,Lê Viết Luận (Hậu),,,"Trà Trì, Hải Xuân.",
+P0049,Lê Thị Hai,11,P0030,Lê Viết Luận (Hậu),,,"Trà Trì, Hải Xuân.",
+P0050,Lê Thị Dặng,11,P0030,Lê Viết Luận (Hậu),,,"Trà Trì, Hải Xuân.",
+P0051,Lê Viết Đạt,11,P0032,Lê Viết Dụng,Nhâm Tuất,29.12,"Trà Trì, Hải Xuân.",Con Ông Dụng.
+P0052,Lê Viết Chỉ,11,P0032,Lê Viết Dụng,,28.12,"Trà Trì, Hải Xuân.",Con Ông Dụng.
+P0053,Lê Viết Tín,11,P0032,Lê Viết Dụng,Canh Ngọ,6.1,"Trà Trì, Hải Xuân.",Con Ông Dụng.
+P0054,Lê Thị Nguyên,11,P0032,Lê Viết Dụng,,,"Trà Trì, Hải Xuân.",
+P0055,Lê Thị Lãnh,11,P0032,Lê Viết Dụng,,,"Trà Trì, Hải Xuân.",
+P0056,Lê Thị Lâu,11,P0032,Lê Viết Dụng,,,"Trà Trì, Hải Xuân.",
+P0057,Lê Thị Linh (Lanh),11,P0032,Lê Viết Dụng,,,"Trà Trì, Hải Xuân.",
+P0058,Lê Thị Huy,11,P0032,Lê Viết Dụng,,,"Trà Trì, Hải Xuân.",
+P0059,Lê Viết Bốn,12,P0037,Lê Viết Khoáng,,7.11,"Trà Trì, Hải Xuân.",
+P0060,Lê Viết Xuân,12,P0038,Lê Viết Thiện,,9.7,"Cồn xa, Tứ Chánh, Phong",Con Ông Thiện.
+P0061,Lê Viết Thu,12,P0038,Lê Viết Thiện,,26.5,"Trà Trì, Hải Xuân.",Con Ông Thiện.
+P0062,Lê Viết Đông,12,P0038,Lê Viết Thiện,,,"Trà Trì, Hải Xuân.",
+P0063,Lê Thị Tâm,12,P0038,Lê Viết Thiện,,,"Trà Trì, Hải Xuân.",
+P0064,Lê Thị Tuyên,12,P0039,Lê Viết Hãnh,,,"Trà Trì, Hải Xuân.",
+P0065,Lê Viết Dượng,12,P0039,Lê Viết Hãnh,,5.4,"Trà Trì, Hải Xuân.",Con Ông Hãnh.
+P0066,Lê Viết Huân,12,P0039,Lê Viết Hãnh,,26.2,"Trà Trì, Hải Xuân.",Con Ông Hãnh.
+P0067,Lê Viết Điện,12,P0039,Lê Viết Hãnh,Đinh Dậu,5.2,"Trà Trì, Hải Xuân.",
+P0068,Lê Viết Lý,12,P0039,Lê Viết Hãnh,,,"Trà Trì, Hải Xuân.",
+P0069,Lê Viết Sự,12,P0039,Lê Viết Hãnh,Quý Mão,5.2,"Trà Trì, Hải Xuân.",Con Ông Hãnh.
+P0070,Lê Thị Tuyên (Thuyên),12,P0039,Lê Viết Hãnh,,,"Trà Trì, Hải Xuân.",
+P0071,Lê Thị Tình,12,P0039,Lê Viết Hãnh,,,"Trà Trì, Hải Xuân.",
+P0072,Lê Viết Đới,12,P0042,Lê Viết Năm,,,"Trà Trì, Hải Xuân.",
+P0073,Lê Thị Biện (Bẹn),12,P0042,Lê Viết Năm,,,"Trà Trì, Hải Xuân.",
+P0074,Lê Viết Cầu,12,P0045,Lê Viết Phổ (Trứ),,,"Trà Trì, Hải Xuân.",Con Ông Phổ.
+P0075,Lê Viết Thạnh,12,P0045,Lê Viết Phổ (Trứ),,,"Trà Trì, Hải Xuân.",Con Bà Để.
+P0076,Lê Viết Đức,12,P0045,Lê Viết Phổ (Trứ),,,"Trà Trì, Hải Xuân.",Con Ông Phổ.
+P0077,Lê Viết Phước (Phúc),12,P0045,Lê Viết Phổ (Trứ),,,"Trà Trì, Hải Xuân.",Con Bà 3.
+P0078,Lê Viết Ứng,12,P0047,Lê Viết Trực,,,"Trà Trì, Hải Xuân.",Con Ông Trực.
+P0079,Lê Viết Nghĩa,12,P0047,Lê Viết Trực,,,"Trà Trì, Hải Xuân.",Con Bà Kiểm.
+P0080,Lê Viết Diệm (Dỏ),12,P0047,Lê Viết Trực,,,"Trà Trì, Hải Xuân.",
+P0081,Lê Viết Dặt,12,P0047,Lê Viết Trực,,,"Trà Trì, Hải Xuân.",
+P0082,Lê Thị Lương,12,P0047,Lê Viết Trực,,,"Trà Trì, Hải Xuân.",
+P0083,Lê Thị Thuyên (Thoan),12,P0051,Lê Viết Đạt,,,"Trà Trì, Hải Xuân.",Con Bà Khiên.
+P0084,Lê Thị Hộ,12,P0051,Lê Viết Đạt,,,"Trà Trì, Hải Xuân.",
+P0085,Lê Viết Tạo,12,P0051,Lê Viết Đạt,,,"Trà Trì, Hải Xuân.",Con Ông Đạt.
+P0086,Lê Thị Lội (Lài),12,P0051,Lê Viết Đạt,,,"Trà Trì, Hải Xuân.",
+P0087,Lê Thị Huệ,12,P0051,Lê Viết Đạt,,,"Trà Trì, Hải Xuân.",
+P0088,Lê Viết Miên (Cẩm),12,P0051,Lê Viết Đạt,,,"Trà Trì, Hải Xuân.",
+P0089,Lê Viết Nghinh (Đệ),12,P0051,Lê Viết Đạt,,,"Trà Trì, Hải Xuân.",Con Bà 2.
+P0090,Lê Thị Kiên,12,P0051,Lê Viết Đạt,,,"Trà Trì, Hải Xuân.",
+P0091,Lê Viết Lại (Lội),12,P0052,Lê Viết Chỉ,,,"Trà Trì, Hải Xuân.",
+P0092,Lê Viết Cóc (Lợn/Lạc),12,P0052,Lê Viết Chỉ,,,"Trà Trì, Hải Xuân.",
+P0093,Lê Thị Thảo,12,P0052,Lê Viết Chỉ,,,"Trà Trì, Hải Xuân.",
+P0094,Lê Thị Phái,12,P0052,Lê Viết Chỉ,,,"Trà Trì, Hải Xuân.",
+P0095,Lê Viết Nguyện,12,P0053,Lê Viết Tín,,,"Trà Trì, Hải Xuân.",
+P0096,Lê Viết Hạnh,12,P0053,Lê Viết Tín,,28.9,"Trà Trì, Hải Xuân.",Con Ông Tín.
+P0097,Lê Thị Thân,12,P0053,Lê Viết Tín,,,"Trà Trì, Hải Xuân.",
+P0098,Lê Viết Chiêu,12,P0053,Lê Viết Tín,,,"Trà Trì, Hải Xuân.",Con Ông Tín.
+P0099,Lê Viết Trứ,12,P0053,Lê Viết Tín,,27.9,"Trà Trì, Hải Xuân.",Con Ông Tín.
+P0100,Lê Viết Cừu (Cử),12,P0053,Lê Viết Tín,,,"Trà Trì, Hải Xuân.",
+P0101,Lê Thị Chiểu,12,P0053,Lê Viết Tín,,,"Trà Trì, Hải Xuân.",
+P0102,Lê Thị Núc,13,P0060,Lê Viết Xuân,,29.4,"Cồn xa, Tứ Chánh.",
+P0103,Lê Thị Niêu,13,P0060,Lê Viết Xuân,,17.2,"Cồn dâu, Tứ Chánh.",
+P0104,Lê Viết Hương,13,P0060,Lê Viết Xuân,,16.7,"Đùng phe, Tứ Chánh",
+P0105,Lê Viết Ba (Hoa),13,P0060,Lê Viết Xuân,,16.7,"Đùng phe, Tứ Chánh",
+P0106,Lê Viết Tường (Dương),13,P0060,Lê Viết Xuân,,16.7,"Đùng phe, Tứ Chánh",
+P0107,Lê Thị Chắt,13,P0060,Lê Viết Xuân,,,"Cồn dâu, Tứ Chánh.",
+P0108,Lê Viết Cảnh (Tịnh),13,P0060,Lê Viết Xuân,,24.7,"Ngã Ba, Tứ Chánh, Phong",Con Ông Xuân.
+P0109,Lê Viết Hưu,13,P0060,Lê Viết Xuân,,24.12,"Bàu Ốc, Sơn Quả, Phong",Con Ông Xuân.
+P0110,Lê Thị Tý,13,P0061,Lê Viết Thu,,,"Trà Trì, Hải Xuân.",
+P0111,Lê Thị Mẹo,13,P0061,Lê Viết Thu,,,"Trà Trì, Hải Xuân.",
+P0112,Lê Thị Còi (Thìn),13,P0061,Lê Viết Thu,,,"Trà Trì, Hải Xuân.",
+P0113,Lê Viết Tỵ,13,P0061,Lê Viết Thu,,,"Trà Trì, Hải Xuân.",
+P0114,Lê Viết Chiêm,13,P0065,Lê Viết Dượng,,,"Trà Trì, Hải Xuân.",Con Ông Dượng.
+P0115,Lê Viết Ngưỡng,13,P0065,Lê Viết Dượng,,,"Trà Trì, Hải Xuân.",Con Ông Dượng.
+P0116,Lê Thị Quế (Giai),13,P0066,Lê Viết Huân,,,"Trà Trì, Hải Xuân.",
+P0117,Lê Viết Tiến,13,P0066,Lê Viết Huân,,,"Trà Trì, Hải Xuân.",
+P0118,Lê Thị Lan,13,P0066,Lê Viết Huân,,,"Trà Trì, Hải Xuân.",
+P0119,Lê Viết Phúc,13,P0066,Lê Viết Huân,,,"Trà Trì, Hải Xuân.",
+P0120,Lê Viết Lộc,13,P0066,Lê Viết Huân,,,"Trà Trì, Hải Xuân.",
+P0121,Lê Thị Liễu,13,P0066,Lê Viết Huân,,,"Trà Trì, Hải Xuân.",
+P0122,Lê Thị Khôn,13,P0069,Lê Viết Sự,,,"Trà Trì, Hải Xuân.",
+P0123,Lê Viết Ngôn,13,P0069,Lê Viết Sự,,,"Trà Trì, Hải Xuân.",
+P0124,Lê Viết Dĩ,13,P0069,Lê Viết Sự,,29.3,"Trà Trì, Hải Xuân.",Con Ông Sự.
+P0125,Lê Viết Báu,13,P0074,Lê Viết Cầu,,,"Trà Trì, Hải Xuân.",
+P0126,Lê Viết Đợi,13,P0074,Lê Viết Cầu,,,"Trà Trì, Hải Xuân.",Con Ông Cầu.
+P0127,Lê Viết Nghĩa,13,P0074,Lê Viết Cầu,,,"Trà Trì, Hải Xuân.",Con Ông Cầu.
+P0128,Lê Viết Sanh,13,P0076,Lê Viết Đức,,3.1,"Trà Trì, Hải Xuân.",Con Ông Đức.
+P0129,Lê Thị Hoá,13,P0076,Lê Viết Đức,,,"Trà Trì, Hải Xuân.",
+P0130,Lê Thị Thảnh,13,P0076,Lê Viết Đức,,,"Trà Trì, Hải Xuân.",
+P0131,Lê Viết Phúc,12,,,,,"Trà Trì, Hải Xuân.",Con Ông Phổ.
+P0132,Lê Viết Thanh,13,P0131,Lê Viết Phúc,,,"Trà Trì, Hải Xuân.",
+P0133,Lê Viết Cảnh,13,P0131,Lê Viết Phúc,,,"Trà Trì, Hải Xuân.",
+P0134,Lê Thị Tứ (Vũ),13,P0131,Lê Viết Phúc,,,"Trà Trì, Hải Xuân.",
+P0135,Lê Viết Hạc (Khét),13,P0131,Lê Viết Phúc,,,"Trà Trì, Hải Xuân.",
+P0136,Lê Thị Thuận,13,P0078,Lê Viết Ứng,,,"Trà Trì, Hải Xuân.",
+P0137,Lê Viết Anh,13,P0085,Lê Viết Tạo,,,"Trà Trì, Hải Xuân.",Con Bà Ngoãn.
+P0138,Lê Viết Truy,13,P0085,Lê Viết Tạo,,13.9,"Trà Trì, Hải Xuân.",Con Ông Tạo.
+P0139,Lê Viết Tuyển,13,P0085,Lê Viết Tạo,,14.3,"Trà Trì, Hải Xuân.",Con Ông Tạo.
+P0140,Lê Thị Biện,13,P0085,Lê Viết Tạo,,,"Trà Trì, Hải Xuân.",Con Bà Ân.
+P0141,Lê Thị Thông (Thung),13,P0085,Lê Viết Tạo,,,"Trà Trì, Hải Xuân.",
+P0142,Lê Thị Bửu,13,P0085,Lê Viết Tạo,,,"Trà Trì, Hải Xuân.",
+P0143,Lê Viết Chước,13,P0096,Lê Viết Hạnh,,19.5,"Trà Trì, Hải Xuân.",Con Ông Hạnh.
+P0144,Lê Viết Hào,13,P0096,Lê Viết Hạnh,,,"Trà Trì, Hải Xuân.",
+P0145,Lê Viết Vị,13,P0096,Lê Viết Hạnh,,,"Trà Trì, Hải Xuân.",
+P0146,Lê vô danh,13,P0096,Lê Viết Hạnh,,,"Trà Trì, Hải Xuân.",
+P0147,Lê Viết Kỷ (Dĩ),13,P0096,Lê Viết Hạnh,,,"Trà Trì, Hải Xuân.",
+P0148,Lê Thị Cặn (Lãng),13,P0096,Lê Viết Hạnh,,,"Trà Trì, Hải Xuân.",
+P0149,Lê Viết Cọt,13,P0096,Lê Viết Hạnh,,,"Trà Trì, Hải Xuân.",
+P0150,Lê Thị Mót (Chót),13,P0096,Lê Viết Hạnh,,,"Trà Trì, Hải Xuân.",
+P0151,Lê vô danh,13,P0096,Lê Viết Hạnh,,,"Trà Trì, Hải Xuân.",
+P0152,Lê vô danh,13,P0096,Lê Viết Hạnh,,,"Trà Trì, Hải Xuân.",
+P0153,Lê Thị Cần,13,P0098,Lê Viết Chiêu,,,"Trà Trì, Hải Xuân.",
+P0154,Lê Thị Quyền,13,P0098,Lê Viết Chiêu,,,"Trà Trì, Hải Xuân.",
+P0155,Lê Thị Muội,13,P0098,Lê Viết Chiêu,,,"Trà Trì, Hải Xuân.",
+P0156,Lê Viết Văn,13,P0098,Lê Viết Chiêu,,,"Trà Trì, Hải Xuân.",
+P0157,Lê vô danh,13,P0098,Lê Viết Chiêu,,,"Trà Trì, Hải Xuân.",
+P0158,Lê Viết Cẩn,13,P0099,Lê Viết Trứ,,4.12,"Trà Trì, Hải Xuân.",Con Ông Trứ.
+P0159,Lê Viết Thận,13,P0099,Lê Viết Trứ,,,"Trà Trì, Hải Xuân.",Con Ông Trứ.
+P0160,Lê Viết Huân,13,P0099,Lê Viết Trứ,,,"Trà Trì, Hải Xuân.",
+P0161,Lê Viết Thạnh,13,P0099,Lê Viết Trứ,,,"Trà Trì, Hải Xuân.",
+P0162,Lê Viết Huyết (Quán),13,P0099,Lê Viết Trứ,,,"Trà Trì, Hải Xuân.",
+P0163,Lê Thị Vũ,13,P0099,Lê Viết Trứ,,,"Trà Trì, Hải Xuân.",
+P0164,Lê Thị Thạnh (Gạc),14,P0108,Lê Viết Cảnh (Tịnh),,12.7,"Hiền An, Phong Sơn.",Lấy chồng họ Đặng.
+P0165,Lê Viết Bá (Toản),14,P0108,Lê Viết Cảnh (Tịnh),,29.8,"Cồn khám, Tứ Chánh, Phong",Con Ông Cảnh.
+P0166,Lê Thị Nguyệt (Tùng),14,P0108,Lê Viết Cảnh (Tịnh),,1.2,"Cồn xa, Tứ Chánh.",
+P0167,Lê Viết Nẫm,14,P0108,Lê Viết Cảnh (Tịnh),,24.2,"Trà Trì, Hải Xuân.",Con Ông Cảnh.
+P0168,Lê Viết Y (Oanh),14,P0108,Lê Viết Cảnh (Tịnh),,12.9,"Cồn khám, Tứ Chánh.",
+P0169,Lê Thị Niệm (Thỉu),14,P0108,Lê Viết Cảnh (Tịnh),,24.4,"Cồn  bảng, Tứ Chánh.",
+P0170,Lê Viết Trí (Tới),14,P0109,Lê Viết Hưu,1901,24.6,"Cồn xa, Tứ Chánh, Phong",Con Ông Hưu.
+P0171,Lê Thị Huệ,14,P0109,Lê Viết Hưu,,26.12,"Đùng phe, Tứ Chánh",
+P0172,Lê Viết vô danh,14,P0109,Lê Viết Hưu,,,"Cồn Miếu, Tứ Chánh.",
+P0173,Lê Viết Cừu,14,P0109,Lê Viết Hưu,,7.6,"Trà Trì, Hải Xuân.",Con Ông Hưu.
+P0174,Lê Thị Luật (Khét),14,P0109,Lê Viết Hưu,1907,14.10,"Trà Trì, Hải Xuân.","Lấy chồng người họ Hoàng, Trà Trì."
+P0175,Lê Viết Hoành,14,P0109,Lê Viết Hưu,Nhâm Tý 1912,18.4,"Cồn Miếu, Tứ Chánh, Phong Sơn.",Con Ông Hưu.
+P0176,Lê Thị Cưởng,14,P0109,Lê Viết Hưu,,,,"Lấy chồng người họ Thái, Tứ Chánh."
+P0177,Lê Viết Xuyến,14,P0109,Lê Viết Hưu,,5.12,"Xứ Lăng, Tứ Chánh.",
+P0178,Lê Thị Mùi,14,P0114,Lê Viết Chiêm,,,"Trà Trì, Hải Xuân.",
+P0179,Lê Thị Dãnh,14,P0114,Lê Viết Chiêm,,,"Trà Trì, Hải Xuân.",
+P0180,Lê vô danh,14,P0114,Lê Viết Chiêm,,,"Trà Trì, Hải Xuân.",
+P0181,Lê Thị Thiện,14,P0115,Lê Viết Ngưỡng,,,"Trà Trì, Hải Xuân.",
+P0182,Lê Thị Luyện,14,P0115,Lê Viết Ngưỡng,,,"Trà Trì, Hải Xuân.",
+P0183,Lê Viết Điện,14,P0115,Lê Viết Ngưỡng,,25.2,"Trà Trì, Hải Xuân.",Con Ông Ngưỡng.
+P0184,Lê Thị Chút,14,P0115,Lê Viết Ngưỡng,,,"Trà Trì, Hải Xuân.",
+P0185,Lê vô danh,14,P0124,Lê Viết Dĩ,,,"Trà Trì, Hải Xuân.",
+P0186,Lê vô danh,14,P0124,Lê Viết Dĩ,,,"Trà Trì, Hải Xuân.",
+P0187,Lê vô danh,14,P0124,Lê Viết Dĩ,,,"Trà Trì, Hải Xuân.",
+P0188,Lê vô danh,14,P0124,Lê Viết Dĩ,,,"Trà Trì, Hải Xuân.",
+P0189,Lê vô danh,14,P0124,Lê Viết Dĩ,,,"Trà Trì, Hải Xuân.",
+P0190,Lê Viết Hoàn,14,P0124,Lê Viết Dĩ,,1.4,"Trà Trì, Hải Xuân.",
+P0191,Lê Viết Phụ,14,P0124,Lê Viết Dĩ,10.5.1941,,,Con Ông Dĩ.
+P0192,Lê Thị Thụ,14,P0124,Lê Viết Dĩ,,,"Trà Trì, Hải Xuân.",
+P0193,Lê Thị Bồng,14,P0127,Lê Viết Nghĩa,,,"Trà Trì, Hải Xuân.",
+P0194,Lê Thị Truy,14,P0127,Lê Viết Nghĩa,,,"Trà Trì, Hải Xuân.",
+P0195,Lê Thị Doãn,14,P0127,Lê Viết Nghĩa,,,"Trà Trì, Hải Xuân.",
+P0196,Lê vô danh,14,P0128,Lê Viết Sanh,,,"Trà Trì, Hải Xuân.",
+P0197,Lê Thị Dung,14,P0128,Lê Viết Sanh,,,"Trà Trì, Hải Xuân.",
+P0198,Lê Thị Quế,14,P0128,Lê Viết Sanh,,,"Rú Phường, Hải Xuân.","Lấy chồng Họ Trương, Phú Xuân."
+P0199,Lê Thị Kế,14,P0128,Lê Viết Sanh,,,"Lộc Ninh, Bình Phước.","Lấy chồng Họ Hoàng, Trà Trì."
+P0200,Lê vô danh,14,P0138,Lê Viết Truy,,,"Trà Trì, Hải Xuân.",Con Bà Thất.
+P0201,Lê Thị Tô,14,P0138,Lê Viết Truy,,,"Trà Trì, Hải Xuân.",Con Bà Đặng.
+P0202,Lê Viết Thành,14,P0138,Lê Viết Truy,,7.11,"Trà Trì, Hải Xuân.",Con Ông Truy.
+P0203,Lê Thị Ý,14,P0138,Lê Viết Truy,,,"Trà Trì, Hải Xuân.",
+P0204,Lê Viết Chính,14,P0138,Lê Viết Truy,,,"Trà Trì, Hải Xuân.",Con Ông Truy.
+P0205,Lê Viết Tâm,14,P0138,Lê Viết Truy,,7.3,"Trà Trì, Hải Xuân.",Con Ông Truy.
+P0206,Lê Viết Tu,14,P0138,Lê Viết Truy,,27.1,"Trà Trì, Hải Xuân.",Con Ông Truy.
+P0207,Lê vô danh,14,P0139,Lê Viết Tuyển,,,"Trà Trì, Hải Xuân.",
+P0208,Lê Thị Tứ,14,P0139,Lê Viết Tuyển,,,"Trà Trì, Hải Xuân.",
+P0209,Lê Viết Luân,14,P0139,Lê Viết Tuyển,,6.7,"Trà Trì, Hải Xuân.",Con Ông Tuyển.
+P0210,Lê Viết Hành,14,P0139,Lê Viết Tuyển,,19.6,"Trà Trì, Hải Xuân.",Con Ông Tuyển.
+P0211,Lê Viết Lại,14,P0139,Lê Viết Tuyển,,4.3,"Trà Trì, Hải Xuân.",Con Ông Tuyển.
+P0212,Lê Viết Long,14,P0139,Lê Viết Tuyển,,25.5,"Trà Trì, Hải Xuân.",Con Ông Tuyển.
+P0213,Lê Thị Hưng,14,P0139,Lê Viết Tuyển,,,"Trà Trì, Hải Xuân.",
+P0214,Lê Thị Bân,14,P0143,Lê Viết Chước,,,"Trà Trì, Hải Xuân.",
+P0215,Lê vô danh,14,P0143,Lê Viết Chước,,,"Trà Trì, Hải Xuân.",
+P0216,Lê Viết Chất,14,P0143,Lê Viết Chước,,1.11,"Trà Trì, Hải Xuân.",Con Ông Chước.
+P0217,Lê Viết Ất,14,P0143,Lê Viết Chước,,3.8,"Trà Trì, Hải Xuân.",Con Ông Chước.
+P0218,Lê Thị Cần,14,P0143,Lê Viết Chước,,,"Trà Trì, Hải Xuân.",
+P0219,Lê Viết Bút,14,P0143,Lê Viết Chước,,,"Trà Trì, Hải Xuân.",
+P0220,Lê Thị Mẫn,14,P0143,Lê Viết Chước,,,"Trà Trì, Hải Xuân.",
+P0221,Lê Thị Ngân,14,P0143,Lê Viết Chước,,,"Trà Trì, Hải Xuân.",
+P0222,Lê Viết Ngợi (Châm),14,P0143,Lê Viết Chước,15.7.1915,,,
+P0223,Lê Thị Hợi,14,P0143,Lê Viết Chước,,,"Trà Trì, Hải Xuân.",
+P0224,Lê vô danh,14,P0158,Lê Viết Cẩn,,,"Trà Trì, Hải Xuân.",
+P0225,Lê Viết Dẫn,14,P0158,Lê Viết Cẩn,,,"Trà Trì, Hải Xuân.",Con Ông Cẩn.
+P0226,Lê Viết Nhơn,14,P0158,Lê Viết Cẩn,,,"Trà Trì, Hải Xuân.",Con Ông Cẩn.
+P0227,Lê Viết Chinh (Trinh),14,P0159,Lê Viết Thận,,,"Trà Trì, Hải Xuân.",
+P0228,Lê Thị Đỏng,14,P0159,Lê Viết Thận,,,"Trà Trì, Hải Xuân.",
+P0229,Lê vô danh,15,P0165,Lê Viết Bá (Toản),,,"Xứ Lăng, Tứ Chánh",
+P0230,Lê vô danh,15,P0165,Lê Viết Bá (Toản),,,"Xứ Lăng, Tứ Chánh",
+P0231,Lê vô danh,15,P0165,Lê Viết Bá (Toản),,,"Xứ Lăng, Tứ Chánh",
+P0232,Lê vô danh,15,P0165,Lê Viết Bá (Toản),,,"Cồn Miếu, Tứ Chánh",
+P0233,Lê vô danh,15,P0165,Lê Viết Bá (Toản),,,"Cồn Miếu, Tứ Chánh",
+P0234,Lê Thị Thảnh,15,P0167,Lê Viết Nẫm,1948,,"Trà Trì, Hải Xuân.","Chồng Họ Nguyễn 2, Trà Trì."
+P0235,Lê Viết Na,15,P0167,Lê Viết Nẫm,,16.1,"Trà Trì, Hải Xuân.",
+P0236,Lê Thị Bảnh,15,P0167,Lê Viết Nẫm,,,"Trà Trì, Hải Xuân.","Chồng Họ Lê 4, Trà Trì."
+P0237,Lê Thị Lãnh,15,P0167,Lê Viết Nẫm,,,"Trà Trì, Hải Xuân.","Chồng Họ Hoàng, Trà Trì."
+P0238,Lê Viết Văn (Oanh/Y),14,,,,13.9,"Cồn khám, Tứ Chánh, Phong",Con Ông Cảnh.
+P0239,Lê Viết Lãng (Thuyên),15,P0238,Lê Viết Văn (Oanh/Y),,19.8,"Ngã ba, Tứ Chánh,    Phong",Con Ông Văn (Y/Oanh).
+P0240,Lê Thị Hôi (Lợn),15,P0238,Lê Viết Văn (Oanh/Y),1942,6.5,"Xứ Lăng, Tứ Chánh.",
+P0241,Lê Viết Linh (Lanh),15,P0238,Lê Viết Văn (Oanh/Y),10.1943,,,Con Ông Văn (Y/Oanh). Năm 1975 do công
+P0242,Lê Viết Lợi,15,P0238,Lê Viết Văn (Oanh/Y),1947,20.8,"Cồn xa, Tứ Chánh.",Liệt sĩ QĐNDVN.
+P0243,Lê vô danh,15,P0238,Lê Viết Văn (Oanh/Y),,,"Đùng phe, Tứ Chánh.",
+P0244,Lê Viết Bù (Hương),15,P0238,Lê Viết Văn (Oanh/Y),1952,,,Con Ông Văn (Y/Oanh).
+P0245,Lê Thị Gái,15,P0238,Lê Viết Văn (Oanh/Y),1955,,,"Chồng  Nguyễn Kiểm, Vinh Hiền, Phú"
+P0246,Lê Thị Lộc (Bòn),15,P0238,Lê Viết Văn (Oanh/Y),1958,,,"Chồng Hồ Cho, Phò Ninh, Phong An."
+P0247,Lê Thị Thoại (Thuỵ),15,P0170,Lê Viết Trí (Tới),,18.11,,"Liệt sỹ QĐNDVN. Chồng Lê Quang Vinh,"
+P0248,Lê Thị Vọng,15,P0170,Lê Viết Trí (Tới),1930,,,"Chồng Hoàng Bé, Quê: Hiền Sỹ, Phong"
+P0249,Lê Thị Thí (Thức),15,P0170,Lê Viết Trí (Tới),1933,,,"Chồng Trương Quả, Quê Tứ Chánh,"
+P0250,Lê Viết Uyên (Quảy),15,P0170,Lê Viết Trí (Tới),1937,,,"Con Ông Trí. Năm 1985 do công tác,"
+P0251,Lê Thị Thỏn (Đới),15,P0170,Lê Viết Trí (Tới),1940,,,"Chồng Thái Công Đẳng, Tứ Chánh,"
+P0252,Lê Viết Trong (Loát),15,P0170,Lê Viết Trí (Tới),1943,5.7,"Cồn khám, Tứ Chánh, Phong Sơn.",Con Ông Trí (Tới).
+P0253,Lê Thị Nữ,15,P0170,Lê Viết Trí (Tới),,,,"Chồng Đào Xuân Hội, Quê Yên Khánh,"
+P0254,Lê Thị Giao,15,P0173,Lê Viết Cừu,,,"Trà Trì, Hải Xuân.",Con bà Phương
+P0255,Lê vô danh,15,P0173,Lê Viết Cừu,,,"Trà Trì, Hải Xuân.",
+P0256,Lê vô danh,15,P0173,Lê Viết Cừu,,,"Trà Trì, Hải Xuân.",
+P0257,Lê Viết Dược,15,P0173,Lê Viết Cừu,1.11.1941,,"Trà Trì, Hải Xuân.",Con Ông Cừu.
+P0258,Lê vô danh,15,P0173,Lê Viết Cừu,,,"Trà Trì, Hải Xuân.",
+P0259,Lê vô danh,15,P0173,Lê Viết Cừu,,,"Trà Trì, Hải Xuân.",
+P0260,Lê Viết Hàn,15,P0173,Lê Viết Cừu,,5.4,"Trà Trì, Hải Xuân.",
+P0261,Lê Thị Hữu,15,P0173,Lê Viết Cừu,1951,,"Trà Trì, Hải Xuân.","Lấy chồng Họ Nguyễn 5, Trà Trì."
+P0262,Lê Thị Lựu,15,P0175,Lê Viết Hoành,,12.9,"Cồn Bảng, Tứ Chánh",
+P0263,Lê Thị Thới (Thái),15,P0175,Lê Viết Hoành,1937,,,"Chồng Hoàng Công Cuộc, Hiền Sỹ."
+P0264,Lê Thị Đoái (Duyệt),15,P0175,Lê Viết Hoành,1939,,,"Chồng Thái Công Bỉnh, Tứ Chánh."
+P0265,Lê Viết Tuyến,15,P0175,Lê Viết Hoành,Nhâm Ngọ,9.5,"Cồn khám, Tứ Chánh, Phong",Con Ông Hoành. Liệt sỹ. Xã đội
+P0266,Lê Thị Tuy,15,P0175,Lê Viết Hoành,1944,24.2,"Xứ Lăng, Tứ Chánh.",
+P0267,Lê Viết Tuyển (Thiển),15,P0175,Lê Viết Hoành,1946,11.6,"Cồn khám, Tứ Chánh",Liệt sỹ QĐNDVN.
+P0268,Lê Viết Miễn,15,P0175,Lê Viết Hoành,1948,29.3,"Cồn khám, Tứ Chánh",Liệt sỹ QĐNDVN.
+P0269,Lê Viết Đức (Lời),15,P0175,Lê Viết Hoành,12.10.1950,,,Con Ông Hoành. Năm 1975 gia đình định cư
+P0270,Lê Viết Diễn,15,P0175,Lê Viết Hoành,1952,29.7,"Cồn khám, Tứ Chánh",Liệt sỹ QĐNDVN.
+P0271,Lê Viết Thành (Giản),15,P0175,Lê Viết Hoành,25.7.1954,,,"Con Ông Hoành. Năm 1993 do công tác, gia"
+P0272,Lê Viết vô danh,15,P0175,Lê Viết Hoành,,,"Cồn Bảng, Tứ Chánh",
+P0273,Lê Thị Ngại (Thanh),15,P0175,Lê Viết Hoành,1959,,,"Chồng Nguyễn Đăng  Khánh, Tứ Chánh."
+P0274,Lê vô danh,15,P0175,Lê Viết Hoành,,,,
+P0275,Lê Thị Tại (Nga),15,P0175,Lê Viết Hoành,1965,,,Đại học Sư phạm (2005). Chồng Nguyễn
+P0276,Lê Viết Ký,15,P0183,Lê Viết Điện,,,,Con Ông Điện. Năm 1985 gia đình đi Kinh tế
+P0277,Lê Thị Thuỷ,15,P0191,Lê Viết Phụ,,,,
+P0278,Lê Thị Thủ,15,P0191,Lê Viết Phụ,,,,
+P0279,Lê Viết Đồ,15,P0191,Lê Viết Phụ,,,,
+P0280,Lê vô danh,15,P0191,Lê Viết Phụ,,,,
+P0281,Lê Thị An,15,P0191,Lê Viết Phụ,1972,,,"Lấy chồng Họ Nguyễn 2, Trà Trì."
+P0282,Lê vô danh,15,P0191,Lê Viết Phụ,,,,
+P0283,Lê Thị Lan,15,P0191,Lê Viết Phụ,,,,"Lấy chồng Họ Trần, Trà Trì."
+P0284,Lê Viết Hoà,15,P0191,Lê Viết Phụ,,,,
+P0285,Lê Thị Đào,15,P0191,Lê Viết Phụ,,,,Thích nữ Huệ Ngân.
+P0286,Lê Viết Thái (Được),15,P0191,Lê Viết Phụ,25.11.1988,,,Con Ông Phụ.
+P0287,Lê Viết Lập,15,P0202,Lê Viết Thành,1915,18.12,"Trà Trì, Hải Xuân.",Con Ông Thành.
+P0288,Lê Thị Khanh,15,P0202,Lê Viết Thành,1918,,,"Lấy chồng Họ Nguyễn 2, Trà Trì."
+P0289,Lê Viết Danh,15,P0202,Lê Viết Thành,,24.11,"Trà Trì, Hải Xuân.",
+P0290,Lê Thị Hoanh (Đĩu),15,P0202,Lê Viết Thành,,,"Trà Trì, Hải Xuân.","Lấy chồng Họ Nguyễn 5, Trà Trì."
+P0291,Lê vô danh,15,P0204,Lê Viết Chính,,,"Trà Trì, Hải Xuân.",
+P0292,Lê Thị Thanh,15,P0204,Lê Viết Chính,,,,
+P0293,Lê Thị Cảnh,15,P0204,Lê Viết Chính,,,"Trà Trì, Hải Xuân.",
+P0294,Lê Viết Hoanh,15,P0204,Lê Viết Chính,1932,23.12.2003,"Lộc Thiện, Lộc Ninh, Bình",Con Ông Chính.
+P0295,Lê Thị Dĩnh,15,P0204,Lê Viết Chính,,,,
+P0296,Lê Thị Khánh,15,P0205,Lê Viết Tâm,1932,.8 Kỷ Sửu,"Trà Trì, Hải Xuân.",
+P0297,Lê Viết Hồ,15,P0205,Lê Viết Tâm,,7.3,"Trà Trì, Hải Xuân.",
+P0298,Lê Viết Giáp (Đỗ),15,P0205,Lê Viết Tâm,,7.3,"Trà Trì, Hải Xuân.",
+P0299,Lê Thị Thế,15,P0206,Lê Viết Tu,,,"Trà Trì, Hải Xuân.","Lấy chồng Họ Hoàng, Phú Xuân B."
+P0300,Lê Thị Thức,15,P0206,Lê Viết Tu,,,"Trà Trì, Hải Xuân.","Lấy chồng Họ Nguyễn 6, Trà Trì."
+P0301,Lê Viết Thu,15,P0206,Lê Viết Tu,,26.10,"Trà Trì, Hải Xuân.",
+P0302,Lê Viết Thảo,15,P0206,Lê Viết Tu,,21.6,"Trà Trì, Hải Xuân.",
+P0303,Lê Thị Thuận,15,P0206,Lê Viết Tu,,,"Trà Trì, Hải Xuân.","Lấy chồng Họ Nguyễn 2, Trà Trì."
+P0304,Lê Thị Huân,15,P0206,Lê Viết Tu,,5.6,"Trà Trì, Hải Xuân.",
+P0305,Lê Viết Dậu,15,P0206,Lê Viết Tu,,28.3,"Trà Trì, Hải Xuân.",
+P0306,Lê Viết Dũng,15,P0206,Lê Viết Tu,,15.8,Không rõ,Đại Đức Thích Quảng Tánh.
+P0307,Lê Viết Dần,15,P0206,Lê Viết Tu,9.7.1950,,,Con Ông Tu.
+P0308,Lê vô danh,15,P0209,Lê Viết Luân,,,"Trà Trì, Hải Xuân.",Con Bà 1.
+P0309,Lê Viết Kinh,15,P0209,Lê Viết Luân,,8.4,"Trà Trì, Hải Xuân.",
+P0310,Lê Viết Tập,15,P0209,Lê Viết Luân,,6.6,"Trà Trì, Hải Xuân.",Con Bà Lụng.
+P0311,Lê Thị Hường,15,P0209,Lê Viết Luân,,,"Trà Trì, Hải Xuân.",Lấy chồng ở Hải Quy.
+P0312,Lê Viết Tuân,15,P0209,Lê Viết Luân,,2.1,"Trà Trì, Hải Xuân.",
+P0313,Lê Thị Ba (Nuôi),15,P0209,Lê Viết Luân,13.3.1944,,,
+P0314,Lê Viết Toan,15,P0210,Lê Viết Hành,1924,1998,"Dục Mỹ, Khánh Hoà.",Lê Con.
+P0315,Lê Viết Tảo,15,P0210,Lê Viết Hành,,,Đà Nẵng.,Con Ông Hành.
+P0316,Lê Thị Tùng,15,P0211,Lê Viết Lại,,,,"Lấy chồng Họ Lê 4, Trà Trì."
+P0317,Lê Viết Tiệm,15,P0211,Lê Viết Lại,,,,
+P0318,Lê Thị Diệm,15,P0211,Lê Viết Lại,,,,"Lấy chồng Họ Nguyễn 2, Trà Trì."
+P0319,Lê Thị Niệm,15,P0211,Lê Viết Lại,,,,
+P0320,Lê Viết Tiềm,15,P0211,Lê Viết Lại,,,,Con Ông Lại.
+P0321,Lê vô danh,15,P0211,Lê Viết Lại,,,"Trà Trì, Hải Xuân.",
+P0322,Lê Thị Lài,15,P0212,Lê Viết Long,1943,,,"Lấy chồng Họ Hoàng, Trà Trì."
+P0323,Lê Viết Trưng,15,P0212,Lê Viết Long,1940,,,Con Ông Long.
+P0324,Lê vô danh,15,P0212,Lê Viết Long,,,"Trà Trì, Hải Xuân.",
+P0325,Lê Viết Xưng,15,P0212,Lê Viết Long,1951,,,Con Ông Long.
+P0326,Lê vô danh,15,P0212,Lê Viết Long,,,"Trà Trì, Hải Xuân.",
+P0327,Lê Thị Thơ,15,P0212,Lê Viết Long,1959,,,"Lấy chồng Họ Trần, Trà Trì."
+P0328,Lê Thị Vượng,15,P0216,Lê Viết Chất,,19.7,"Ngãi Giao, Châu Đức, Bà","Lấy chồng Họ Nguyễn 2, Trà Trì."
+P0329,Lê vô danh,15,P0216,Lê Viết Chất,,,"Trà Trì, Hải Xuân.",
+P0330,Lê Viết Thường,15,P0216,Lê Viết Chất,1.3.1932,,,Con Ông Chất.
+P0331,Lê Thị Thương,15,P0216,Lê Viết Chất,1.7.1935,24.5,"Trà Trì, Hải Xuân.","Lấy chồng Họ Nguyễn 5, Trà Trì."
+P0332,Lê vô danh,15,P0216,Lê Viết Chất,,,"Trà Trì, Hải Xuân.",
+P0333,Lê Viết Thừa,15,P0216,Lê Viết Chất,1.1.1937,,,Con Ông Chất.
+P0334,Lê Thị Hảo,15,P0216,Lê Viết Chất,,,,"Lấy chồng Họ Lê 4, Trà Trì."
+P0335,Lê Thị Kiểu,15,P0216,Lê Viết Chất,,,,"Lấy chồng ở Triệu Hoà, Triệu Phong."
+P0336,Lê Viết Ngọc,15,P0216,Lê Viết Chất,,,"Trà Trì, Hải Xuân.",
+P0337,Lê Thị Lành,15,P0216,Lê Viết Chất,1946,,,"Lấy chồng Họ Hoàng, Trà Trì."
+P0338,Lê Viết Giáp,15,P0217,Lê Viết Ất,,3.8,"Trà Trì, Hải Xuân.",Con Bà Chiểu.
+P0339,Lê Viết Dị,15,P0217,Lê Viết Ất,,3.8,"Trà Trì, Hải Xuân.",Con Bà Vầy.
+P0340,Lê Viết Trưởng,15,P0217,Lê Viết Ất,,3.8,"Trà Trì, Hải Xuân.",
+P0341,Lê Viết Đúc,15,P0217,Lê Viết Ất,1940,25.6.1967,"Trà Trì, Hải Xuân.",Con Ông Ất.
+P0342,Lê Thị Túc,15,P0217,Lê Viết Ất,,,,"Lấy chồng Họ Nguyễn 5, Trà Trì."
+P0343,Lê Viết Ngợi,14,,,15.7.1915,,"Trà Trì, Hải Xuân.",Con Ông Chước.
+P0344,Lê Thị Thung,15,P0343,Lê Viết Ngợi,,,"Trà Trì, Hải Xuân.",
+P0345,Lê Thị Liễu,15,P0343,Lê Viết Ngợi,,,"Trà Trì, Hải Xuân.",
+P0346,Lê vô danh,15,P0343,Lê Viết Ngợi,,,"Trà Trì, Hải Xuân.",
+P0347,Lê Viết Đợi,15,P0343,Lê Viết Ngợi,5.12.1942,,,Con Ông Ngợi.
+P0348,Lê Viết Học,15,P0343,Lê Viết Ngợi,,,,Con Ông Ngợi.
+P0349,Lê Viết Châu,15,P0343,Lê Viết Ngợi,,,"Trà Trì, Hải Xuân.",Con Ông Ngợi.
+P0350,Lê vô danh,15,P0343,Lê Viết Ngợi,,,,
+P0351,Lê Thị Vân,15,P0343,Lê Viết Ngợi,,,"Trà Trì, Hải Xuân.",
+P0352,Lê Thị Hiền,15,P0343,Lê Viết Ngợi,,,,"Lấy chồng Họ Hoàng, Trà Trì."
+P0353,Lê Thị Hậu,15,P0343,Lê Viết Ngợi,,,,"Lấy chồng Họ Hoàng, Trà Trì."
+P0354,Lê Viết Lãnh,15,P0225,Lê Viết Dẫn,,,"Trà Trì, Hải Xuân.",Con Bà Thắm.
+P0355,Lê Thị Diễn,15,P0225,Lê Viết Dẫn,,,"Trà Trì, Hải Xuân.",
+P0356,Lê Thị Chung,15,P0225,Lê Viết Dẫn,,,,Lấy chồng Họ Nguyễn   Trà Trì.
+P0357,Lê Viết Thỉ,15,P0225,Lê Viết Dẫn,,,"Trà Trì, Hải Xuân.",
+P0358,Lê Thị Dung,15,P0225,Lê Viết Dẫn,,,,Lấy chồng Cam Lộ.
+P0359,Lê vô danh,15,P0225,Lê Viết Dẫn,,,"Trà Trì, Hải Xuân.",
+P0360,Lê Viết Mua,15,P0225,Lê Viết Dẫn,1983,,,Con Ông Dẫn.
+P0361,Lê Thị Bồng,15,P0226,Lê Viết Nhơn,,,,"Lấy chồng Họ Trần, Trà Trì."
+P0362,Lê Thị Dương,15,P0226,Lê Viết Nhơn,,,,"Lấy chồng Họ Hoàng, Trà Trì."
+P0363,Lê vô danh,15,P0226,Lê Viết Nhơn,,,"Trà Trì, Hải Xuân.",
+P0364,Lê Viết Phúc,15,P0226,Lê Viết Nhơn,,25.3.1968,"Trà Trì, Hải Xuân.",
+P0365,Lê Thị Minh,15,P0226,Lê Viết Nhơn,1965,,,"Lấy chồng Họ Trần, Trà Trì."
+P0366,Lê Thị Vinh,15,P0226,Lê Viết Nhơn,1967,,,"Lấy chồng Họ Nguyễn 2, Trà Trì."
+P0367,Lê Thị Lâu,16,P0239,Lê Viết Lãng (Thuyên),17.12.1964,29.3,"Lăng mạ, Tứ Chánh.",
+P0368,Lê Thị Dỏ (Xuân),16,P0239,Lê Viết Lãng (Thuyên),17.2.1967,,,"Chồng  họ Phan, Quê: Cổ By, Phong"
+P0369,Lê Viết Dần,16,P0239,Lê Viết Lãng (Thuyên),17.2.1974,,,Con Ông Lãng (Thuyên).
+P0370,Lê Thị Thủy,16,P0239,Lê Viết Lãng (Thuyên),10.6.1976,,,"Chồng  Phạm Bá Phong, Quê:  Phong"
+P0371,Lê Viết Tam,16,P0239,Lê Viết Lãng (Thuyên),15.8.1978,21.8.1978,"Cồn khám, Tứ Chánh",
+P0372,Lê Thị Kim,16,P0239,Lê Viết Lãng (Thuyên),20.7.1979,,,"Chồng người họ Trương, Tứ Chánh"
+P0373,Lê Viết Phong,16,P0241,Lê Viết Linh (Lanh),10.1976,,,Con Ông Linh (Lanh).
+P0374,Lê Thị Loan,16,P0241,Lê Viết Linh (Lanh),6.1978,,,Đại học Sư phạm (2007). Chồng  Ngô Xuân
+P0375,Lê vô danh,16,P0241,Lê Viết Linh (Lanh),,,"Cồn khám, Tứ Chánh.",
+P0376,Lê Thị Sơn,16,P0241,Lê Viết Linh (Lanh),9.1980,,,"Chồng Phan Văn Tiến, Quê: Vinh Hiền, Phú"
+P0377,Lê Viết Quảng,16,P0241,Lê Viết Linh (Lanh),2.1983,,,Con Ông Linh (Lanh).
+P0378,Lê vô danh,16,P0241,Lê Viết Linh (Lanh),,,"Cồn xa, Tứ Chánh.",
+P0379,Lê vô danh,16,P0241,Lê Viết Linh (Lanh),,,"Cồn xa, Tứ Chánh.",
+P0380,Lê vô danh,16,P0244,Lê Viết Bù (Hương),,,"Trà Trì, Hải Xuân",
+P0381,Lê Viết Thắng,16,P0244,Lê Viết Bù (Hương),5.3.1975,,,Con Ông Bù (Hương).
+P0382,Lê Viết Thăng,16,P0244,Lê Viết Bù (Hương),15.9.1977,,,Con Ông Bù (Hương).
+P0383,Lê Viết Long,16,P0244,Lê Viết Bù (Hương),,,,Con Ông Tiềm.
+P0384,Lê vô danh,16,P0244,Lê Viết Bù (Hương),,,"Cồn khám,Tứ Chánh",
+P0385,Lê Viết Được,16,P0244,Lê Viết Bù (Hương),25.12.1984,,,Con Ông Bù (Hương).
+P0386,Lê Viết Bốn,16,P0244,Lê Viết Bù (Hương),30.5.1985,,,Con Ông Bù (Hương)
+P0387,Lê Thị Nhàn,16,P0244,Lê Viết Bù (Hương),6.9.1992,,,
+P0388,Lê Thị Duyên,16,P0250,Lê Viết Uyên (Quảy),1955,,,"Chồng Phạm Định, Hiền An, Phong Sơn"
+P0389,Lê Thị Hoa (Doãn),16,P0250,Lê Viết Uyên (Quảy),1957,,,"Chồng Trương Thế Dũng, Quê: Tứ"
+P0390,Lê vô danh,16,P0250,Lê Viết Uyên (Quảy),,,"Cồn Bảng, Tứ Chánh",
+P0391,Lê Thị Nở,16,P0250,Lê Viết Uyên (Quảy),1960,,"Cồn khám, Tứ Chánh",
+P0392,Lê Viết Xảo,16,P0250,Lê Viết Uyên (Quảy),15.9.1962,,,Con Ông Uyên.
+P0393,Lê Viết Quyệt,16,P0250,Lê Viết Uyên (Quảy),1966,,,Con Ông Uyên.
+P0394,Lê vô danh,16,P0250,Lê Viết Uyên (Quảy),,,"Cồn Bảng, Tứ Chánh",Con Bà Thuý.
+P0395,Lê Viết Duyến,16,P0250,Lê Viết Uyên (Quảy),1977,,,Con Ông Uyên.
+P0396,Lê Viết Ngọc,16,P0250,Lê Viết Uyên (Quảy),1976,,,Con Ông Học.
+P0397,Lê Thị Hằng,16,P0250,Lê Viết Uyên (Quảy),1981,,,
+P0398,Lê Viết Ninh,16,P0250,Lê Viết Uyên (Quảy),1979,,,Con Ông Uyên.
+P0399,Lê vô danh,16,P0250,Lê Viết Uyên (Quảy),,,"Cồn Bảng, Tứ Chánh",
+P0400,Lê vô danh,16,P0250,Lê Viết Uyên (Quảy),,,"Cồn Bảng, Tứ Chánh",
+P0401,Lê vô danh,16,P0250,Lê Viết Uyên (Quảy),,,"Cồn Bảng, Tứ Chánh",
+P0402,Lê vô danh,16,P0250,Lê Viết Uyên (Quảy),,,"Cồn Bảng, Tứ Chánh",
+P0403,Lê Viết Thanh,16,P0252,Lê Viết Trong (Loát),1966,,,Con Ông Trong (Loát).
+P0404,Lê Thị Thiết,16,P0252,Lê Viết Trong (Loát),1966,,,"Chồng người  họ Nguyễn - Ưu Điềm,"
+P0405,Lê Viết Giáo,16,P0257,Lê Viết Dược,28.10.1965,,,Con Ông Dược.
+P0406,Lê Viết vô danh,16,P0265,Lê Viết Tuyến,,,,
+P0407,Lê Thị Tài (Ty),16,P0265,Lê Viết Tuyến,1965,,,"Chồng người họ Võ – Dương Thủy, Lệ"
+P0408,Lê Viết Đạo,16,P0269,Lê Viết Đức (Lời),2.9.1976,,,Con Ông Đức (Lời).
+P0409,Lê Thị Hà,16,P0269,Lê Viết Đức (Lời),4.4.1980,,,"Chồng Hoàng Hải, Quê: Phò Ninh, Phong An,"
+P0410,Lê Viết Hải,16,P0269,Lê Viết Đức (Lời),11.6.1982,3.11,"Cồn Miếu, Tứ Chánh",
+P0411,Lê Viết Sơn,16,P0269,Lê Viết Đức (Lời),14.10.1989,,,Con Ông Đức (Lời). Đại học khoa học
+P0412,Lê Viết Phúc,16,P0271,Lê Viết Thành (Giản),6.10.1974,,,Con Ông Thành (Giản).
+P0413,Lê Thị Minh Giang,16,P0271,Lê Viết Thành (Giản),7.9.1976,,,Cử nhân Tin học (1999).
+P0414,Lê Thị Thủy Ngân,16,P0271,Lê Viết Thành (Giản),`9.7.1980,,,Cử nhân Kinh tế (2007).
+P0415,Lê Hải Yến,16,P0271,Lê Viết Thành (Giản),6.8.1985,,,Cao đẳng Thư viện (2008).
+P0416,Lê Viết vô danh,16,P0271,Lê Viết Thành (Giản),14.8.1986,14.8.1986,"Cồn khám, Tứ Chánh",
+P0417,Lê vô danh,16,P0276,Lê Viết Ký,,,,
+P0418,Lê Viết Lý,16,P0276,Lê Viết Ký,1964,,,Con Ông Ký.
+P0419,Lê Viết Thiết,16,P0276,Lê Viết Ký,1966,,,Con Ông Ký.
+P0420,Lê Thị Nga,16,P0276,Lê Viết Ký,,,,
+P0421,Lê Viết Phi,16,P0276,Lê Viết Ký,1979,,,Con Ông Ký.
+P0422,Lê Viết Thi,16,P0276,Lê Viết Ký,1974,,,Con Ông Ký.
+P0423,Lê Viết Thưng,16,P0276,Lê Viết Ký,1977,,,Con Ông Ký.
+P0424,Lê vô danh,16,P0276,Lê Viết Ký,,,"Trà Trì, Hải Xuân.",
+P0425,Lê Viết Hùng,16,P0276,Lê Viết Ký,,,,Con Ông Tiềm.
+P0426,Lê Viết Lường,16,P0287,Lê Viết Lập,,29.5,"Trà Trì, Hải Xuân.",Con Bà Khản.
+P0427,Lê vô danh,16,P0287,Lê Viết Lập,,,"Trà Trì, Hải Xuân.",
+P0428,Lê Viết Dưỡng,16,P0287,Lê Viết Lập,,,"Trà Trì, Hải Xuân.",
+P0429,Lê Viết Hường,16,P0287,Lê Viết Lập,,,"Trà Trì, Hải Xuân.",
+P0430,Lê Thị Hiền,16,P0287,Lê Viết Lập,,,"Trà Trì, Hải Xuân.",
+P0431,Lê Viết Đính,16,P0287,Lê Viết Lập,1954,,,Con Ông Lập.
+P0432,Lê vô danh,16,P0287,Lê Viết Lập,,,"Trà Trì, Hải Xuân.",
+P0433,Lê Thị Kính,16,P0287,Lê Viết Lập,1957,,,"Lấy chồng Họ Lê 4, Trà Trì."
+P0434,Lê Thị Kỷ,16,P0287,Lê Viết Lập,,,"Trà Trì, Hải Xuân.",
+P0435,Lê Viết Hợi,16,P0287,Lê Viết Lập,16.5,,,Con Ông Lập.
+P0436,Lê Thị Mẫu,16,P0287,Lê Viết Lập,1967,,,"Lấy chồng Họ Nguyễn 2, Trà Trì."
+P0437,Lê Thị Toàn,16,P0287,Lê Viết Lập,1971,13.4,"Trà Trì, Hải Xuân.",
+P0438,Lê Viết Hoan,16,P0294,Lê Viết Hoanh,25.12.1966,,,Con Ông Hoanh.
+P0439,Lê Thị Hường,16,P0294,Lê Viết Hoanh,1968,,,
+P0440,Lê Viết Dũng,16,P0294,Lê Viết Hoanh,10.9.1973,,,Con Ông Hoanh.
+P0441,Lê Thị Lan,16,P0294,Lê Viết Hoanh,1976,,,
+P0442,Lê Thị Hải,16,P0307,Lê Viết Dần,1972,,,Con Bà Hường.
+P0443,Lê Viết Tùng,16,P0307,Lê Viết Dần,6.3.1979,,,Con Ông Dần.
+P0444,Lê Thị Tiệm,16,P0307,Lê Viết Dần,,,,"Lấy chồng Họ Nguyễn 2, Trà Trì."
+P0445,Lê Viết Quang,16,P0307,Lê Viết Dần,1983,,,Con Ông Xưng.
+P0446,Lê Viết Toan (Thoan),15,,,1924,1998,"Dục Mỹ, Khánh Hoà.",Con Ông Hành.
+P0447,Lê Viết Vĩnh,16,P0446,Lê Viết Toan (Thoan),1953,,,Con Ông Toan.
+P0448,Lê Thị Tiếu,16,P0446,Lê Viết Toan (Thoan),1955,,,"Lấy chồng Nguyễn Biểu, Bố Trạch,"
+P0449,Lê Viết Điệp,16,P0446,Lê Viết Toan (Thoan),1959,2008,"Dục Mỹ, Khánh Hoà.",Con Ông Toan.
+P0450,Lê Viết Diệp,16,P0446,Lê Viết Toan (Thoan),1962,,,Con Ông Toan.
+P0451,Lê Viết Tuyến,16,P0446,Lê Viết Toan (Thoan),1966,,,Con Ông Toan.
+P0452,Lê Thị Hoa,16,P0446,Lê Viết Toan (Thoan),1967,,,"Lấy chồng Phạm Ngọc Toán, Hưng"
+P0453,Lê Viết Vãn,16,P0315,Lê Viết Tảo,,,"Trà Trì, Hải Xuân.",Con Ông Tảo.
+P0454,Lê Viết Tuấn,16,P0320,Lê Viết Tiềm,1976,,,Con Ông Học.
+P0455,Lê Viết Tài,16,P0320,Lê Viết Tiềm,,,,Con Ông Tiềm.
+P0456,Lê Thị Liên,16,P0320,Lê Viết Tiềm,,,,
+P0457,Lê Viết Dõng (Dũng),16,P0320,Lê Viết Tiềm,,,,
+P0458,Lê Viết Trọng,16,P0320,Lê Viết Tiềm,Tuất,Tuất,,
+P0459,Lê Viết Trí,16,P0320,Lê Viết Tiềm,,,,Con Ông Tiềm.
+P0460,Lê Viết Đức,16,P0320,Lê Viết Tiềm,,,,Con Ông Tiềm.
+P0461,Lê Thị Thu Linh,16,P0320,Lê Viết Tiềm,,,,
+P0462,Lê Thị Thu Hà,16,P0320,Lê Viết Tiềm,,,,
+P0463,Lê Thị Thu Loan,16,P0320,Lê Viết Tiềm,,,,
+P0464,Lê Viết Phức,16,P0323,Lê Viết Trưng,1972,,,Con Ông Trưng.
+P0465,Lê Thị Thu,16,P0323,Lê Viết Trưng,1974,,,"Lấy chồng Họ Hoàng, Trà Trì."
+P0466,Lê Thị Thuỷ,16,P0323,Lê Viết Trưng,1976,,,"Lấy chồng Họ Nguyễn   , Trà Trì."
+P0467,Lê Thị Lợi,16,P0323,Lê Viết Trưng,,,,Lấy chồng Trà Lộc.
+P0468,Lê Thị Sáu,16,P0323,Lê Viết Trưng,1983,,,Lấy chồng Thừa Thiên - Huế.
+P0469,Lê Thị Bảy,16,P0323,Lê Viết Trưng,1985,,,"Lấy chồng Mai Đàn, Hải Lâm."
+P0470,Lê vô danh,16,P0323,Lê Viết Trưng,,,,
+P0471,Lê Viết Tám,16,P0323,Lê Viết Trưng,1987,,,Lê Tám.
+P0472,Lê Viết Việt,16,P0323,Lê Viết Trưng,1989,,,Lê Việt.
+P0473,Lê vô danh,16,P0323,Lê Viết Trưng,,,,
+P0474,Lê vô danh,16,P0325,Lê Viết Xưng,,,,
+P0475,Lê Viết Mỹ,16,P0325,Lê Viết Xưng,1971,,,Con Ông Xưng.
+P0476,Lê Viết Anh,16,P0325,Lê Viết Xưng,1974,,,Con Ông Xưng.
+P0477,Lê Viết Trung,16,P0325,Lê Viết Xưng,1979,,,Đại Đức Thích Tâm Thiện.
+P0478,Lê Thị Nguyệt,16,P0325,Lê Viết Xưng,1986,,,"Lấy chồng Họ Lê 4, Trà Trì."
+P0479,Lê vô danh,16,P0330,Lê Viết Thường,,,Không rõ,Con Bà Luyến.
+P0480,Lê Viết Liêm,16,P0330,Lê Viết Thường,6.11.1957,,,Con Ông Thường.
+P0481,Lê Viết Nam,16,P0330,Lê Viết Thường,4.1.1960,,,Con Ông Thường. Kỹ sư Hoá - Đại học
+P0482,Lê Viết Ngạn,16,P0330,Lê Viết Thường,4.3.1962,,,Con Ông Thường.
+P0483,Lê Thị Thanh Ngữ,16,P0330,Lê Viết Thường,17.3.1964,,,"Chồng: Hoàng Minh Tường, quê Hoàn"
+P0484,Lê Viết Phước,16,P0333,Lê Viết Thừa,27.2.1964,21.3.1977,"Trà Trì, Hải Xuân.",
+P0485,Lê Thị Dung,16,P0333,Lê Viết Thừa,15.10 (1966),,,"Lấy chồng họ Nguyễn 2, Trà Trì."
+P0486,Lê vô danh,16,P0333,Lê Viết Thừa,,,"Trà Trì, Hải Xuân.",
+P0487,Lê vô danh,16,P0333,Lê Viết Thừa,,,"Trà Trì, Hải Xuân.",
+P0488,Lê Thị Phượng,16,P0333,Lê Viết Thừa,6.4     (1970),,,"Lấy chồng họ Nguyễn 2,       Trà"
+P0489,Lê Thị Huệ,16,P0333,Lê Viết Thừa,12.3.1972,,,"Lấy chồng Ái Tử, Triệu Ái, Triệu"
+P0490,Lê Viết An,16,P0333,Lê Viết Thừa,22.7.1974,,,Con Ông Thừa.
+P0491,Lê Viết Thịnh,16,P0333,Lê Viết Thừa,9.4,,,Con Ông Thừa.
+P0492,Lê Viết Lâm,16,P0333,Lê Viết Thừa,,,,Con Ông Thừa.
+P0493,Lê vô danh,16,P0341,Lê Viết Đúc,,,"Trà Trì, Hải Xuân.",
+P0494,Lê Viết Cúc,16,P0341,Lê Viết Đúc,10.8.1963,,,Lê Cúc.
+P0495,Lê Viết Mai,16,P0341,Lê Viết Đúc,24.4.1966,,,Con Ông Đúc.
+P0496,Lê Viết Hương,16,P0347,Lê Viết Đợi,19.1.1975,,,Con Ông Đợi.
+P0497,Lê Viết Minh,16,P0347,Lê Viết Đợi,7.2.1976,,,Con Ông Đợi.
+P0498,Lê Thị Mỹ Lệ,16,P0347,Lê Viết Đợi,19.4.1980,,,Lấy chồng Thừa Thiên – Huế.
+P0499,Lê Viết Lễ,16,P0347,Lê Viết Đợi,2.5.1983,,,Con Ông Đợi.
+P0500,Lê Thị Tuyết,16,P0347,Lê Viết Đợi,10.3.1985,,,
+P0501,Lê vô danh,16,P0347,Lê Viết Đợi,,,,
+P0502,Lê vô danh,16,P0348,Lê Viết Học,1972,1972,Nghĩa  địa Quảng Ngãi.,
+P0503,Lê Viết Vũ,16,P0348,Lê Viết Học,1973,,,Con Ông Học.
+P0504,Lê vô danh,16,P0348,Lê Viết Học,1975,1975,Đảo Phú Quốc.,
+P0505,Lê Viết Chi,16,P0349,Lê Viết Châu,1.5.1972,,,Con Ông Châu.
+P0506,Lê Viết Sĩ,16,P0349,Lê Viết Châu,,,,Con Ông Châu.
+P0507,Lê Thị Tựu,16,P0349,Lê Viết Châu,,,,"Lấy chồng ở Quy Thiện, Hải Quy."
+P0508,Lê Trần Yến Nhi,16,P0360,Lê Viết Mua,2007,,,
+P0509,Lê Viết Đạt,17,P0369,Lê Viết Dần,14.7.1995,,,
+P0510,Lê Thị Hiền,17,P0369,Lê Viết Dần,19.2.1998,,,
+P0511,Lê Viết Tỵ,17,P0369,Lê Viết Dần,16.3.2001,,,
+P0512,Lê Thị Mỹ Linh,17,P0369,Lê Viết Dần,16.6.2003,,,
+P0513,Lê Thị Thảo,17,P0373,Lê Viết Phong,31.10.2005,,,
+P0514,Lê Viết Hoà,17,P0381,Lê Viết Thắng,2.8.1998,,,
+P0515,Lê Viết Thuận,17,P0381,Lê Viết Thắng,23.4.2000,,,
+P0516,Lê Thị Bình,17,P0381,Lê Viết Thắng,12.3.2005,,,
+P0517,Lê Thị Ái Nhi,17,P0382,Lê Viết Thăng,20.4.2000,,,
+P0518,Lê Viết Hoàn,17,P0382,Lê Viết Thăng,17.9.2004,,,
+P0519,Lê Viết Quân,17,P0386,Lê Viết Bốn,2.2.2008,,,
+P0520,Lê vô danh,17,P0392,Lê Viết Xảo,,,"Cồn xa, Tứ Chánh",
+P0521,Lê vô danh,17,P0392,Lê Viết Xảo,,,"Cồn xa, Tứ Chánh",
+P0522,Lê Thị Anh Đào,17,P0392,Lê Viết Xảo,5.1.1986,,,
+P0523,Lê Viết Chính,17,P0392,Lê Viết Xảo,23.7.1987,,,
+P0524,Lê Viết Đính,17,P0392,Lê Viết Xảo,10.1.1994,,,
+P0525,Lê Thị Cẩm Vân,17,P0393,Lê Viết Quyệt,28.10.1994,,,
+P0526,Lê Viết Duy,17,P0395,Lê Viết Duyến,27.3.2006,,,
+P0527,Lê Viết Hùng,17,P0396,Lê Viết Ngọc,20.11.2007,,,
+P0528,Lê Thị Cẩm Nhung,17,P0403,Lê Viết Thanh,25.7.1991,,,
+P0529,Lê Thị Cẩm Nhi,17,P0403,Lê Viết Thanh,10.11.1993,,,
+P0530,Lê Hoàng Cẩm Chi,17,P0403,Lê Viết Thanh,1998,,,
+P0531,Lê vô danh,17,P0403,Lê Viết Thanh,,,,
+P0532,Lê Viết vô danh,17,P0403,Lê Viết Thanh,,,,
+P0533,Lê vô danh,17,P0403,Lê Viết Thanh,,,,
+P0534,Lê vô danh,17,P0405,Lê Viết Giáo,,,"Trà Trì, Hải Xuân.",
+P0535,Lê vô danh,17,P0405,Lê Viết Giáo,,,"Trà Trì, Hải Xuân.",
+P0536,Lê Thị Thuý,17,P0405,Lê Viết Giáo,22.3.1989,,,
+P0537,Lê Viết Dục,17,P0405,Lê Viết Giáo,13.1.1998,,,Lê Tiến Dục.
+P0538,Lê Viết Đức,17,P0405,Lê Viết Giáo,5.2000,,,Con Bà Hoè. Lê Đức.
+P0539,Lê Thị Minh Phương,17,P0408,Lê Viết Đạo,20.11.2007,,,
+P0540,Lê Viết Phú,17,P0412,Lê Viết Phúc,15.2.2008,,,
+P0541,Lê Viết Chuý,17,P0418,Lê Viết Lý,1992,,,
+P0542,Lê Thị Hồng Ngọc,17,P0418,Lê Viết Lý,1995,,,
+P0543,Lê Thị Lệ Thuỷ,17,P0418,Lê Viết Lý,1997,,,
+P0544,Lê Viết Trung,17,P0418,Lê Viết Lý,1999,,,
+P0545,Lê Viết Phiết,17,P0419,Lê Viết Thiết,1990,,,
+P0546,Lê Thị Trúc Liên,17,P0419,Lê Viết Thiết,1993,,,
+P0547,Lê Thị Ngọc Hiền,17,P0419,Lê Viết Thiết,1995,,,
+P0548,Lê Thị Huyền Trang,17,P0419,Lê Viết Thiết,1998,,,
+P0549,Lê vô danh,17,P0419,Lê Viết Thiết,,,,
+P0550,Lê vô danh,17,P0421,Lê Viết Phi,,,,
+P0551,Lê vô danh,17,P0421,Lê Viết Phi,,,,
+P0552,Lê Thị Thu Thủy,17,P0421,Lê Viết Phi,1997,,,
+P0553,Lê Thị Mỵ,17,P0421,Lê Viết Phi,2001,,,
+P0554,Lê vô danh,17,P0421,Lê Viết Phi,,,,
+P0555,Lê Thị Mỹ Châu,17,P0421,Lê Viết Phi,2005,,,
+P0556,Lê vô danh,17,P0422,Lê Viết Thi,,,,
+P0557,Lê Thị Phương Nhung,17,P0422,Lê Viết Thi,2003,,,
+P0558,Lê vô danh,17,P0422,Lê Viết Thi,,,,
+P0559,Lê Thị Mộng Tuyền,17,P0422,Lê Viết Thi,2006,,,
+P0560,Lê Viết Hóa,17,P0423,Lê Viết Thưng,2001,,,
+P0561,Lê Thị Mỹ Oanh,17,P0423,Lê Viết Thưng,2004,,,
+P0562,Lê Thị Chiến,17,P0431,Lê Viết Đính,1974,,,"Lấy chồng Họ Lê 4, Trà Trì."
+P0563,Lê Viết Phong,17,P0431,Lê Viết Đính,1977,,,Con Ông Đính.
+P0564,Lê Viết Nhật,17,P0431,Lê Viết Đính,1980,,,Con Ông Đính.
+P0565,Lê Viết Sinh,17,P0431,Lê Viết Đính,1983,,,
+P0566,Lê Thị Ly,17,P0431,Lê Viết Đính,1986,,,
+P0567,Lê Viết Lộc,17,P0431,Lê Viết Đính,1989,,,
+P0568,Lê Viết vô danh,17,P0435,Lê Viết Hợi,1991,9.10,"Trà Trì, Hải Xuân.",
+P0569,Lê Thị Hương,17,P0435,Lê Viết Hợi,1.5.1993,,,
+P0570,Lê Viết Tường,17,P0435,Lê Viết Hợi,11.4.1995,,,
+P0571,Lê Viết Khương,17,P0435,Lê Viết Hợi,20.9.2004,,,
+P0572,Lê Thị Thể Cúc,17,P0438,Lê Viết Hoan,25.8.1993,,,
+P0573,Lê Thị Kim Lựu,17,P0438,Lê Viết Hoan,20.12.1995,,,
+P0574,Lê Thị Tuyết Trinh,17,P0438,Lê Viết Hoan,16.8.2001,,,
+P0575,Lê Thị Phương Thanh,17,P0438,Lê Viết Hoan,3.1.2007,,,
+P0576,Lê Thị Minh Anh,17,P0425,Lê Viết Hùng,13.3.1999,,,
+P0577,Lê Thị Minh Hạnh,17,P0425,Lê Viết Hùng,4.9.2007,,,
+P0578,Lê Thị Hương Giang,17,P0440,Lê Viết Dũng,3.9.1999,,,
+P0579,Lê Viết Sang,17,P0440,Lê Viết Dũng,3.7.2007,,,Lê Ngọc Sang.
+P0580,Lê Nguyễn Anh Thư,17,P0443,Lê Viết Tùng,13.2.2005,,,
+P0581,Lê Thị Hồng Vân,17,P0447,Lê Viết Vĩnh,1978,,,"Lấy chồng Đặng Thế Huy - Ninh Phụng,"
+P0582,Lê Thị Hồng Thuỷ,17,P0447,Lê Viết Vĩnh,1980,,,
+P0583,Lê Viết Cường,17,P0447,Lê Viết Vĩnh,1981,,,
+P0584,Lê Thị Hồng Nhung,17,P0447,Lê Viết Vĩnh,1984,,,Lấy chồng Nguyễn Duy Trinh - Ninh
+P0585,Lê Thị Hồng Loan,17,P0447,Lê Viết Vĩnh,1987,,,
+P0586,Lê Thị Hồng Mai,17,P0447,Lê Viết Vĩnh,1989,,,
+P0587,Lê Thị Hồng Phương,17,P0449,Lê Viết Điệp,1988,,,
+P0588,Lê Thị Hồng Hà,17,P0449,Lê Viết Điệp,1993,,,
+P0589,Lê Viết Hưng,17,P0450,Lê Viết Diệp,1988,,,Lê Viết Thành Hưng.
+P0590,Lê Thị Ngọc Bích,17,P0450,Lê Viết Diệp,1991,,,
+P0591,Lê Viết Tâm,17,P0451,Lê Viết Tuyến,1992,,,
+P0592,Lê Thị Ngọc Thuý,17,P0451,Lê Viết Tuyến,1993,,,
+P0593,Lê Thị Ngọc Thảo,17,P0451,Lê Viết Tuyến,1996,,,
+P0594,Lê Hoàng Uyên Thi,17,P0454,Lê Viết Tuấn,,,,
+P0595,Lê Viết Thịnh,17,P0455,Lê Viết Tài,,,,
+P0596,Lê Viết Dũng (Dõng),16,,,,,,Con Ông Tiềm.
+P0597,Lê Viết Minh,17,P0459,Lê Viết Trí,,,,Lê Bảo Minh
+P0598,Lê Viết Bình,17,P0464,Lê Viết Phức,2000,,,
+P0599,Lê Viết Quốc,17,P0476,Lê Viết Anh,2000,,,
+P0600,Lê Thị Yến,17,P0476,Lê Viết Anh,2004,,,
+P0601,Lê Thị Thuý Hiền,17,P0480,Lê Viết Liêm,12.5.1985,,,Cao đẳng công nghiệp thực phẩm
+P0602,Lê Viết Hoàng,17,P0480,Lê Viết Liêm,22.3.1987,,,Lê Thanh Hoàng.
+P0603,Lê Thị Thu Hà,17,P0480,Lê Viết Liêm,15.8.1989,,,
+P0604,Lê Thị Thanh Hằng,17,P0480,Lê Viết Liêm,15.6.1994,,,
+P0605,Lê Viết Nguyên,17,P0481,Lê Viết Nam,17.1.1992,,,Lê Hoàng Nguyên.
+P0606,Lê Viết Khang,17,P0481,Lê Viết Nam,28.11.2002,,,Lê Nguyên Khang.
+P0607,Lê vô danh,17,P0481,Lê Viết Nam,2004,2004,"Trà Trì, Hải Xuân.",
+P0608,Lê vô danh,17,P0481,Lê Viết Nam,2007,2007,"Trà Trì, Hải Xuân.",
+P0609,Lê Viết Sơn,17,P0482,Lê Viết Ngạn,18.10.1993,,,Lê Tùng Sơn.
+P0610,Lê Tùng Thanh Vân,17,P0482,Lê Viết Ngạn,20.11.1997,,,
+P0611,Lê Nguyễn Phượng Vy,17,P0490,Lê Viết An,25.8.1995,,,
+P0612,Lê Viết Khoa,17,P0491,Lê Viết Thịnh,31.5.2008,,,
+P0613,Lê Viết Cúc (Các),16,,,10.8.1963,,,Con Ông Đúc.
+P0614,Lê Viết vô danh,17,P0613,Lê Viết Cúc (Các),,,"Trà Trì, Hải Xuân.",
+P0615,Lê Thị Như Quỳnh,17,P0613,Lê Viết Cúc (Các),15.7.1999,,,
+P0616,Lê Viết Dũng,17,P0613,Lê Viết Cúc (Các),30.5.2002,,,
+P0617,Lê vô danh,17,P0495,Lê Viết Mai,,,"Trà Trì, Hải Xuân.",
+P0618,Lê Thị Thanh Thảo,17,P0495,Lê Viết Mai,3.6.2006,,,
+P0619,Lê Thị Thuỳ Trang,17,P0425,Lê Viết Hùng,4.8.2003,,,
+P0620,Lê Thị Thuỳ Dương,17,P0425,Lê Viết Hùng,19.9.2004,,,
+P0621,Lê vô danh,17,P0425,Lê Viết Hùng,1995,,,
+P0622,Lê Thị Bảo Ngọc,17,P0497,Lê Viết Minh,17.11.2008,,,
+P0623,Lê Phan Ngọc Thảo,17,P0460,Lê Viết Đức,2005,,,
+P0624,Lê Trần Tú Nguyệt,17,P0503,Lê Viết Vũ,2000,,,Con Bà Hiền.
+P0625,Lê Viết Ninh,17,P0505,Lê Viết Chi,21.1.2004,,,
+P0626,Lê Thị Vy,18,P0563,Lê Viết Phong,2005,,,
+P0627,Lê Viết Vũ,18,P0563,Lê Viết Phong,2007,,,
+P0628,Lê Thị Yến Nhi,18,P0564,Lê Viết Nhật,2007,,,
