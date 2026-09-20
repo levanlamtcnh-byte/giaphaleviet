@@ -6,7 +6,7 @@
 <nav><button class="tab active" data-page="treePage">Cây phả hệ</button><button class="tab" data-page="listPage">Danh sách</button><button class="tab" data-page="dupPage">Kiểm tra tên trùng</button><button class="tab" data-page="introPage">Giới thiệu & hướng dẫn</button></nav></header>
 <main>
 <section id="treePage" class="page active"><div class="layout">
-<aside class="panel"><label>Tìm người</label><select id="person"></select>
+<aside class="panel"><label>Tìm người</label><div class="person-search"><input id="personSearch" type="search" autocomplete="off" placeholder="Gõ họ tên, có thể không dấu..." aria-label="Tìm người"><div id="personResults" class="person-results" hidden></div></div>
 <label>Chế độ xem</label><div class="mode">
 <label><input type="radio" name="mode" value="local" checked> Gia đình & dòng trực hệ</label>
 <label><input type="radio" name="mode" value="anc"> Tổ tiên</label>
@@ -15,23 +15,9 @@
 <hr><div id="profile" class="profile"></div></aside>
 <div><div id="crumb" class="crumb"></div><div class="treeWrap"><div id="tree" class="tree"></div></div></div>
 </div></section>
-
 <section id="listPage" class="page"><h2>Danh sách nguồn</h2><p>Mỗi record giữ hộ gia đình và thứ tự trong mục Sinh hạ. Người trùng tên không bị gộp chỉ vì cùng tên và cùng đời.</p>
 <div class="searchrow"><input id="recordSearch" placeholder="Tìm tên, cha, ngày sinh, ghi chú..."><select id="genFilter"><option value="">Tất cả các đời</option><option value="1">Đời 1</option><option value="2">Đời 2</option><option value="3">Đời 3</option><option value="4">Đời 4</option><option value="5">Đời 5</option><option value="6">Đời 6</option><option value="7">Đời 7</option><option value="8">Đời 8</option><option value="9">Đời 9</option><option value="10">Đời 10</option><option value="11">Đời 11</option><option value="12">Đời 12</option><option value="13">Đời 13</option><option value="14">Đời 14</option><option value="15">Đời 15</option><option value="16">Đời 16</option><option value="17">Đời 17</option><option value="18">Đời 18</option></select></div>
 <p><span id="recordCount" class="badge"></span></p><div class="tableWrap"><table><thead><tr><th>Họ tên</th><th>Đời</th><th>Vai trò</th><th>Hộ</th><th>Chủ hộ</th><th>Thứ tự con</th><th>Sinh</th><th>Mất</th><th>An táng</th><th>Ghi chú</th><th>Mã cá nhân</th></tr></thead><tbody id="recordBody"></tbody></table></div></section>
-
 <section id="dupPage" class="page"><h2>Kiểm tra tên trùng</h2><p>Các tên dưới đây xuất hiện ở nhiều cá nhân trong cùng một đời. Database giữ tách riêng để tránh gộp nhầm.</p><div class="tableWrap"><table><thead><tr><th>Họ tên</th><th>Đời</th><th>Số cá nhân riêng</th></tr></thead><tbody id="dupBody"></tbody></table></div></section>
-
-<section id="introPage" class="page"><div class="intro">
-<h1>GIA PHỔ</h1>
-<div class="identity">Họ Lê Nhất<br>Phái Nhì<br>Chi Nhất<br>Hệ Nhất<br>Phòng Nhất<br>Đầu Nhất</div>
-<h2>Giới thiệu</h2>
-<p>Gia phổ được tu chỉnh nhằm hệ thống hóa nguồn gốc tổ tiên và các thế hệ hậu duệ, giúp con cháu nhận biết tôn thống và quan hệ huyết thống trong gia tộc. Tài liệu gốc cho biết việc tu chỉnh dựa trên nhiều bản gia phổ còn lưu giữ và tiếp tục bổ sung thông tin qua các đời.</p>
-<p>Phần lược sử ghi nguyên quán tại Lam Sơn, Xuân Lam, Thọ Xuân, Thanh Hóa và chánh quán tại làng Trà Trì, Hải Xuân, Hải Lăng, Quảng Trị. Platform này là bản số hóa phục vụ tra cứu; những trường hợp nguồn chưa đủ chắc chắn được giữ tách riêng thay vì tự động gộp.</p>
-<h2>Hướng dẫn sử dụng</h2>
-<p><b>Tìm người:</b> gõ hoặc chọn họ tên. Khi có người trùng tên, kết quả kèm đời, tên cha nếu đã xác định và mã cá nhân.</p>
-<p><b>Gia đình & dòng trực hệ:</b> xem người được chọn trong quan hệ với tuyến tổ tiên và những người thân gần. <b>Tổ tiên:</b> chỉ xem tuyến đi ngược về các đời trước. <b>Con cháu:</b> mở các thế hệ phía dưới, từ 1 đến 18 thế hệ.</p>
-<p><b>Danh sách:</b> tra cứu record nguồn theo tên, đời, ngày sinh, nơi an táng hoặc ghi chú. <b>Kiểm tra tên trùng:</b> cho biết những tên xuất hiện ở nhiều cá nhân trong cùng một đời.</p>
-</div></section>
-</main>
-<script src="data/data.js"></script><script src="app.js"></script></body></html>
+<section id="introPage" class="page"><div class="intro"><h1>GIA PHỔ</h1><div class="identity">Họ Lê Nhất<br>Phái Nhì<br>Chi Nhất<br>Hệ Nhất<br>Phòng Nhất<br>Đầu Nhất</div><h2>Giới thiệu</h2><p>Gia phổ được tu chỉnh nhằm hệ thống hóa nguồn gốc tổ tiên và các thế hệ hậu duệ, giúp con cháu nhận biết tôn thống và quan hệ huyết thống trong gia tộc. Tài liệu gốc cho biết việc tu chỉnh dựa trên nhiều bản gia phổ còn lưu giữ và tiếp tục bổ sung thông tin qua các đời.</p><p>Phần lược sử ghi nguyên quán tại Lam Sơn, Xuân Lam, Thọ Xuân, Thanh Hóa và chánh quán tại làng Trà Trì, Hải Xuân, Hải Lăng, Quảng Trị. Platform này là bản số hóa phục vụ tra cứu; những trường hợp nguồn chưa đủ chắc chắn được giữ tách riêng thay vì tự động gộp.</p><h2>Hướng dẫn sử dụng</h2><p><b>Tìm người:</b> gõ họ tên; có thể gõ không dấu. Danh sách kết quả hiện ngay bên dưới và kèm đời, tên cha nếu đã xác định và mã cá nhân để phân biệt người trùng tên.</p><p><b>Gia đình & dòng trực hệ:</b> xem người được chọn trong quan hệ với tuyến tổ tiên và những người thân gần. <b>Tổ tiên:</b> chỉ xem tuyến đi ngược về các đời trước. <b>Con cháu:</b> mở các thế hệ phía dưới, từ 1 đến 18 thế hệ.</p><p><b>Danh sách:</b> tra cứu record nguồn theo tên, đời, ngày sinh, nơi an táng hoặc ghi chú. <b>Kiểm tra tên trùng:</b> cho biết những tên xuất hiện ở nhiều cá nhân trong cùng một đời.</p></div></section>
+</main><script src="data/data.js"></script><script src="app.js"></script></body></html>
